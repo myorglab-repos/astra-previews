@@ -1,0 +1,24 @@
+{
+  "status": "PASS_WITH_STATED_LIMITATIONS",
+  "successor_sha256": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+  "method": "Direct image inspection with view_image; numeric saved-model audits and full video decoding are separate.",
+  "inspected": [
+    "media/product_1513.png",
+    "media/branches_0553.png",
+    "media/clearance_comparison.png",
+    "media/product_movie_samples.png",
+    "media/branches_movie_samples.png"
+  ],
+  "movie_sample_review": "Inspected 16 labeled samples per film, including guard/fill/hold/vent, hook transition, uppercut, diagonal and final guard. No obvious new detachment or framing clipping in inspected samples.",
+  "findings": [
+    "Full product remains in frame; rear orbit can occlude one arm, complemented by branch view.",
+    "Inherited palm/carrier/opponent and qualitative U/F/T labels remain readable at full frame.",
+    "Positive nominal cover gaps are narrow at whole-product scale; comparison plot and audited Z bounds provide the quantitative evidence.",
+    "N3 bow preserves visually continuous layered routing in inspected branch views."
+  ],
+  "limitations": [
+    "Not every decoded video frame was visually inspected.",
+    "No browser playback or interactive HTML layout validation.",
+    "Workbench renders omit textile textures and cannot qualify clearance, pressure, contact, retention or durability."
+  ]
+}

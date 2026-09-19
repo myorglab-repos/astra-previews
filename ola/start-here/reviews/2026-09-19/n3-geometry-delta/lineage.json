@@ -1,0 +1,665 @@
+{
+  "pass_id": "n2-delta-g03-g05",
+  "source": "reviews\\2026-09-19\\n2-track-a\\Punching_Bag_N2_Track_A.blend",
+  "source_sha256": "4331bae6efa3573e67425d10591fc5d09f34323ae588879ddb47c0f311c8e1af",
+  "baseline": "revision_n\\Punching_Bag_N1_Full_Product_Review.blend",
+  "baseline_sha256": "7a2da9e58991c822c981ecd677c902538389701ec1fe662ab878c2fd2f417e1b",
+  "successor": "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend",
+  "successor_sha256": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+  "blender_version": "3.6.5",
+  "bow_amplitude_mm": 8.0,
+  "nominal_band_edge_inset_mm": 5.0,
+  "changed_meshes": [
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1__BG-G1-COVER__sewn_outer_cover.004__ROTATING_SHOULDER_BAND",
+      "reason": "Rotating outer cover Z extent inset 5 mm at each edge; fixed covers and body unchanged"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__foam_and_contact_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__red_cover_seam_-1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_U__red_cover_seam_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__foam_and_contact_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__red_cover_seam_-1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_F__red_cover_seam_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L__continuous_retention_webbing",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_T1__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_L_T2__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__foam_and_contact_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__red_cover_seam_-1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_U__red_cover_seam_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__foam_and_contact_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__red_cover_seam_-1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_F__red_cover_seam_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R__continuous_retention_webbing",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_T1__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "100_N2_WHOLE_PRODUCT_80S",
+      "source": "M1_R_T2__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_U__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_F__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L__continuous_retention_webbing",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_T1__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_L_T2__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_U__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F1__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F1__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F1__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F2__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F2__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F2__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F3__sealed_flexible_bladder",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F3__programmed_knit_sleeve",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F3__integral_soft_pigtail",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F__proximal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F__distal_textile_saddle",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F__elastic_return_1",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_F__elastic_return_2",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R__continuous_retention_webbing",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_T1__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    },
+    {
+      "scene": "102_N2_AIRFLOW_AND_ELASTIC_RETURN",
+      "source": "M1_R_T2__integral_soft_feed",
+      "reason": "8 mm sinusoidal carrier-X bow, applied consistently to all U/F layers and routed feeds; endpoints anchored"
+    }
+  ],
+  "decision": "Geometry change, not an accepted allowance. Bow and gaps are unqualified nominal design parameters.",
+  "tradeoffs": [
+    "Section arc lengths and lateral envelope change; cross-section coordinates translated, not a solved pneumatic equilibrium.",
+    "Narrower outer band exposes an interface concept requiring independent textile edge retention, guarded overlap, tolerance and padding design under B-03. No new protective seal is claimed.",
+    "Existing inner volumes and structural hardware unchanged. No tooling or person-facing release."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "scope": "File integrity, duration, resolution and frame count; visual QA recorded separately",
+  "films": [
+    {
+      "path": "media\\product_review.mp4",
+      "sha256": "052c5737efda518a9d152db4932a499fd5ca99282a104dea5a36409adfcc4f2a",
+      "decoded_frames": 320,
+      "duration_s": 80.0,
+      "fps": 4.0,
+      "size": [
+        960,
+        720
+      ],
+      "decode_errors": ""
+    },
+    {
+      "path": "media\\branches_review.mp4",
+      "sha256": "775d99103c85df4cb6bd176a9eb84f5f2f415113e26138441155ddb221ce3bce",
+      "decoded_frames": 320,
+      "duration_s": 80.0,
+      "fps": 4.0,
+      "size": [
+        960,
+        720
+      ],
+      "decode_errors": ""
+    }
+  ]
+}

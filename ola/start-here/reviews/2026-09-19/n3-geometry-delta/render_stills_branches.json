@@ -1,0 +1,51 @@
+{
+  "source_sha256": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+  "engine": "Blender Workbench, material colors, studio lighting; no texture or physical material validation",
+  "artifacts": [
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 73,
+      "path": "media\\branches_0073.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 313,
+      "path": "media\\branches_0313.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 553,
+      "path": "media\\branches_0553.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 793,
+      "path": "media\\branches_0793.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 1033,
+      "path": "media\\branches_1033.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 1273,
+      "path": "media\\branches_1273.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 1513,
+      "path": "media\\branches_1513.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 1753,
+      "path": "media\\branches_1753.png"
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "frame": 537,
+      "path": "media\\branches_0537.png"
+    }
+  ]
+}

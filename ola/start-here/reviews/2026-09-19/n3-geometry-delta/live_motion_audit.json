@@ -1,0 +1,815 @@
+{
+  "scope": "Prescribed geometry only. Track A does not prove strike impulse.",
+  "blend_sha256": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+  "blender_version": "3.6.5",
+  "method": "Every integer and half frame from 1 through 1920 in both saved scenes; independent evaluated mesh ring centroids versus actual glove mesh origin.",
+  "numerical_registration_tolerance_mm": 0.01,
+  "limitations": [
+    "No minimum mesh-surface gap measurement",
+    "No continuous-time extremum proof",
+    "Orientation remains prescribed; torsion, retention and contact qualification OPEN"
+  ],
+  "scenes": [
+    {
+      "scene": "100_N3_WHOLE_PRODUCT_80S",
+      "sample_times": 3839,
+      "arms": 2,
+      "maxima": {
+        "core_to_glove": {
+          "mm": 0.0,
+          "frame": 1.0,
+          "side": "L"
+        },
+        "cuff_center_to_glove": {
+          "mm": 0.0004887944301026084,
+          "frame": 786.5,
+          "side": "R"
+        },
+        "rig_to_glove": {
+          "mm": 0.0,
+          "frame": 1.0,
+          "side": "L"
+        },
+        "cover_to_glove": {
+          "mm": 0.000477999893794818,
+          "frame": 1351.0,
+          "side": "R"
+        },
+        "half_frame_translation_step_carrier": {
+          "mm": 10.539137500193588,
+          "frame": 1492.0,
+          "side": "L"
+        }
+      },
+      "peaks": [
+        {
+          "frame": 73.0,
+          "strike": "L jab",
+          "palm_normal_carrier": [
+            0.04382723197340965,
+            -0.12360215187072754,
+            -0.991363525390625
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 313.0,
+          "strike": "R cross",
+          "palm_normal_carrier": [
+            -0.04382723569869995,
+            -0.12360215187072754,
+            -0.991363525390625
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 553.0,
+          "strike": "L hook",
+          "palm_normal_carrier": [
+            0.6589851379394531,
+            0.7410004138946533,
+            -0.12906181812286377
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 793.0,
+          "strike": "R hook",
+          "palm_normal_carrier": [
+            -0.6589851379394531,
+            0.7410004138946533,
+            -0.12906181812286377
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1033.0,
+          "strike": "L uppercut",
+          "palm_normal_carrier": [
+            -0.2255072295665741,
+            0.4993835389614105,
+            0.8365181088447571
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1273.0,
+          "strike": "R uppercut",
+          "palm_normal_carrier": [
+            0.2255072444677353,
+            0.4993835687637329,
+            0.8365181088447571
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1513.0,
+          "strike": "L high diagonal",
+          "palm_normal_carrier": [
+            0.08936939388513565,
+            -0.24604631960391998,
+            -0.9651291966438293
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1753.0,
+          "strike": "R low diagonal",
+          "palm_normal_carrier": [
+            0.04473204165697098,
+            0.12456628680229187,
+            -0.9912024140357971
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        }
+      ],
+      "registration_pass": true,
+      "palm_pass": true,
+      "loop_closure_carrier_mm": {
+        "L": 0.0,
+        "R": 0.0
+      },
+      "boundary_probe": {
+        "interval_frames": 0.002,
+        "max_translation_mm": 0.03271938056534336,
+        "worst": {
+          "frame": 1505,
+          "side": "L"
+        },
+        "interpretation": "Finite probe, not an acceleration or pneumatic-speed qualification"
+      },
+      "chamber_inventory": [
+        {
+          "chamber": "L-U1",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_U1"
+        },
+        {
+          "chamber": "L-U2",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_U2"
+        },
+        {
+          "chamber": "L-U3",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_U3"
+        },
+        {
+          "chamber": "L-F1",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_F1"
+        },
+        {
+          "chamber": "L-F2",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_F2"
+        },
+        {
+          "chamber": "L-F3",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_F3"
+        },
+        {
+          "chamber": "L-T1",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_T1"
+        },
+        {
+          "chamber": "L-T2",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_L_T2"
+        },
+        {
+          "chamber": "R-U1",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_U1"
+        },
+        {
+          "chamber": "R-U2",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_U2"
+        },
+        {
+          "chamber": "R-U3",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_U3"
+        },
+        {
+          "chamber": "R-F1",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_F1"
+        },
+        {
+          "chamber": "R-F2",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_F2"
+        },
+        {
+          "chamber": "R-F3",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_F3"
+        },
+        {
+          "chamber": "R-T1",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_T1"
+        },
+        {
+          "chamber": "R-T2",
+          "material": "N2_100_N1_WHOLE_PRODUCT_80S_R_T2"
+        }
+      ],
+      "example_hook_cue_colors_frame_553": {
+        "L-U1": [
+          0.029759999364614487,
+          0.3224000036716461,
+          0.4662399888038635,
+          1.0
+        ],
+        "L-U2": [
+          0.05999999865889549,
+          0.6499999761581421,
+          0.9399999976158142,
+          1.0
+        ],
+        "L-U3": [
+          0.03984000161290169,
+          0.43160000443458557,
+          0.6241599917411804,
+          1.0
+        ],
+        "L-F1": [
+          0.10000000149011612,
+          0.8700000047683716,
+          0.41999998688697815,
+          1.0
+        ],
+        "L-F2": [
+          0.041200000792741776,
+          0.35844001173973083,
+          0.1730400025844574,
+          1.0
+        ],
+        "L-F3": [
+          0.062199998646974564,
+          0.5411400198936462,
+          0.26124000549316406,
+          1.0
+        ],
+        "L-T1": [
+          0.3872799873352051,
+          0.09064000099897385,
+          0.27191999554634094,
+          1.0
+        ],
+        "L-T2": [
+          0.9399999976158142,
+          0.2199999988079071,
+          0.6600000262260437,
+          1.0
+        ],
+        "R-U1": [
+          0.009600000455975533,
+          0.10400000214576721,
+          0.15039999783039093,
+          1.0
+        ],
+        "R-U2": [
+          0.009600000455975533,
+          0.10400000214576721,
+          0.15039999783039093,
+          1.0
+        ],
+        "R-U3": [
+          0.009600000455975533,
+          0.10400000214576721,
+          0.15039999783039093,
+          1.0
+        ],
+        "R-F1": [
+          0.01600000075995922,
+          0.13920000195503235,
+          0.06719999760389328,
+          1.0
+        ],
+        "R-F2": [
+          0.01600000075995922,
+          0.13920000195503235,
+          0.06719999760389328,
+          1.0
+        ],
+        "R-F3": [
+          0.01600000075995922,
+          0.13920000195503235,
+          0.06719999760389328,
+          1.0
+        ],
+        "R-T1": [
+          0.15039999783039093,
+          0.03519999980926514,
+          0.10559999942779541,
+          1.0
+        ],
+        "R-T2": [
+          0.15039999783039093,
+          0.03519999980926514,
+          0.10559999942779541,
+          1.0
+        ]
+      },
+      "visible_hybrid_text": [],
+      "annotations": [
+        "N2_L_PALM_NORMAL",
+        "N2_R_PALM_NORMAL",
+        "N2_CARRIER_X",
+        "N2_CARRIER_Y",
+        "N2_CARRIER_Z",
+        "N2_PRESCRIBED_OPPONENT_MINUS_Y",
+        "N2_WARNING",
+        "N2_FRAME_LEGEND",
+        "N2_STRIKE_0",
+        "N2_STRIKE_1",
+        "N2_STRIKE_2",
+        "N2_STRIKE_3",
+        "N2_STRIKE_4",
+        "N2_STRIKE_5",
+        "N2_STRIKE_6",
+        "N2_STRIKE_7",
+        "N2_BRANCH_LEGEND",
+        "N2_SIDE_L",
+        "N2_CHANNEL_LU1",
+        "N2_EMPHASIS_LU1",
+        "N2_CHANNEL_LU2",
+        "N2_EMPHASIS_LU2",
+        "N2_CHANNEL_LU3",
+        "N2_EMPHASIS_LU3",
+        "N2_CHANNEL_LF1",
+        "N2_EMPHASIS_LF1",
+        "N2_CHANNEL_LF2",
+        "N2_EMPHASIS_LF2",
+        "N2_CHANNEL_LF3",
+        "N2_EMPHASIS_LF3",
+        "N2_CHANNEL_LT1",
+        "N2_EMPHASIS_LT1",
+        "N2_CHANNEL_LT2",
+        "N2_EMPHASIS_LT2",
+        "N2_PHASE_L_0_1",
+        "N2_PHASE_L_0_49",
+        "N2_PHASE_L_0_73",
+        "N2_PHASE_L_0_86",
+        "N2_PHASE_L_0_173",
+        "N2_PHASE_L_1_1",
+        "N2_PHASE_L_2_1",
+        "N2_PHASE_L_2_49",
+        "N2_PHASE_L_2_73",
+        "N2_PHASE_L_2_86",
+        "N2_PHASE_L_2_173",
+        "N2_PHASE_L_3_1",
+        "N2_PHASE_L_4_1",
+        "N2_PHASE_L_4_49",
+        "N2_PHASE_L_4_73",
+        "N2_PHASE_L_4_86",
+        "N2_PHASE_L_4_173",
+        "N2_PHASE_L_5_1",
+        "N2_PHASE_L_6_1",
+        "N2_PHASE_L_6_49",
+        "N2_PHASE_L_6_73",
+        "N2_PHASE_L_6_86",
+        "N2_PHASE_L_6_173",
+        "N2_PHASE_L_7_1",
+        "N2_SIDE_R",
+        "N2_CHANNEL_RU1",
+        "N2_EMPHASIS_RU1",
+        "N2_CHANNEL_RU2",
+        "N2_EMPHASIS_RU2",
+        "N2_CHANNEL_RU3",
+        "N2_EMPHASIS_RU3",
+        "N2_CHANNEL_RF1",
+        "N2_EMPHASIS_RF1",
+        "N2_CHANNEL_RF2",
+        "N2_EMPHASIS_RF2",
+        "N2_CHANNEL_RF3",
+        "N2_EMPHASIS_RF3",
+        "N2_CHANNEL_RT1",
+        "N2_EMPHASIS_RT1",
+        "N2_CHANNEL_RT2",
+        "N2_EMPHASIS_RT2",
+        "N2_PHASE_R_0_1",
+        "N2_PHASE_R_1_1",
+        "N2_PHASE_R_1_49",
+        "N2_PHASE_R_1_73",
+        "N2_PHASE_R_1_86",
+        "N2_PHASE_R_1_173",
+        "N2_PHASE_R_2_1",
+        "N2_PHASE_R_3_1",
+        "N2_PHASE_R_3_49",
+        "N2_PHASE_R_3_73",
+        "N2_PHASE_R_3_86",
+        "N2_PHASE_R_3_173",
+        "N2_PHASE_R_4_1",
+        "N2_PHASE_R_5_1",
+        "N2_PHASE_R_5_49",
+        "N2_PHASE_R_5_73",
+        "N2_PHASE_R_5_86",
+        "N2_PHASE_R_5_173",
+        "N2_PHASE_R_6_1",
+        "N2_PHASE_R_7_1",
+        "N2_PHASE_R_7_49",
+        "N2_PHASE_R_7_73",
+        "N2_PHASE_R_7_86",
+        "N2_PHASE_R_7_173"
+      ]
+    },
+    {
+      "scene": "102_N3_AIRFLOW_AND_ELASTIC_RETURN",
+      "sample_times": 3839,
+      "arms": 2,
+      "maxima": {
+        "core_to_glove": {
+          "mm": 0.0,
+          "frame": 1.0,
+          "side": "L"
+        },
+        "cuff_center_to_glove": {
+          "mm": 0.0004887944301026084,
+          "frame": 786.5,
+          "side": "R"
+        },
+        "rig_to_glove": {
+          "mm": 0.0,
+          "frame": 1.0,
+          "side": "L"
+        },
+        "half_frame_translation_step_carrier": {
+          "mm": 10.539117479298024,
+          "frame": 1492.0,
+          "side": "L"
+        }
+      },
+      "peaks": [
+        {
+          "frame": 73.0,
+          "strike": "L jab",
+          "palm_normal_carrier": [
+            0.043827228248119354,
+            -0.12360214442014694,
+            -0.991363525390625
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 313.0,
+          "strike": "R cross",
+          "palm_normal_carrier": [
+            -0.043827228248119354,
+            -0.12360214442014694,
+            -0.991363525390625
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 553.0,
+          "strike": "L hook",
+          "palm_normal_carrier": [
+            0.6589851379394531,
+            0.7410004138946533,
+            -0.12906181812286377
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 793.0,
+          "strike": "R hook",
+          "palm_normal_carrier": [
+            -0.6589851379394531,
+            0.7410004138946533,
+            -0.12906181812286377
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1033.0,
+          "strike": "L uppercut",
+          "palm_normal_carrier": [
+            -0.2255072295665741,
+            0.4993835389614105,
+            0.8365181088447571
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1273.0,
+          "strike": "R uppercut",
+          "palm_normal_carrier": [
+            0.2255072295665741,
+            0.4993835389614105,
+            0.8365181088447571
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1513.0,
+          "strike": "L high diagonal",
+          "palm_normal_carrier": [
+            0.08936940133571625,
+            -0.24604631960391998,
+            -0.9651291966438293
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        },
+        {
+          "frame": 1753.0,
+          "strike": "R low diagonal",
+          "palm_normal_carrier": [
+            0.04473204165697098,
+            0.12456628680229187,
+            -0.9912024140357971
+          ],
+          "palm_hemisphere_pass": true,
+          "core_to_glove_mm": 0.0
+        }
+      ],
+      "registration_pass": true,
+      "palm_pass": true,
+      "loop_closure_carrier_mm": {
+        "L": 0.0,
+        "R": 0.0
+      },
+      "boundary_probe": {
+        "interval_frames": 0.002,
+        "max_translation_mm": 0.03224623677006026,
+        "worst": {
+          "frame": 1505,
+          "side": "L"
+        },
+        "interpretation": "Finite probe, not an acceleration or pneumatic-speed qualification"
+      },
+      "chamber_inventory": [
+        {
+          "chamber": "L-U1",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_U1"
+        },
+        {
+          "chamber": "L-U2",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_U2"
+        },
+        {
+          "chamber": "L-U3",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_U3"
+        },
+        {
+          "chamber": "L-F1",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_F1"
+        },
+        {
+          "chamber": "L-F2",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_F2"
+        },
+        {
+          "chamber": "L-F3",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_F3"
+        },
+        {
+          "chamber": "L-T1",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_T1"
+        },
+        {
+          "chamber": "L-T2",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_L_T2"
+        },
+        {
+          "chamber": "R-U1",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_U1"
+        },
+        {
+          "chamber": "R-U2",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_U2"
+        },
+        {
+          "chamber": "R-U3",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_U3"
+        },
+        {
+          "chamber": "R-F1",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_F1"
+        },
+        {
+          "chamber": "R-F2",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_F2"
+        },
+        {
+          "chamber": "R-F3",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_F3"
+        },
+        {
+          "chamber": "R-T1",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_T1"
+        },
+        {
+          "chamber": "R-T2",
+          "material": "N2_102_N1_AIRFLOW_AND_ELASTIC_RETURN_R_T2"
+        }
+      ],
+      "example_hook_cue_colors_frame_553": {
+        "L-U1": [
+          0.029759999364614487,
+          0.3224000036716461,
+          0.4662399888038635,
+          1.0
+        ],
+        "L-U2": [
+          0.05999999865889549,
+          0.6499999761581421,
+          0.9399999976158142,
+          1.0
+        ],
+        "L-U3": [
+          0.03984000161290169,
+          0.43160000443458557,
+          0.6241599917411804,
+          1.0
+        ],
+        "L-F1": [
+          0.10000000149011612,
+          0.8700000047683716,
+          0.41999998688697815,
+          1.0
+        ],
+        "L-F2": [
+          0.041200000792741776,
+          0.35844001173973083,
+          0.1730400025844574,
+          1.0
+        ],
+        "L-F3": [
+          0.062199998646974564,
+          0.5411400198936462,
+          0.26124000549316406,
+          1.0
+        ],
+        "L-T1": [
+          0.3872799873352051,
+          0.09064000099897385,
+          0.27191999554634094,
+          1.0
+        ],
+        "L-T2": [
+          0.9399999976158142,
+          0.2199999988079071,
+          0.6600000262260437,
+          1.0
+        ],
+        "R-U1": [
+          0.009600000455975533,
+          0.10400000214576721,
+          0.15039999783039093,
+          1.0
+        ],
+        "R-U2": [
+          0.009600000455975533,
+          0.10400000214576721,
+          0.15039999783039093,
+          1.0
+        ],
+        "R-U3": [
+          0.009600000455975533,
+          0.10400000214576721,
+          0.15039999783039093,
+          1.0
+        ],
+        "R-F1": [
+          0.01600000075995922,
+          0.13920000195503235,
+          0.06719999760389328,
+          1.0
+        ],
+        "R-F2": [
+          0.01600000075995922,
+          0.13920000195503235,
+          0.06719999760389328,
+          1.0
+        ],
+        "R-F3": [
+          0.01600000075995922,
+          0.13920000195503235,
+          0.06719999760389328,
+          1.0
+        ],
+        "R-T1": [
+          0.15039999783039093,
+          0.03519999980926514,
+          0.10559999942779541,
+          1.0
+        ],
+        "R-T2": [
+          0.15039999783039093,
+          0.03519999980926514,
+          0.10559999942779541,
+          1.0
+        ]
+      },
+      "visible_hybrid_text": [],
+      "annotations": [
+        "N2_L_PALM_NORMAL.001",
+        "N2_R_PALM_NORMAL.001",
+        "N2_CARRIER_X.001",
+        "N2_CARRIER_Y.001",
+        "N2_CARRIER_Z.001",
+        "N2_PRESCRIBED_OPPONENT_MINUS_Y.001",
+        "N2_WARNING.001",
+        "N2_FRAME_LEGEND.001",
+        "N2_STRIKE_0.001",
+        "N2_STRIKE_1.001",
+        "N2_STRIKE_2.001",
+        "N2_STRIKE_3.001",
+        "N2_STRIKE_4.001",
+        "N2_STRIKE_5.001",
+        "N2_STRIKE_6.001",
+        "N2_STRIKE_7.001",
+        "N2_BRANCH_LEGEND.001",
+        "N2_SIDE_L.001",
+        "N2_CHANNEL_LU1.001",
+        "N2_EMPHASIS_LU1.001",
+        "N2_CHANNEL_LU2.001",
+        "N2_EMPHASIS_LU2.001",
+        "N2_CHANNEL_LU3.001",
+        "N2_EMPHASIS_LU3.001",
+        "N2_CHANNEL_LF1.001",
+        "N2_EMPHASIS_LF1.001",
+        "N2_CHANNEL_LF2.001",
+        "N2_EMPHASIS_LF2.001",
+        "N2_CHANNEL_LF3.001",
+        "N2_EMPHASIS_LF3.001",
+        "N2_CHANNEL_LT1.001",
+        "N2_EMPHASIS_LT1.001",
+        "N2_CHANNEL_LT2.001",
+        "N2_EMPHASIS_LT2.001",
+        "N2_PHASE_L_0_1.001",
+        "N2_PHASE_L_0_49.001",
+        "N2_PHASE_L_0_73.001",
+        "N2_PHASE_L_0_86.001",
+        "N2_PHASE_L_0_173.001",
+        "N2_PHASE_L_1_1.001",
+        "N2_PHASE_L_2_1.001",
+        "N2_PHASE_L_2_49.001",
+        "N2_PHASE_L_2_73.001",
+        "N2_PHASE_L_2_86.001",
+        "N2_PHASE_L_2_173.001",
+        "N2_PHASE_L_3_1.001",
+        "N2_PHASE_L_4_1.001",
+        "N2_PHASE_L_4_49.001",
+        "N2_PHASE_L_4_73.001",
+        "N2_PHASE_L_4_86.001",
+        "N2_PHASE_L_4_173.001",
+        "N2_PHASE_L_5_1.001",
+        "N2_PHASE_L_6_1.001",
+        "N2_PHASE_L_6_49.001",
+        "N2_PHASE_L_6_73.001",
+        "N2_PHASE_L_6_86.001",
+        "N2_PHASE_L_6_173.001",
+        "N2_PHASE_L_7_1.001",
+        "N2_SIDE_R.001",
+        "N2_CHANNEL_RU1.001",
+        "N2_EMPHASIS_RU1.001",
+        "N2_CHANNEL_RU2.001",
+        "N2_EMPHASIS_RU2.001",
+        "N2_CHANNEL_RU3.001",
+        "N2_EMPHASIS_RU3.001",
+        "N2_CHANNEL_RF1.001",
+        "N2_EMPHASIS_RF1.001",
+        "N2_CHANNEL_RF2.001",
+        "N2_EMPHASIS_RF2.001",
+        "N2_CHANNEL_RF3.001",
+        "N2_EMPHASIS_RF3.001",
+        "N2_CHANNEL_RT1.001",
+        "N2_EMPHASIS_RT1.001",
+        "N2_CHANNEL_RT2.001",
+        "N2_EMPHASIS_RT2.001",
+        "N2_PHASE_R_0_1.001",
+        "N2_PHASE_R_1_1.001",
+        "N2_PHASE_R_1_49.001",
+        "N2_PHASE_R_1_73.001",
+        "N2_PHASE_R_1_86.001",
+        "N2_PHASE_R_1_173.001",
+        "N2_PHASE_R_2_1.001",
+        "N2_PHASE_R_3_1.001",
+        "N2_PHASE_R_3_49.001",
+        "N2_PHASE_R_3_73.001",
+        "N2_PHASE_R_3_86.001",
+        "N2_PHASE_R_3_173.001",
+        "N2_PHASE_R_4_1.001",
+        "N2_PHASE_R_5_1.001",
+        "N2_PHASE_R_5_49.001",
+        "N2_PHASE_R_5_73.001",
+        "N2_PHASE_R_5_86.001",
+        "N2_PHASE_R_5_173.001",
+        "N2_PHASE_R_6_1.001",
+        "N2_PHASE_R_7_1.001",
+        "N2_PHASE_R_7_49.001",
+        "N2_PHASE_R_7_73.001",
+        "N2_PHASE_R_7_86.001",
+        "N2_PHASE_R_7_173.001"
+      ]
+    }
+  ]
+}
