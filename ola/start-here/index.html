@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Soft pneumatic boxing trainer · Feasibility baseline N3 · 19 Sep 2026</title>
+<title>Soft pneumatic boxing trainer &middot; Feasibility front door &middot; 19 Sep 2026</title>
 <style>
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -35,12 +35,14 @@ th{background:#e3e6de}
 .closed{background:#dce9dc;color:#1f5a2a}
 .open{background:#f4dfc1;color:#694612}
 .crit{background:#f3d0cd;color:#7a1f24}
+.accept{background:#d5e4f5;color:#1a3f66}
 figure{margin:18px 0}
 img,video{display:block;width:100%;height:auto;border-radius:5px;background:#353535}
 video{aspect-ratio:4/3}
 figcaption,.small{font-size:13px;color:#5a625b;margin:8px 0}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
 .grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
 .playtools{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin:12px 0;font-size:13px}
 button,select{font:inherit;border:1px solid #b8c1b6;border-radius:3px;padding:7px 11px;background:#fff;color:#262b25;cursor:pointer}
 button:hover,button:focus{border-color:#a3363e;background:#f9e9e7}
@@ -48,316 +50,257 @@ ul.files{columns:2;gap:28px;padding-left:18px}
 ul.files li{break-inside:avoid;margin:6px 0}
 footer{padding:28px 0 48px;color:#667061;font-size:13px}
 code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
-@media(max-width:1000px){.layout{grid-template-columns:1fr}aside{position:static;display:grid;grid-template-columns:1fr 1fr;gap:0 16px}.grid3{grid-template-columns:1fr 1fr}}
-@media(max-width:650px){.grid,.grid3,ul.files{grid-template-columns:1fr;columns:1}.layout{padding:18px 14px}header{padding:24px 16px}h2{font-size:24px}}
+@media(max-width:1000px){.layout{grid-template-columns:1fr}aside{position:static;display:grid;grid-template-columns:1fr 1fr;gap:0 16px}.grid3,.grid4{grid-template-columns:1fr 1fr}}
+@media(max-width:650px){.grid,.grid3,.grid4,ul.files{grid-template-columns:1fr;columns:1}.layout{padding:18px 14px}header{padding:24px 16px}h2{font-size:24px}}
 @media print{aside,video,.playtools{display:none}.layout{display:block}header{background:#fff;color:#000;border-bottom:2px solid #a63035}}
+
 </style>
 </head>
 <body>
 <header>
-  <div class="eyebrow">Soft pneumatic boxing trainer &middot; System of Record</div>
-  <h1>Feasibility baseline N3</h1>
-  <p>Track A geometry delta review landing page &mdash; decision-oriented, not the full N1 product dossier. Date: <strong>19 Sep 2026</strong>.</p>
+  <div class="eyebrow">Soft pneumatic boxing trainer &middot; Feasibility front door</div>
+  <h1>Everyday review home</h1>
+  <p>Sole everyday front door for Michael. Current baseline = <strong>n3-standoff-pitch-policy</strong> (reach / height / body + Option A) + <strong>n3-airflow-bladder-bend-B2</strong> (AF-01 pedagogy). Date: <strong>19 Sep 2026</strong>.</p>
   <div class="toplinks">
-    <a href="reviews/2026-09-19/n3-geometry-delta/INDEX.html">N3 packet INDEX</a>
-    <a href="reviews/2026-09-19/n3-geometry-delta/EXECUTIVE_REVIEW.html">Executive review</a>
-    <a href="reviews/2026-09-19/n3-geometry-delta/DEFECT_REGISTER.html">Defect register</a>
+    <a href="reviews/2026-09-19/n3-standoff-pitch-policy/INDEX.html">Standoff INDEX</a>
+    <a href="reviews/2026-09-19/n3-standoff-pitch-policy/REACH_POLICY.html">REACH_POLICY</a>
+    <a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/INDEX.html">Airflow B2 INDEX</a>
+    <a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/AIRFLOW_PEDAGOGY.html">AIRFLOW_PEDAGOGY</a>
     <a href="START_HERE_N1_PRODUCT_DOSSIER.html">N1 dossier archive</a>
-    <a href="revision_n/START_HERE.html">revision_n archive</a>
   </div>
 </header>
 
 <div class="layout">
 <aside>
-  <a href="#status"><span>01</span> Status now</a>
-  <a href="#architecture"><span>02</span> Architecture freeze</a>
-  <a href="#visual"><span>03</span> Visual review</a>
-  <a href="#geometry"><span>04</span> Geometry delta</a>
-  <a href="#workstreams"><span>05</span> Workstreams</a>
-  <a href="#open"><span>06</span> Open Critical/High</a>
-  <a href="#glossary"><span>07</span> Glossary</a>
-  <a href="#files"><span>08</span> Files &amp; packets</a>
+  <a href="#notice"><span>01</span> Notice</a>
+  <a href="#architecture"><span>02</span> Architecture</a>
+  <a href="#baseline"><span>03</span> Current baseline</a>
+  <a href="#visual"><span>04</span> Visual review</a>
+  <a href="#status"><span>05</span> Status table</a>
+  <a href="#glossary"><span>06</span> Glossary</a>
+  <a href="#links"><span>07</span> Deep links</a>
+  <a href="#history"><span>08</span> History</a>
   <a href="#howto"><span>09</span> How to open</a>
 </aside>
 
 <main>
 
-<div class="notice critical">
-  <strong>Track A &ne; strike impulse</strong>
-  This page reports digital-twin / visualization V&amp;V only. No invented force, pressure, impulse, joule, MPa, or cycle-life numbers. Prescribed motion is not measured propulsion or contact qualification.
-</div>
-<div class="notice">
-  <strong>Architecture freeze (do not quietly reopen)</strong>
-  Soft continuum distal arms with <strong>8 chambers</strong> per arm (U1&ndash;U3, F1&ndash;F3, T1&ndash;T2); textile/fiber strain limiting; vent + elastic textile return; soft torsion wrist; <strong>no distal exposed metal</strong>; stationary bag (~200 lb fill TARGET); rotating shoulder carrier about the mast only.
-</div>
-
-<section id="status">
-  <h2>01 &mdash; Status now</h2>
-  <p class="small">N3 = n2-delta-g03-g05. Ola disposition: accept limited CLOSED-A for G-03/G-05 sampled proxies; physical clearance and retention remain OPEN. NEXT_PROMPT stays <code>awaiting_michael</code>.</p>
-  <div class="tablewrap">
-  <table>
-    <thead><tr><th>Pass</th><th>What changed</th><th>Key defect statuses</th></tr></thead>
-    <tbody>
-      <tr>
-        <td><strong>N1</strong></td>
-        <td>Full-product soft-continuum freeze twin; films/stills; baseline hash preserved.</td>
-        <td>G-03 / G-05 FAIL on proxy; A-05 drift; C-01 / B-06 Critical OPEN.</td>
-      </tr>
-      <tr>
-        <td><strong>N2</strong></td>
-        <td>Track A glove registration, U/F/T cues, palm/carrier frames; hybrid labels cleaned.</td>
-        <td>A-05 <span class="status closed">CLOSED-A</span>; A-03 depiction addressed; G-03 still FAIL (&minus;2.00 mm); G-05 still 0 mm.</td>
-      </tr>
-      <tr>
-        <td><strong>N3</strong></td>
-        <td>Geometry delta only: 8 mm U/F lateral bow + 5 mm rotating-cover edge insets. Motion/cue semantics inherited.</td>
-        <td>
-          G-03 <span class="status closed">CLOSED-A</span> (+3.95 mm proxy)&middot;
-          G-05 <span class="status closed">CLOSED-A</span> (~5 mm)&middot;
-          A-05 <span class="status closed">CLOSED-A</span>&middot;
-          B-03 / C-01 / B-06 <span class="status open">OPEN</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<section id="notice">
+  <h2>01 &mdash; Notice</h2>
+  <div class="notice critical">
+    <strong>Track A &ne; strike impulse</strong>
+    This page is digital-twin / visualization V&amp;V only. No invented force, pressure, impulse, joule, MPa, or cycle-life numbers. Prescribed motion and illustrative air cues are not measured propulsion or contact qualification.
   </div>
 </section>
 
 <section id="architecture">
   <h2>02 &mdash; Architecture freeze</h2>
-  <p>Soft air-pneumatic continuum distal arms. Main filled bag and mast stay stationary; only the shoulder carrier rotates. Isolation, sealing, and physical chamber independence are unverified.</p>
+  <div class="notice">
+    <strong>Do not quietly reopen</strong>
+    Soft continuum distal arms with <strong>8 chambers</strong> per arm (U1&ndash;U3, F1&ndash;F3, T1&ndash;T2); textile/fiber strain limiting; vent + elastic textile return; soft torsion wrist; <strong>no distal exposed metal</strong>; stationary bag (~200 lb fill TARGET); rotating shoulder carrier about the mast only. No arm lengthening in the current baseline.
+  </div>
+  <p class="small">U/F/T colors and bar emphasis are uncalibrated pedagogy &mdash; not pressure, strain, flow, duty cycle, or valve commands.</p>
+</section>
+
+<section id="baseline">
+  <h2>03 &mdash; Current baseline</h2>
+  <p>Two packets, one home. Older day packets stay linked under History; they are not competing front doors.</p>
   <div class="tablewrap">
   <table>
-    <thead><tr><th>Group</th><th>Chambers</th><th>Role (qualitative)</th><th>Display cue</th></tr></thead>
+    <thead><tr><th>Packet</th><th>What it is</th><th>Role on this page</th></tr></thead>
     <tbody>
-      <tr><td><strong>U</strong></td><td>U1, U2, U3</td><td>Upper-section bend branches</td><td>Cyan-blue</td></tr>
-      <tr><td><strong>F</strong></td><td>F1, F2, F3</td><td>Forearm bend branches</td><td>Green</td></tr>
-      <tr><td><strong>T</strong></td><td>T1, T2</td><td>Opposed soft torsion (wrist)</td><td>Magenta</td></tr>
+      <tr>
+        <td><strong>n3-standoff-pitch-policy</strong></td>
+        <td>Reach / height / body atlas with Option A strike-dependent stand-off and coupled partial pitch.</td>
+        <td>Policy film <code>atlas_review.mp4</code>; RH-01 disposition.</td>
+      </tr>
+      <tr>
+        <td><strong>n3-airflow-bladder-bend-B2</strong></td>
+        <td>AF-01 pedagogy successor: visible swelling with prescribed bend; paired guard/peak stills.</td>
+        <td>Airflow film <code>airflow_review.mp4</code>; AF-01 CLOSED-A presentation with AF-01b residual.</td>
+      </tr>
     </tbody>
   </table>
   </div>
-  <p class="small">U/F/T colors and bar emphasis are <strong>uncalibrated pedagogy</strong> &mdash; not pressure, strain, flow, duty cycle, or valve commands. Mesh motion remains independently prescribed.</p>
 </section>
 
 <section id="visual">
-  <h2>03 &mdash; Visual review</h2>
-  <p>N3 films are prescribed SE(3) trajectories at 80 s / 4 fps. Use speed controls if the browser allows; otherwise native video controls work.</p>
+  <h2>04 &mdash; Visual review</h2>
+  <p>Use speed controls when the browser allows; native video controls always work. Films are prescribed SE(3) / illustrative cues &mdash; not measured force.</p>
 
-  <h3>Product review</h3>
+  <h3>Reach / stand-off / pitch (Option A)</h3>
   <div class="playtools">
     <label>Speed
-      <select data-speed="vidProduct" aria-label="Product film speed">
+      <select data-speed="vidAtlas" aria-label="Atlas film speed">
         <option value="0.5">0.5&times;</option>
         <option value="1" selected>1&times;</option>
         <option value="1.5">1.5&times;</option>
         <option value="2">2&times;</option>
       </select>
     </label>
-    <button type="button" data-play="vidProduct">Play / pause</button>
-    <span id="vidProductStatus" class="small">product_review.mp4</span>
+    <button type="button" data-play="vidAtlas">Play / pause</button>
+    <span id="vidAtlasStatus" class="small">atlas_review.mp4</span>
   </div>
   <figure>
-    <video id="vidProduct" controls playsinline preload="metadata" poster="reviews/2026-09-19/n3-geometry-delta/media/product_0553.png" src="reviews/2026-09-19/n3-geometry-delta/media/product_review.mp4"></video>
-    <figcaption>Whole-product orbit &mdash; prescribed motion, not measured force.</figcaption>
+    <video id="vidAtlas" controls playsinline preload="metadata" src="reviews/2026-09-19/n3-standoff-pitch-policy/media/atlas_review.mp4"></video>
+    <figcaption>n3-standoff-pitch-policy &mdash; reach / height / body atlas under Option A boxes. Prescribed motion, not measured loaded reach.</figcaption>
   </figure>
 
-  <h3>Branches / U-F-T cues</h3>
+  <h3>Airflow pedagogy (B2)</h3>
   <div class="playtools">
     <label>Speed
-      <select data-speed="vidBranches" aria-label="Branches film speed">
+      <select data-speed="vidAir" aria-label="Airflow film speed">
         <option value="0.5">0.5&times;</option>
         <option value="1" selected>1&times;</option>
         <option value="1.5">1.5&times;</option>
         <option value="2">2&times;</option>
       </select>
     </label>
-    <button type="button" data-play="vidBranches">Play / pause</button>
-    <span id="vidBranchesStatus" class="small">branches_review.mp4</span>
+    <button type="button" data-play="vidAir">Play / pause</button>
+    <span id="vidAirStatus" class="small">airflow_review.mp4</span>
   </div>
   <figure>
-    <video id="vidBranches" controls playsinline preload="metadata" poster="reviews/2026-09-19/n3-geometry-delta/media/branches_0553.png" src="reviews/2026-09-19/n3-geometry-delta/media/branches_review.mp4"></video>
-    <figcaption>Internal layers and qualitative U/F/T cues &mdash; uncalibrated.</figcaption>
+    <video id="vidAir" controls playsinline preload="metadata" src="reviews/2026-09-19/n3-airflow-bladder-bend-B2/media/airflow_review.mp4"></video>
+    <figcaption>n3-airflow-bladder-bend-B2 &mdash; illustrative chamber swell with prescribed bend. Uncalibrated; not P-V or System ID.</figcaption>
   </figure>
 
-  <h3>Clearance comparison &amp; key stills</h3>
-  <div class="grid">
+  <h3>Optional B2 guard / peak stills</h3>
+  <div class="grid4">
     <figure>
-      <img alt="N2 versus N3 clearance proxy and band bounds" src="reviews/2026-09-19/n3-geometry-delta/media/clearance_comparison.png" loading="lazy">
-      <figcaption>N2 vs N3 clearance proxy and cover Z bounds.</figcaption>
+      <img alt="Guard peak straight" src="reviews/2026-09-19/n3-airflow-bladder-bend-B2/media/guard_peak_straight.png" loading="lazy">
+      <figcaption>guard_peak_straight</figcaption>
     </figure>
     <figure>
-      <img alt="Product still product_0553" src="reviews/2026-09-19/n3-geometry-delta/media/product_0553.png" loading="lazy">
-      <figcaption>Product still (frame family 0553).</figcaption>
+      <img alt="Guard peak hook" src="reviews/2026-09-19/n3-airflow-bladder-bend-B2/media/guard_peak_hook.png" loading="lazy">
+      <figcaption>guard_peak_hook</figcaption>
     </figure>
     <figure>
-      <img alt="Branches still branches_0553" src="reviews/2026-09-19/n3-geometry-delta/media/branches_0553.png" loading="lazy">
-      <figcaption>Branches still (frame family 0553).</figcaption>
+      <img alt="Guard peak uppercut" src="reviews/2026-09-19/n3-airflow-bladder-bend-B2/media/guard_peak_uppercut.png" loading="lazy">
+      <figcaption>guard_peak_uppercut</figcaption>
     </figure>
     <figure>
-      <img alt="Product movie sample sheet" src="reviews/2026-09-19/n3-geometry-delta/media/product_movie_samples.png" loading="lazy">
-      <figcaption>Product film sample sheet.</figcaption>
-    </figure>
-  </div>
-  <div class="grid3">
-    <figure>
-      <img alt="Product still 1513" src="reviews/2026-09-19/n3-geometry-delta/media/product_1513.png" loading="lazy">
-      <figcaption>product_1513.png</figcaption>
-    </figure>
-    <figure>
-      <img alt="Branches movie samples" src="reviews/2026-09-19/n3-geometry-delta/media/branches_movie_samples.png" loading="lazy">
-      <figcaption>branches_movie_samples.png</figcaption>
-    </figure>
-    <figure>
-      <img alt="Branches still 1513" src="reviews/2026-09-19/n3-geometry-delta/media/branches_1513.png" loading="lazy">
-      <figcaption>branches_1513.png</figcaption>
+      <img alt="Guard peak body" src="reviews/2026-09-19/n3-airflow-bladder-bend-B2/media/guard_peak_body.png" loading="lazy">
+      <figcaption>guard_peak_body</figcaption>
     </figure>
   </div>
-  <p class="small">If a media file fails to load, that figure is a broken path on this checkout &mdash; open from the machine that holds <code>n3-geometry-delta/media/</code> (Git LFS / local render). N2 before films remain under <a href="reviews/2026-09-19/n2-track-a/INDEX.html">n2-track-a</a> when present.</p>
+  <p class="small">If a media file fails to load, open via <code>Start_Review.ps1</code> (port 8766) from the checkout that holds the packet media folders.</p>
 </section>
 
-<section id="geometry">
-  <h2>04 &mdash; Geometry delta</h2>
-  <h3>Plain language</h3>
-  <p>We moved the soft-arm path slightly outward (an <strong>8 mm bow</strong> along the U and F sections) and shortened the rotating band&rsquo;s height (<strong>5 mm insets</strong> on each edge, 10 mm total height reduction) so the <em>model&rsquo;s</em> keep-out and gap numbers pass. That is digital housekeeping. It does <strong>not</strong> mean the trainer can punch safely or with known force yet.</p>
-  <h3>Engineering (sampled)</h3>
+<section id="status">
+  <h2>05 &mdash; Status table</h2>
+  <p class="small">Disposition for Michael's everyday home. NEXT_PROMPT remains <code>awaiting_michael</code> (unchanged by this page).</p>
   <div class="tablewrap">
   <table>
-    <thead><tr><th>Metric</th><th>N2</th><th>N3</th><th>Notes</th></tr></thead>
+    <thead><tr><th>ID</th><th>Status</th><th>Plain meaning</th></tr></thead>
     <tbody>
       <tr>
-        <td><strong>G-03</strong> 71 mm radial centerline proxy (worst)</td>
-        <td>&minus;2.003666 mm</td>
-        <td><strong>+3.954128 mm</strong> (L_F, frame 1499)</td>
-        <td>CLOSED-A for sampled proxy; physical / triangle / loaded clearance OPEN.</td>
+        <td><strong>RH-01</strong></td>
+        <td><span class="status accept">policy ACCEPT</span></td>
+        <td>Option A stand-off / pitch policy accepted for Track A review (closer boxes; no lengthening). Not a physical reach qualification.</td>
       </tr>
       <tr>
-        <td><strong>G-05</strong> lower cover &harr; band / band &harr; upper</td>
-        <td>0 mm</td>
-        <td><strong>~5.000 mm</strong> each (4.999995 mm min)</td>
-        <td>CLOSED-A for nominal Z separation; B-03 retention still OPEN.</td>
+        <td><strong>AF-01</strong></td>
+        <td><span class="status closed">CLOSED-A</span></td>
+        <td>B2 film presents visible inflation pedagogy with prescribed bend. Closed for visualization / review presentation only.</td>
       </tr>
       <tr>
-        <td><strong>A-05</strong> wrist&ndash;glove registration</td>
-        <td>CLOSED-A</td>
-        <td>max offset 0.000489 mm</td>
-        <td>CLOSED-A retained across 15,356 arm/time observations.</td>
+        <td><strong>AF-01b</strong></td>
+        <td><span class="status open">residual OPEN</span></td>
+        <td>Exaggerated educational swell is not packaging / contact / textile-strain proof; independent blind-viewer nuance and physical chamber-to-curvature remain open.</td>
       </tr>
-    </tbody>
-  </table>
-  </div>
-  <p class="small">Method: nominal 8 mm sinusoidal lateral bow in carrier X over U/F sections (zero at shoulder and forearm distal interface; shared 8 mm at U/F junction). Same section-parametric displacement on skins, sleeves, covers, bands, seams, webbing, feeds. Wrist/glove geometry inherited. Cover inset does not move fixed covers, fill, or hardware.</p>
-</section>
-
-<section id="workstreams">
-  <h2>05 &mdash; Workstreams Track A / B / C / D</h2>
-  <div class="tablewrap">
-  <table>
-    <thead><tr><th>Track</th><th>Scope</th><th>N3 status</th></tr></thead>
-    <tbody>
-      <tr><td><strong>A</strong></td><td>Digital twin / visualization V&amp;V (geometry, films, registers)</td><td>Current baseline = N3 geometry; limited CLOSED-A on G-03/G-05 proxies</td></tr>
-      <tr><td><strong>B</strong></td><td>Coupon System ID: pressure &rarr; strain &rarr; tip motion; soft-wrist; return/vent</td><td>Not started &mdash; planning is the next engineering value if Michael authorizes</td></tr>
-      <tr><td><strong>C</strong></td><td>Instrumented contact / fault envelope on fixtures (not people)</td><td>Blocked on Track B evidence; C-01 remains Critical OPEN</td></tr>
-      <tr><td><strong>D</strong></td><td>Real perception&ndash;action CV / visual servoing</td><td>Out of scope; N3 media is not real CV</td></tr>
-    </tbody>
-  </table>
-  </div>
-</section>
-
-<section id="open">
-  <h2>06 &mdash; Open Critical / High</h2>
-  <div class="tablewrap">
-  <table>
-    <thead><tr><th>ID</th><th>Severity</th><th>Why it stays open</th></tr></thead>
-    <tbody>
+      <tr>
+        <td><strong>RH-02</strong></td>
+        <td><span class="status open">OPEN</span></td>
+        <td>Partial-stroke aim residual (fragile 50% inclusion, clipped tall aim, overlapping target/bag proxies).</td>
+      </tr>
       <tr>
         <td><strong>C-01</strong></td>
-        <td><span class="status crit">Critical / OPEN</span></td>
+        <td><span class="status crit">Critical OPEN</span></td>
         <td>No measured pressure-to-motion-to-contact chain. Track A cannot close strike impulse.</td>
       </tr>
       <tr>
         <td><strong>B-06</strong></td>
-        <td><span class="status crit">Critical / OPEN</span></td>
-        <td>Root / bearing retention / hub / weld / anchor load path incomplete. No invented ratings.</td>
-      </tr>
-      <tr>
-        <td><strong>B-03</strong></td>
-        <td><span class="status open">High / OPEN</span></td>
-        <td>Positive cover gaps are not a retained or guarded interface. Need sewn edge retention, protected flexible overlap, tolerances, padding, pinch/abrasion fixtures.</td>
+        <td><span class="status crit">Critical OPEN</span></td>
+        <td>Root / bearing / hub / weld / anchor load path incomplete. No invented ratings.</td>
       </tr>
     </tbody>
   </table>
   </div>
-  <div class="notice">
-    <strong>Manufacturing note</strong>
-    Positive nominal cover gaps help DFM storytelling but do <em>not</em> replace sewn retention, abrasion control, or pinch fixtures at the rotating band. Do not treat ~5 mm viz gaps as an approved running allowance.
-  </div>
 </section>
 
 <section id="glossary">
-  <h2>07 &mdash; Plain-language glossary</h2>
-  <p class="small">Mandatory for Michael review &mdash; same definitions as the N3 engineering assessment.</p>
+  <h2>06 &mdash; Plain-language glossary</h2>
   <div class="tablewrap">
   <table>
-    <thead><tr><th>Term</th><th>Plain words</th><th>Why it matters here</th></tr></thead>
+    <thead><tr><th>Term</th><th>Everyday meaning</th><th>Why it matters here</th></tr></thead>
     <tbody>
-      <tr><td><strong>Track A</strong></td><td>Making and checking the 3D/digital model and review videos so the design is understandable.</td><td>Proves the <em>story</em> of motion and shape &mdash; not that a real arm hits hard enough.</td></tr>
-      <tr><td><strong>Track B</strong></td><td>Lab-style tests on soft-arm pieces (coupons) to measure how air pressure changes shape and tip motion.</td><td>Needed before honest talk about punch power.</td></tr>
-      <tr><td><strong>Track C</strong></td><td>Instrumented hit tests on fixtures (not people) for contact force and fault behavior.</td><td>Safety and contact claims.</td></tr>
-      <tr><td><strong>G-03</strong></td><td>Clearance check: does the soft arm get too close to (or into) the bag&rsquo;s keep-out cylinder? Centerline proxy in mm.</td><td>Negative = centerline dips inside keep-out. N3 fixed the <em>model</em> proxy to about +4 mm. Real padded clearance still unproven.</td></tr>
-      <tr><td><strong>G-05</strong></td><td>Gap check between rotating band and fixed covers above/below (axial / up-down).</td><td>Zero gap meant faces touched in the model. N3 opened ~5 mm nominal. Real sew/retention still open (B-03).</td></tr>
-      <tr><td><strong>CLOSED-A</strong></td><td>Closed for this visualization / model-audit purpose only.</td><td>Not &ldquo;ready to manufacture&rdquo; or &ldquo;safe in contact.&rdquo;</td></tr>
-      <tr><td><strong>N1 / N2 / N3</strong></td><td>Versioned Blender successors. N1 baseline; N2 glove/cues; N3 clearance/gap geometry.</td><td>Older audited binaries stay preserved; lineage stays reviewable.</td></tr>
-      <tr><td><strong>READY_FOR_OLA</strong></td><td>Marker in the chat log meaning &ldquo;pass settled &mdash; Ola should review.&rdquo;</td><td>Wakes Robotics Desk review; missing it causes progress chase.</td></tr>
-      <tr><td><strong>Proxy</strong></td><td>Automated measurement script on many animation frames; a stand-in metric, not a lab load test.</td><td>Good for catching model mistakes early; bad if treated as physical proof.</td></tr>
-      <tr><td><strong>Architecture freeze</strong></td><td>Soft air-filled fabric arms (not rigid metal sticks), 8 chambers/arm, bag stays put, shoulders rotate on the mast.</td><td>Stops quiet return to cylinders/cams mid-project.</td></tr>
+      <tr><td><strong>Track A</strong></td><td>Digital model + review films so the design is understandable.</td><td>Proves the story of shape and motion &mdash; not punch power.</td></tr>
+      <tr><td><strong>Option A</strong></td><td>Closer stand-off boxes + coupled partial pitch instead of lengthening the soft arm.</td><td>RH-01 policy path now on this front door.</td></tr>
+      <tr><td><strong>RH-01 / RH-02</strong></td><td>Reach policy vs partial-stroke aim residuals.</td><td>Policy can be accepted while partial-reach quirks stay open.</td></tr>
+      <tr><td><strong>AF-01 / AF-01b</strong></td><td>Can you see inflation with bend? / what still is not proven after the film.</td><td>B2 closes presentation (CLOSED-A); residuals stay honest.</td></tr>
+      <tr><td><strong>CLOSED-A</strong></td><td>Closed for this visualization / model-audit purpose only.</td><td>Not "ready to manufacture" or "safe in contact."</td></tr>
+      <tr><td><strong>U / F / T</strong></td><td>Upper, forearm, and soft-torsion wrist chamber groups.</td><td>Eight soft chambers per arm; cues are qualitative.</td></tr>
+      <tr><td><strong>C-01 / B-06</strong></td><td>Missing measured impact chain / incomplete root structure.</td><td>Both remain Critical OPEN; films cannot close them.</td></tr>
+      <tr><td><strong>Architecture freeze</strong></td><td>Soft air fabric arms, fixed bag, rotating shoulders only.</td><td>Stops quiet return to rigid sticks or metal distal hardware.</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<section id="files">
-  <h2>08 &mdash; Files &amp; packets</h2>
+<section id="links">
+  <h2>07 &mdash; Deep links</h2>
   <ul class="files">
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/INDEX.html">N3 INDEX.html</a> (A&ndash;J nav)</li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/EXECUTIVE_REVIEW.html">EXECUTIVE_REVIEW</a> / <a href="reviews/2026-09-19/n3-geometry-delta/EXECUTIVE_REVIEW.md">.md</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/DEFECT_REGISTER.html">DEFECT_REGISTER</a> / <a href="reviews/2026-09-19/n3-geometry-delta/DEFECT_REGISTER.md">.md</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/ENVELOPE_GEOMETRY_AUDIT.html">ENVELOPE_GEOMETRY_AUDIT</a> (F)</li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/CONTINUUM_PNEUMATIC_INTENT.html">CONTINUUM_PNEUMATIC_INTENT</a> (D)</li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/DOF_MECHANISM.html">DOF_MECHANISM</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/INTERFACE_VULNERABILITIES.html">INTERFACE_VULNERABILITIES</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/PUNCH_PATH_CHECKLIST.html">PUNCH_PATH_CHECKLIST</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/POSE_ATLAS.html">POSE_ATLAS</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/TOOLCHAIN_REPRO.html">TOOLCHAIN_REPRO</a></li>
-    <li><a href="reviews/2026-09-19/n3-geometry-delta/CHANGELOG_OPEN_ITEMS.html">CHANGELOG_OPEN_ITEMS</a></li>
-    <li><a href="ENGINEERING_ASSESSMENT_N3_GEOMETRY_DELTA_2026-09-19.md">ENGINEERING_ASSESSMENT_N3&hellip;</a></li>
-    <li><a href="ENGINEERING_ASSESSMENT_N2_TRACK_A_2026-09-19.md">ENGINEERING_ASSESSMENT_N2&hellip;</a></li>
-    <li><a href="START_HERE_N1_PRODUCT_DOSSIER.html">N1 product dossier archive</a></li>
-    <li><a href="revision_n/START_HERE.html">revision_n/START_HERE.html</a> (N1-era archive)</li>
-    <li><a href="chats/NEXT_PROMPT.md">chats/NEXT_PROMPT.md</a> (status: awaiting_michael)</li>
-    <li><a href="reviews/2026-09-19/n2-track-a/INDEX.html">Preserved N2 packet</a></li>
+    <li><a href="reviews/2026-09-19/n3-standoff-pitch-policy/INDEX.html">n3-standoff-pitch-policy INDEX</a></li>
+    <li><a href="reviews/2026-09-19/n3-standoff-pitch-policy/REACH_POLICY.html">REACH_POLICY</a> / <a href="reviews/2026-09-19/n3-standoff-pitch-policy/REACH_POLICY.md">.md</a></li>
+    <li><a href="reviews/2026-09-19/n3-standoff-pitch-policy/REACH_VERDICT.html">REACH_VERDICT</a></li>
+    <li><a href="reviews/2026-09-19/n3-standoff-pitch-policy/EXECUTIVE_REVIEW.html">Standoff EXECUTIVE_REVIEW</a></li>
+    <li><a href="reviews/2026-09-19/n3-standoff-pitch-policy/DEFECT_REGISTER.html">Standoff DEFECT_REGISTER</a></li>
+    <li><a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/INDEX.html">n3-airflow-bladder-bend-B2 INDEX</a></li>
+    <li><a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/AIRFLOW_PEDAGOGY.html">AIRFLOW_PEDAGOGY</a> / <a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/AIRFLOW_PEDAGOGY.md">.md</a></li>
+    <li><a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/EXECUTIVE_REVIEW.html">B2 EXECUTIVE_REVIEW</a></li>
+    <li><a href="reviews/2026-09-19/n3-airflow-bladder-bend-B2/DEFECT_REGISTER.html">B2 DEFECT_REGISTER</a></li>
+    <li><a href="ENGINEERING_ASSESSMENT_N3_REACH_HEIGHT_BODY_2026-09-19.md">Assessment: N3 reach/height/body</a></li>
+    <li><a href="ENGINEERING_ASSESSMENT_N3_GEOMETRY_DELTA_2026-09-19.md">Assessment: N3 geometry delta</a></li>
+    <li><a href="ENGINEERING_ASSESSMENT_N2_TRACK_A_2026-09-19.md">Assessment: N2 Track A</a></li>
+    <li><a href="chats/NEXT_PROMPT.md">chats/NEXT_PROMPT.md</a> (awaiting_michael)</li>
+  </ul>
+</section>
+
+<section id="history">
+  <h2>08 &mdash; History (not competing homes)</h2>
+  <p>Prior packets remain readable for lineage. Open them for context; do not treat them as the everyday front door.</p>
+  <ul class="files">
+    <li><a href="reviews/2026-09-19/n3-reach-height-body/INDEX.html">n3-reach-height-body</a> &mdash; prior reach/height/body atlas</li>
+    <li><a href="reviews/2026-09-19/n3-airflow-bladder-bend/INDEX.html">n3-airflow-bladder-bend</a> &mdash; failed AF-01 film (superseded by B2)</li>
+    <li><a href="reviews/2026-09-19/n3-geometry-delta/INDEX.html">n3-geometry-delta</a> &mdash; G-03/G-05 clearance delta</li>
+    <li><a href="START_HERE_N1_PRODUCT_DOSSIER.html">START_HERE_N1_PRODUCT_DOSSIER.html</a> &mdash; archived full N1 product dossier</li>
+    <li><a href="revision_n/START_HERE.html">revision_n/START_HERE.html</a> &mdash; older revision archive when present</li>
   </ul>
 </section>
 
 <section id="howto">
   <h2>09 &mdash; How to open</h2>
   <ol>
-    <li><strong>Preferred:</strong> from the repo root on DESKTOP-P08972I run <code>Start_Review.ps1</code>. It prints <code>http://127.0.0.1:8766/revision_n/START_HERE.html</code> today; after this page lands, open <code>http://127.0.0.1:8766/START_HERE.html</code> (root) or <code>http://127.0.0.1:8766/reviews/2026-09-19/START_HERE.html</code>.</li>
-    <li><strong>file:// fallback:</strong> open<br>
+    <li><strong>Preferred:</strong> from the repo root on DESKTOP-P08972I run <code>Start_Review.ps1</code>, then open<br>
+      <code>http://127.0.0.1:8766/START_HERE.html</code></li>
+    <li>Same-day copy (optional): <code>http://127.0.0.1:8766/reviews/2026-09-19/START_HERE.html</code></li>
+    <li><strong>file:// fallback:</strong><br>
       <code>C:\Users\mfawe\OneDrive\Documents\GitHub\robotic-punching-bag\START_HERE.html</code><br>
       Some browsers restrict local video under file:// &mdash; use the local server if films do not play.</li>
-    <li>Git LFS: pull media under <code>reviews/2026-09-19/n3-geometry-delta/media/</code> if stills/films are missing.</li>
+    <li><strong>Pages (placeholder):</strong> <a href="https://myorglab-repos.github.io/astra-previews/ola/start-here/">https://myorglab-repos.github.io/astra-previews/ola/start-here/</a></li>
   </ol>
-  <p class="small">Do not set NEXT_PROMPT to ready_for_astra from this page. Commit/push left to Michael / Ibrahim.</p>
+  <p class="small">Do not git push from this rebuild. Do not flip NEXT_PROMPT off awaiting_michael. Commit left to Michael / Ibrahim.</p>
 </section>
 
 <footer>
-  Soft pneumatic boxing trainer &middot; Feasibility / Track A &middot; N3 geometry delta &middot; 19 Sep 2026 &middot; Track A does not prove strike impulse.
+  Soft pneumatic boxing trainer &middot; Feasibility front door &middot; 19 Sep 2026 &middot; Track A does not prove strike impulse.
 </footer>
 
 </main>
 </div>
 
 <script>
+
 (function(){
   function $(id){ return document.getElementById(id); }
   document.querySelectorAll('[data-speed]').forEach(function(s){
@@ -385,7 +328,6 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
       if (fig) fig.style.opacity = '0.55';
     });
   });
-  // Hide still figures whose images fail (missing media)
   document.querySelectorAll('img').forEach(function(img){
     img.addEventListener('error', function(){
       var fig = img.closest('figure');
@@ -393,6 +335,7 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
     });
   });
 })();
+
 </script>
 </body>
 </html>
