@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "films": [
+    {
+      "path": "media/airflow_review.mp4",
+      "decoded_frames": 128,
+      "fps": 4,
+      "duration_s": 32.0,
+      "size": [
+        1800,
+        1000
+      ],
+      "sha256": "46ed66d0dabb008e71b489ce15a9de26796b485b4f28c52fd7a667e166221fb9",
+      "decode_errors": ""
+    }
+  ],
+  "scope": "Full media decode, frame count, dimensions and duration. Visual review recorded separately.",
+  "blend_sha256": "2eff852b5f0ecd3d8f498125d213bb7601164d4801d46e5d57cfc24cd45a44a3"
+}

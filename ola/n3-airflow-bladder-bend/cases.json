@@ -1,0 +1,164 @@
+[
+  {
+    "id": "short_max_L_straight",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 0,
+    "pitch_deg": 8,
+    "side": "L",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 73,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "start": 1,
+    "peak": 17,
+    "end": 32,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ]
+  },
+  {
+    "id": "mid_max_L_hook",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 3,
+    "pitch_deg": 19,
+    "side": "L",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 553,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "start": 449,
+    "peak": 465,
+    "end": 480,
+    "prior_pitch_deg": 19,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ]
+  },
+  {
+    "id": "mid_max_L_uppercut",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 0,
+    "pitch_deg": 16,
+    "side": "L",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1033,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "start": 513,
+    "peak": 529,
+    "end": 544,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ]
+  },
+  {
+    "id": "body_L",
+    "preset": "abdomen",
+    "pitch_deg": -20,
+    "side": "L",
+    "kind": "body",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 73,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "start": 1153,
+    "peak": 1169,
+    "end": 1184,
+    "prior_pitch_deg": -20,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ]
+  }
+]

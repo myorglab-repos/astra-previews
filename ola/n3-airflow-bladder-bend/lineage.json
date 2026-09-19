@@ -1,0 +1,29 @@
+{
+  "source": "reviews/2026-09-19/n3-standoff-pitch-policy/Punching_Bag_N3_Standoff_Pitch_Policy.blend",
+  "source_sha256": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+  "successor_sha256": "2eff852b5f0ecd3d8f498125d213bb7601164d4801d46e5d57cfc24cd45a44a3",
+  "baselines": {
+    "revision_n\\Punching_Bag_N1_Full_Product_Review.blend": "7a2da9e58991c822c981ecd677c902538389701ec1fe662ab878c2fd2f417e1b",
+    "reviews\\2026-09-19\\n2-track-a\\Punching_Bag_N2_Track_A.blend": "4331bae6efa3573e67425d10591fc5d09f34323ae588879ddb47c0f311c8e1af",
+    "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+    "reviews/2026-09-19/n3-reach-height-body/Punching_Bag_N3_Reach_Height_Body.blend": "c956779e3874b6f9e54a943315174b805fdf4543935bd6571d06eaf35c6b6ea0",
+    "reviews/2026-09-19/n3-standoff-pitch-policy/Punching_Bag_N3_Standoff_Pitch_Policy.blend": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f"
+  },
+  "blender": "3.6.5",
+  "method": "Full-copy illustrative scene; only eight left chamber shape coordinates/schedules and scene-local cue materials replaced. Original atlas retained for policy and envelope regression.",
+  "valid_pedagogy_cases": [
+    "short_max_L_straight",
+    "mid_max_L_hook",
+    "mid_max_L_uppercut",
+    "body_L"
+  ],
+  "radial_visual_scale": {
+    "guard": 0.65,
+    "peak": ".65 + .85 * arbitrary channel emphasis"
+  },
+  "limitations": [
+    "Swelling is exaggerated educational geometry; not P-V, material strain, packaging or physical causality proof.",
+    "Prescribed centerline shapes, glove poses, root pitch and targets inherited.",
+    "Pedagogy valid only in selected chapters; original atlas remains the geometric review scene."
+  ]
+}
