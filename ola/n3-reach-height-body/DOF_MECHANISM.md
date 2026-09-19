@@ -1,0 +1,11 @@
+# E. Degrees of freedom and height policy
+
+The saved model contains `ATLAS_L_PROTECTED_ROOT_PITCH` and `ATLAS_R_PROTECTED_ROOT_PITCH`. Each pivots about the evaluated proximal U-cover ring centroid (approximately X=+/-350.284, Y=190, Z=1415 mm). Arm meshes are parented through this root; glove translation still follows the evaluated soft wrist. Positive documented pitch is Blender root rotation X=-pitch, raising the negative-Y outbound aim. Green root arrows rotate against fixed white horizontal references; the camera stays fixed in the atlas.
+
+Base short/mid/tall pitches are 8/16/24 degrees. Straight and uppercut add zero trim. Hook adds +3; L high diagonal adds -8; R low diagonal adds +15. These are prescribed aim settings, not a calibrated controller. Partial-extension straight cases retain the same base pitch, exposing the RH-02 height limitation. Each active body arm tips from +8-degree guard to -20-degree peak during extension, then returns; the other arm remains at +8. This explicit root-aim trajectory creates a downward guard-to-abdomen path. It assumes an adjustable root for visualization only; locked height presets versus actively driven pitch remain a B-06 design decision.
+
+The existing `M1__AZ-H2__bearing_supported_arm_carrier` retains the yaw hierarchy, but yaw is held at zero throughout this isolated workspace atlas. The root pitch is additional attitude at the protected shoulder, not a vertical rail or bag rotation. No distal rigid link, cam or bearing is introduced. The inherited hidden manifold/anchor envelope is not a designed pitch hinge; B-06 must address load path, retention, stops and hose slack.
+
+All preset/case boundaries are explicit chapter cuts. The packet audits within each prescribed chapter and does not claim collision-free physical transitions between presets. Filled covers, fill volumes and mast transforms remain fixed in the saved audit. The exposed camera changes only presentation; it does not alter the arm's pose.
+
+**Track A does not prove strike impulse.** Motion, color emphasis and timing are prescribed illustrations. No measured propulsion, pressure response, contact force, durability or real CV is claimed.

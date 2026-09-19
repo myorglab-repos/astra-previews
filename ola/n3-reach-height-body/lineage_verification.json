@@ -1,0 +1,1610 @@
+{
+  "status": "PASS",
+  "blend_sha256": "c956779e3874b6f9e54a943315174b805fdf4543935bd6571d06eaf35c6b6ea0",
+  "source_sha256": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+  "mesh_count": 245,
+  "dynamic_mesh_count": 82,
+  "checks": [
+    {
+      "source": "M1__BG-G1-CORE_PAD__central_sleeve_wrap.004",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-SLEEVE__160mm_clear_center.004",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-BOTTOM__sewn_base.004",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-LID__reopenable_annular_top.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-BOOT__molded_compliant_floor_support.004",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-POCKET__front",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-POCKET__top",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-POCKET__bottom",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-ZIP__textile_tape.006",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-ZIP__textile_tape.007",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FLAP__soft_zipper_cover.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__G1-SP-201__CHS spine 88.9 x 5.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__G1-SP-202__Floor flange 260 x 18 with four 18 mm holes.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__G1-WD-201__Spine-to-flange fillet weld envelope.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__G1-IS-201-LOWER__compliant_guide.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__G1-IS-201-UPPER__compliant_guide.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CS-H1-1__coarse_concrete_screw",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CS-H1-2__coarse_concrete_screw",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CS-H1-3__coarse_concrete_screw",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CS-H1-4__coarse_concrete_screw",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__fixed_split_hub",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__rotor_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_inner_race",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_outer_race",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.002",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.004",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.005",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.006",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.007",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.008",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.009",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.010",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.011",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.012",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.013",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.014",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.015",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.016",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.017",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.018",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.019",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.020",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.021",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.022",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.023",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.024",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_inner_race.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_outer_race.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.025",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.026",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.027",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.028",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.029",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.030",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.031",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.032",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.033",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.034",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.035",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.036",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.037",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.038",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.039",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.040",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.041",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.042",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.043",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.044",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.045",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.046",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope.047",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__bearing_ball_envelope",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__belt_drive_ring",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__stationary_drive_and_torque_limiter",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__drive_pulley",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-COVER__sewn_outer_cover.004__LOWER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-COVER__sewn_outer_cover.004__ROTATING_SHOULDER_BAND",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-COVER__sewn_outer_cover.004__UPPER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FOAM__30mm_outer_comfort_liner.004__LOWER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FOAM__30mm_outer_comfort_liner.004__ROTATING_SHOULDER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FOAM__30mm_outer_comfort_liner.004__UPPER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FILL__refillable_textile_volume.004__LOWER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FILL__refillable_textile_volume.004__ROTATING_SHOULDE",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BG-G1-FILL__refillable_textile_volume.004__UPPER",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__soft_overlap_gap_guard",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__fill_partition_liner",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__soft_overlap_gap_guard.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__fill_partition_liner.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2-C1__recessed_camera_housing",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2-C1__optical_window",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2__soft_crown_guard",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2-C2__recessed_camera_housing",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2-C2__optical_window",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2-C3__recessed_camera_housing",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CV-H2-C3__optical_window",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__rotary_air_union_reservation",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__AZ-H2__electrical_slip_ring_reservation",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__one_piece_back_shell",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__perimeter_elastomer_bumper",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__front_glass_black_border",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__display_active_area",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__recessed_side_power_key",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_service_panel",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__bottom_charge_port_reservation",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__screen_status_rule",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__screen_touch_start_region",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_captive_M2_5.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_screw_drive.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_captive_M2_5.002",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_screw_drive.002",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_captive_M2_5.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_screw_drive.003",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_captive_M2_5",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__CTRL-I1__rear_screw_drive",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1__rotor_rear_yoke",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1__saddle_web",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1__saddle_web.001",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1-L__arm_flange",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1-L__26x3_bent_carrier_tube",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L1__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L1__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L1__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L1__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L2__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L2__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L2__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L2__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L3__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L3__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L3__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L3__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L4__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L4__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L4__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-L4__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1-R__arm_flange",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__MT-J1-R__26x3_bent_carrier_tube",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R1__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R1__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R1__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R1__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R2__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R2__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R2__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R2__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R3__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R3__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R3__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R3__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R4__M8x35_helical_shank",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R4__socket_head",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R4__washer",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1__BF-J1-R4__hex_nut",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_ROOT_L__rounded_anchor_eye",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_ROOT_L__welded_eye_tab",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_ROOT_L__eight_channel_manifold",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_L_U1__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U1__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U1__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U2__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U2__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U2__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U3__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U3__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U3__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__proximal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__distal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__elastic_return_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__elastic_return_2",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__foam_and_contact_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__red_cover_seam_-1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_U__red_cover_seam_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F1__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F1__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F1__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F2__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F2__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F2__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F3__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F3__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F3__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__proximal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__distal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__elastic_return_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__elastic_return_2",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__foam_and_contact_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__red_cover_seam_-1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_F__red_cover_seam_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L__continuous_retention_webbing",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_T1__opposed_soft_torsion_cell",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_T1__integral_soft_feed",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_T2__opposed_soft_torsion_cell",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L_T2__integral_soft_feed",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L__soft_wrist_cover",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L__soft_wrist_shear_core",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L__proximal_soft_wrist_cuff",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L__distal_soft_wrist_cuff",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_L__foam_textile_glove",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_ROOT_R__rounded_anchor_eye",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_ROOT_R__welded_eye_tab",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_ROOT_R__eight_channel_manifold",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    },
+    {
+      "source": "M1_R_U1__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U1__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U1__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U2__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U2__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U2__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U3__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U3__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U3__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__proximal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__distal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__elastic_return_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__elastic_return_2",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__foam_and_contact_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__red_cover_seam_-1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_U__red_cover_seam_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F1__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F1__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F1__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F2__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F2__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F2__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F3__sealed_flexible_bladder",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F3__programmed_knit_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F3__integral_soft_pigtail",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__proximal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__distal_textile_saddle",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__elastic_return_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__elastic_return_2",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__foam_and_contact_sleeve",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__red_cover_seam_-1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_F__red_cover_seam_1",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R__continuous_retention_webbing",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_T1__opposed_soft_torsion_cell",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_T1__integral_soft_feed",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_T2__opposed_soft_torsion_cell",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R_T2__integral_soft_feed",
+      "topology_identical": true,
+      "base_coordinates_identical": false,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R__soft_wrist_cover",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R__soft_wrist_shear_core",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R__proximal_soft_wrist_cuff",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R__distal_soft_wrist_cuff",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": true
+    },
+    {
+      "source": "M1_R__foam_textile_glove",
+      "topology_identical": true,
+      "base_coordinates_identical": true,
+      "dynamic": false
+    }
+  ],
+  "branches": [
+    {
+      "chamber": "L-U1",
+      "cell": "N1_WHOLE__M1_L_U1__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_L_U1__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_L_U1",
+      "feed_vertex_count": 24,
+      "feed_ring_count": 4
+    },
+    {
+      "chamber": "L-U2",
+      "cell": "N1_WHOLE__M1_L_U2__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_L_U2__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_L_U2",
+      "feed_vertex_count": 24,
+      "feed_ring_count": 4
+    },
+    {
+      "chamber": "L-U3",
+      "cell": "N1_WHOLE__M1_L_U3__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_L_U3__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_L_U3",
+      "feed_vertex_count": 24,
+      "feed_ring_count": 4
+    },
+    {
+      "chamber": "L-F1",
+      "cell": "N1_WHOLE__M1_L_F1__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_L_F1__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_L_F1",
+      "feed_vertex_count": 138,
+      "feed_ring_count": 23
+    },
+    {
+      "chamber": "L-F2",
+      "cell": "N1_WHOLE__M1_L_F2__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_L_F2__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_L_F2",
+      "feed_vertex_count": 138,
+      "feed_ring_count": 23
+    },
+    {
+      "chamber": "L-F3",
+      "cell": "N1_WHOLE__M1_L_F3__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_L_F3__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_L_F3",
+      "feed_vertex_count": 138,
+      "feed_ring_count": 23
+    },
+    {
+      "chamber": "L-T1",
+      "cell": "N1_WHOLE__M1_L_T1__opposed_soft_torsion_cell",
+      "feed": "N1_WHOLE__M1_L_T1__integral_soft_feed",
+      "material": "ATLAS_QUALITATIVE_L_T1",
+      "feed_vertex_count": 264,
+      "feed_ring_count": 44
+    },
+    {
+      "chamber": "L-T2",
+      "cell": "N1_WHOLE__M1_L_T2__opposed_soft_torsion_cell",
+      "feed": "N1_WHOLE__M1_L_T2__integral_soft_feed",
+      "material": "ATLAS_QUALITATIVE_L_T2",
+      "feed_vertex_count": 264,
+      "feed_ring_count": 44
+    },
+    {
+      "chamber": "R-U1",
+      "cell": "N1_WHOLE__M1_R_U1__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_R_U1__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_R_U1",
+      "feed_vertex_count": 24,
+      "feed_ring_count": 4
+    },
+    {
+      "chamber": "R-U2",
+      "cell": "N1_WHOLE__M1_R_U2__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_R_U2__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_R_U2",
+      "feed_vertex_count": 24,
+      "feed_ring_count": 4
+    },
+    {
+      "chamber": "R-U3",
+      "cell": "N1_WHOLE__M1_R_U3__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_R_U3__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_R_U3",
+      "feed_vertex_count": 24,
+      "feed_ring_count": 4
+    },
+    {
+      "chamber": "R-F1",
+      "cell": "N1_WHOLE__M1_R_F1__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_R_F1__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_R_F1",
+      "feed_vertex_count": 138,
+      "feed_ring_count": 23
+    },
+    {
+      "chamber": "R-F2",
+      "cell": "N1_WHOLE__M1_R_F2__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_R_F2__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_R_F2",
+      "feed_vertex_count": 138,
+      "feed_ring_count": 23
+    },
+    {
+      "chamber": "R-F3",
+      "cell": "N1_WHOLE__M1_R_F3__sealed_flexible_bladder",
+      "feed": "N1_WHOLE__M1_R_F3__integral_soft_pigtail",
+      "material": "ATLAS_QUALITATIVE_R_F3",
+      "feed_vertex_count": 138,
+      "feed_ring_count": 23
+    },
+    {
+      "chamber": "R-T1",
+      "cell": "N1_WHOLE__M1_R_T1__opposed_soft_torsion_cell",
+      "feed": "N1_WHOLE__M1_R_T1__integral_soft_feed",
+      "material": "ATLAS_QUALITATIVE_R_T1",
+      "feed_vertex_count": 264,
+      "feed_ring_count": 44
+    },
+    {
+      "chamber": "R-T2",
+      "cell": "N1_WHOLE__M1_R_T2__opposed_soft_torsion_cell",
+      "feed": "N1_WHOLE__M1_R_T2__integral_soft_feed",
+      "material": "ATLAS_QUALITATIVE_R_T2",
+      "feed_vertex_count": 264,
+      "feed_ring_count": 44
+    }
+  ],
+  "scope": "All inherited mesh topology and all static mesh coordinates preserved; dynamic keys intentionally rebased, bowed and retimed. Added root parent transforms are declared; not a hardware design."
+}

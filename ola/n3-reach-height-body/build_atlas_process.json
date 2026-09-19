@@ -1,0 +1,17 @@
+{
+  "command": [
+    "C:/Program Files/Blender Foundation/Blender 3.6/blender.exe",
+    "-b",
+    "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend",
+    "-t",
+    "4",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-19\\n3-reach-height-body\\build_atlas.py",
+    "--",
+    "--replace-candidate"
+  ],
+  "exit_code": 0,
+  "elapsed_s": 16.61640214920044
+}

@@ -1,0 +1,16 @@
+{
+  "pass_id": "p3-aperture-plates-pulse-m",
+  "plates": 67,
+  "seam_bands": 16,
+  "native_crop": [
+    291,
+    292,
+    447,
+    312
+  ],
+  "loop_seconds": 3,
+  "surface": "hard titanium frames, recessed navy panels, open joints",
+  "idle_panel_translation": false,
+  "working_glb_bytes": 769604,
+  "web_glb_bytes": 227964
+}

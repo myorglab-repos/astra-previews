@@ -1,0 +1,13 @@
+{
+  "pass_id": "p4-plates-armor-volume",
+  "front_plates": 57,
+  "wrap_plates": 216,
+  "seam_bands": 16,
+  "outline_vertices": 32,
+  "depth_units": 1.13,
+  "loop_seconds": 3,
+  "surface": "planar navy faces; thin titanium frames; sharp chamfers; three rows of side armor",
+  "idle_panel_translation": false,
+  "working_glb_bytes": 999624,
+  "web_glb_bytes": 371048
+}

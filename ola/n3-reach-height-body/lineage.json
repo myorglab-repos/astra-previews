@@ -1,0 +1,19 @@
+{
+  "source": "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend",
+  "source_sha256": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+  "successor_sha256": "c956779e3874b6f9e54a943315174b805fdf4543935bd6571d06eaf35c6b6ea0",
+  "blender": "3.6.5",
+  "baselines": {
+    "revision_n\\Punching_Bag_N1_Full_Product_Review.blend": "7a2da9e58991c822c981ecd677c902538389701ec1fe662ab878c2fd2f417e1b",
+    "reviews\\2026-09-19\\n2-track-a\\Punching_Bag_N2_Track_A.blend": "4331bae6efa3573e67425d10591fc5d09f34323ae588879ddb47c0f311c8e1af",
+    "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6"
+  },
+  "dynamic_meshes": 82,
+  "additional_routing_bow_mm": 60.0,
+  "method": "N3 evaluated guard/peak shapes rebased; U/F/T topology preserved, key schedules replaced. Added 60 mm anchored lateral routing bow consistently to U/F layers and feeds (68 mm total including N3). Root X pitch around shoulder ring centroid with strike trims. Glove constrained to evaluated wrist core; no shoulder-to-wrist endpoint lengthening.",
+  "limitations": [
+    "Short 50% uses shape extrapolation; not a material strain/arc constraint solution. Routing bow changes arc length and lateral envelope.",
+    "Preset switches are chapter cuts; no claim of transition collision clearance.",
+    "Hidden manifold/anchor does not constitute designed pitch hardware."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "status": "PASS_WITH_ENGINEERING_RESIDUALS",
+  "manifest_artifacts": 122,
+  "local_links_checked": 285,
+  "missing_links": [],
+  "baselines_preserved": true,
+  "body_descent_mm": {
+    "body_L": 225.2192497253418,
+    "body_R": 225.2192497253418
+  },
+  "registration_pass": true,
+  "nominal_clearance_pass": true,
+  "media_decode_pass": true,
+  "visual_review_pass": true,
+  "open_items": [
+    "RH-01 tall reach policy",
+    "RH-02 partial aim",
+    "RH-03 material/routing",
+    "B-03 retention",
+    "C-01 measured propulsion/contact Critical",
+    "B-06 root structure Critical"
+  ],
+  "scope": "Deliverable completeness and stated digital checks only; Track A does not prove strike impulse."
+}

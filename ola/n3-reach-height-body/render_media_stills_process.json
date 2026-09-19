@@ -1,0 +1,17 @@
+{
+  "command": [
+    "C:/Program Files/Blender Foundation/Blender 3.6/blender.exe",
+    "-b",
+    "reviews\\2026-09-19\\n3-reach-height-body\\Punching_Bag_N3_Reach_Height_Body.blend",
+    "-t",
+    "4",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-19\\n3-reach-height-body\\render_media.py",
+    "--",
+    "stills"
+  ],
+  "exit_code": 0,
+  "elapsed_s": 37.766995906829834
+}

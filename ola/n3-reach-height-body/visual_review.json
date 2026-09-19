@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "reviewer": "Codex / Astra workflow role",
+  "method": "Direct tool image inspection of saved stills and film-frame compositions; four atlas contact sheets cover all 38 peaks, and the airflow contact sheet covers fill/vent/return in four punch types. Full-resolution tall straight, body fill, hook fill and hook vent also inspected.",
+  "checked": [
+    "Whole product remains in frame; fixed head/abdomen target boxes and root/palm references visible in the atlas",
+    "Short/mid/tall and partial-extension poses distinguishable; target misses disclosed in numeric packet",
+    "Exposed view enlarged after clearing inherited camera-data animation",
+    "All U1-U3/F1-F3/T1-T2 labels and isolated-port diagram legible",
+    "Cyan differential fill and orange vent visible for hook and body; return-band gold visible during vent/retraction",
+    "Paired views correspond to the same source frame; product inset uses aspect-preserving crop and resize",
+    "Warning caption and phase strip remain visible on every composed airflow frame"
+  ],
+  "limits": [
+    "Contact sheets are navigation/QA aids; full-resolution stills are the readable evidence",
+    "4 fps films are review previews, not real actuator timing",
+    "Image inspection is sampled; full file decoding and frame counts are verified separately",
+    "Interactive browser playback not tested",
+    "No physical flow, force, retention, strain or collision qualification"
+  ]
+}
