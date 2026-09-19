@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "blend_sha256": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+  "films": [
+    {
+      "path": "media/atlas_review.mp4",
+      "sha256": "47b24f4a729fe028a0e1ba0f4e4c7cc7f2e0cf541636dfe1877a073d3d9d6c60",
+      "decoded_frames": 608,
+      "duration_s": 152.0,
+      "fps": 4,
+      "size": [
+        960,
+        720
+      ],
+      "inherited": false,
+      "source": "render_atlas.json",
+      "decode_errors": ""
+    },
+    {
+      "path": "media/airflow_review.mp4",
+      "sha256": "73607f43f61a0f0639eb80caff566371bf48f20375c15ed131020c04b5b19f7d",
+      "decoded_frames": 128,
+      "duration_s": 32.0,
+      "fps": 4,
+      "size": [
+        1800,
+        1000
+      ],
+      "inherited": true,
+      "source": "../n3-reach-height-body/media/airflow_review.mp4",
+      "decode_errors": ""
+    }
+  ],
+  "scope": "Full decode and counts; airflow copied byte-identically and independently compared against current geometry/material frames."
+}

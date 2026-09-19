@@ -1,0 +1,20 @@
+{
+  "source": "reviews/2026-09-19/n3-reach-height-body/Punching_Bag_N3_Reach_Height_Body.blend",
+  "source_sha256": "c956779e3874b6f9e54a943315174b805fdf4543935bd6571d06eaf35c6b6ea0",
+  "successor_sha256": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+  "blender": "3.6.5",
+  "baselines": {
+    "revision_n\\Punching_Bag_N1_Full_Product_Review.blend": "7a2da9e58991c822c981ecd677c902538389701ec1fe662ab878c2fd2f417e1b",
+    "reviews\\2026-09-19\\n2-track-a\\Punching_Bag_N2_Track_A.blend": "4331bae6efa3573e67425d10591fc5d09f34323ae588879ddb47c0f311c8e1af",
+    "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+    "reviews/2026-09-19/n3-reach-height-body/Punching_Bag_N3_Reach_Height_Body.blend": "c956779e3874b6f9e54a943315174b805fdf4543935bd6571d06eaf35c6b6ea0"
+  },
+  "additional_routing_bow_mm": 0,
+  "method": "Inherited all meshes, shape keys, palm/glove schedules and airflow cues unchanged. Changed partial active-arm root pitch and target annotation boxes only.",
+  "limitations": [
+    "57 degree cap is a prescribed review limit, not validated hardware travel.",
+    "50% inherited extrapolated shape has marginal lateral glove inclusion.",
+    "Prior 68 mm routing bow and material/retention limits remain.",
+    "Chapter changes are cuts, not physically verified transitions."
+  ]
+}

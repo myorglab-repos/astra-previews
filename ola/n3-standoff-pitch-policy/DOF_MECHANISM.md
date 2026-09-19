@@ -1,0 +1,7 @@
+# E. Fixed bag, carrier yaw and protected pitch
+
+Eight soft continuum chambers per arm (U1-U3, F1-F3, T1-T2), textile strain limiting, vent plus elastic return, a soft wrist and no exposed distal metal. Bag fill and mast stay stationary. Yaw belongs to the shoulder carrier; pitch is a protected-root attitude concept, with B-06 hardware OPEN.
+
+All bag cover/fill and mast world matrices remain fixed in the audit. Carrier yaw is held at zero to isolate the policy; no camera orbit is used as bag rotation. Partial head pitch is constant within each chapter and changes only the striking arm. Body pitch moves from +8 degrees in guard to -20 degrees at peak and returns; all model mesh shape schedules are inherited. A camera-fixed label states the policy box, and separate green and white arrows distinguish pitched root aim from the fixed horizontal. Maximum presets and the whole/exposed airflow camera behavior remain inherited. Chapter switches are editorial cuts; intervening physical repositioning is outside the sampled trajectory claim.
+
+**Track A does not prove strike impulse.** These are prescribed geometry, motion and qualitative air cues. Measured pneumatic propulsion, contact force, durability and real CV remain unverified.

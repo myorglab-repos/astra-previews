@@ -1,0 +1,29 @@
+{
+  "status": "PASS_WITH_NOTED_LIMITATIONS",
+  "timestamp": "2026-09-19T13:42:35.100496-04:00",
+  "blend_sha256": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+  "reviewer": "Codex / Astra workflow",
+  "method": "Direct inspection using view_image of all four 38-pose contact sheets, full-resolution tall 50% still, tall preview, 25 samples decoded from the final atlas MP4, and retained airflow hook still.",
+  "inspected": [
+    "media/qa_stills_1.png",
+    "media/qa_stills_2.png",
+    "media/qa_stills_3.png",
+    "media/qa_stills_4.png",
+    "media/qa_decoded_film.png",
+    "media/qa_tall_preview.png",
+    "media/stills/tall_short_L_straight.png",
+    "media/airflow_hook_12.png"
+  ],
+  "findings": [
+    "Policy labels and force disclaimer are readable at full resolution; targets, root/palm axes and both arms are visible.",
+    "Peak target positions agree with intended changed stand-off; continuous chapter samples show guard, extension, hold and return, and body descent.",
+    "50% target box visibly overlaps the bag. Analytic policy_spatial_audit.json quantifies this as a failed separated-envelope assumption, not a rendering defect.",
+    "Retained airflow still shows eight labeled isolated branches and distinct fill/vent cues. Full 128-frame geometry/material equality and byte-identical film were separately checked."
+  ],
+  "limitations": [
+    "Contact sheets are thumbnails; full-resolution still used for label readability.",
+    "Dark inherited sleeves and reverse-side occlusion limit fine surface inspection.",
+    "Decoded samples and complete decode do not establish uninterrupted manual viewing or browser playback.",
+    "No force, hardware, loaded-collision or 50% usable opponent-spacing validation."
+  ]
+}

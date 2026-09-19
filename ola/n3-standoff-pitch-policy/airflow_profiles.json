@@ -1,0 +1,84 @@
+{
+  "channels": [
+    "U1",
+    "U2",
+    "U3",
+    "F1",
+    "F2",
+    "F3",
+    "T1",
+    "T2"
+  ],
+  "profiles": {
+    "straight": [
+      1,
+      0.35,
+      0.6,
+      0.8,
+      0.4,
+      1,
+      1,
+      0.25
+    ],
+    "hook": [
+      0.4,
+      1,
+      0.6,
+      1,
+      0.3,
+      0.55,
+      0.3,
+      1
+    ],
+    "uppercut": [
+      0.55,
+      0.35,
+      1,
+      0.35,
+      1,
+      0.6,
+      0.25,
+      1
+    ],
+    "diagonal": [
+      1,
+      0.4,
+      0.65,
+      0.6,
+      1,
+      0.4,
+      1,
+      0.25
+    ],
+    "body": [
+      1,
+      0.7,
+      0.25,
+      0.35,
+      0.55,
+      1,
+      1,
+      0.25
+    ]
+  },
+  "meaning": "Arbitrary visual emphasis; neither measured nor predicted. No numerical pressures or valve timing specified.",
+  "phases": [
+    "guard",
+    "fill/steer",
+    "hold",
+    "vent",
+    "elastic return with vent"
+  ],
+  "colors": {
+    "cyan": "fill",
+    "orange": "vent/exhaust",
+    "gold": "elastic textile recoil"
+  },
+  "hypotheses": {
+    "straight": "U1/F1/F3 emphasis; reduced U2/F2; T pair holds palm down",
+    "hook": "U2/F1 emphasis with U1/F2 vent: lateral steering hypothesis",
+    "uppercut": "U3/F2 emphasis: upward curvature hypothesis",
+    "body": "U1/U2/F3 emphasis with U3/F1 vent: downward steering hypothesis plus lowered root pitch"
+  },
+  "branch_topology": "Eight independent manifold-to-cell routes per arm; no serial U1-to-U2-to-U3 flow"
+}
