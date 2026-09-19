@@ -1,0 +1,31 @@
+{
+  "status": "PASS_WITH_LIMITATIONS",
+  "blend_sha256": "b8ebfdb134b5a4337ec7f10f7d83f8a4941f0d535c413fe9265b9506a8bcbeeb",
+  "film_sha256": "e225ec7c8b66a2d0457242413effa8cbd25517c52b540361076ec9f8d580f307",
+  "reviewer": "Codex assistant direct image inspection; not independent human blind-viewer acceptance",
+  "inspected": [
+    "media/qa_straight.png",
+    "media/qa_hook.png",
+    "media/qa_uppercut.png",
+    "media/qa_body.png",
+    "media/airflow_hook_16.png",
+    "media/guard_peak_uppercut.png",
+    "media/guard_peak_straight.png",
+    "media/guard_peak_hook.png",
+    "media/guard_peak_body.png"
+  ],
+  "decoded_phase_samples": 24,
+  "findings": [
+    "All four chapters show direct guard/current thickness differences in actual-mesh board and swell/relax in exposed arm.",
+    "Emphasized sets visible: straight U1/F1/F3/T1; hook U2/F1/T2; uppercut U3/F2/T2; body U1/U2/F3/T1.",
+    "Cyan fill, orange reverse vent, gold return and phase indicators remain distinguishable.",
+    "Initial torsion closeup clipping corrected with fixed per-pair scale bounded across all 32 frames; final decoded sheets inspected."
+  ],
+  "limitations": [
+    "AF-01 remains open for independent blind-viewer acceptance; these are assistant-observed phase samples, not full manual playback.",
+    "Whole product coverings hide many cells; exposed arm and closeups carry the volume-change comparison.",
+    "Torsion cells are smaller on the board and have exaggerated irregular geometry; no inflated-surface packaging or self-contact qualification.",
+    "Fixed uniform magnification differs between cell pairs; no cross-cell size inference.",
+    "Track A does not prove strike impulse."
+  ]
+}

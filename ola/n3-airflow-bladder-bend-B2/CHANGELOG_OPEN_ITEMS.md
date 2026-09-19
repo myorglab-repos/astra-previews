@@ -1,0 +1,7 @@
+# H. Changes and open items
+
+Created a B2 sibling packet from the audited Amendment B model. Retained both the original policy atlas and parent educational scene; added a B2 full-copy scene with stronger differential cell morphs. Replaced hardcoded emphasis captions with shared-profile generation and added a fixed-scale saved-mesh comparison board. No parent artifact was overwritten. Enlarged fill/vent dots and branch arrows; delivered a 2400x1400 film, 24 phase stills, four exposed guard/peak comparison stills, decoded QA sheets and fresh saved-model audits. Initial QA found torsion-cell clipping; per-pair magnification now bounds every chapter frame before rendering. Root hardware is hidden only in the exposed render. Low-emphasis fill labels now match small positive swelling.
+
+AF-01 remains OPEN pending Ola's blind-viewer test; this B2 remake is ready for that test. AF-02 caption mismatch is corrected by shared profile generation; AF-03 symbols are enlarged and differentiated, with readability submitted for review. RH-02 marginal partial coverage, clipped tall aim and target/bag overlap; RH-03 material/routing; B-03 retention; Critical B-06 hardware and Critical C-01 measurement remain OPEN. No pipeline, watcher, messaging or delivery is installed by this handoff.
+
+**Track A does not prove strike impulse.** These are prescribed geometry and illustrative pneumatic cues. Measured propulsion, contact force, durability and real CV remain unverified.

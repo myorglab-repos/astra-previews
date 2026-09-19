@@ -1,0 +1,15 @@
+{
+  "command": [
+    "C:/Program Files/Blender Foundation/Blender 3.6/blender.exe",
+    "-b",
+    "reviews\\2026-09-19\\n3-airflow-bladder-bend\\Punching_Bag_N3_Airflow_Bladder_Bend.blend",
+    "-t",
+    "4",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-19\\n3-airflow-bladder-bend-B2\\build_bend.py"
+  ],
+  "exit_code": 0,
+  "elapsed_s": 8.554596185684204
+}

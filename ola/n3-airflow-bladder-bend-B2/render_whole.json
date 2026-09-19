@@ -1,0 +1,1158 @@
+{
+  "blend_sha256": "b8ebfdb134b5a4337ec7f10f7d83f8a4941f0d535c413fe9265b9506a8bcbeeb",
+  "mode": "whole",
+  "records": [
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 1,
+      "local": 0,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0000.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 2,
+      "local": 1,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0001.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 3,
+      "local": 2,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0002.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 4,
+      "local": 3,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0003.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 5,
+      "local": 4,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0004.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 6,
+      "local": 5,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0005.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 7,
+      "local": 6,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0006.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 8,
+      "local": 7,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0007.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 9,
+      "local": 8,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0008.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 10,
+      "local": 9,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0009.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 11,
+      "local": 10,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0010.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 12,
+      "local": 11,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0011.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 13,
+      "local": 12,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0012.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 14,
+      "local": 13,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0013.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 15,
+      "local": 14,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0014.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 16,
+      "local": 15,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0015.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 17,
+      "local": 16,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0016.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 18,
+      "local": 17,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0017.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 19,
+      "local": 18,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0018.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 20,
+      "local": 19,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0019.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 21,
+      "local": 20,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0020.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 22,
+      "local": 21,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0021.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 23,
+      "local": 22,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0022.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 24,
+      "local": 23,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0023.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 25,
+      "local": 24,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0024.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 26,
+      "local": 25,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0025.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 27,
+      "local": 26,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0026.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 28,
+      "local": 27,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0027.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 29,
+      "local": 28,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0028.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 30,
+      "local": 29,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0029.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 31,
+      "local": 30,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0030.png"
+    },
+    {
+      "case": "short_max_L_straight",
+      "kind": "straight",
+      "frame": 32,
+      "local": 31,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0031.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 449,
+      "local": 0,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0032.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 450,
+      "local": 1,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0033.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 451,
+      "local": 2,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0034.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 452,
+      "local": 3,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0035.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 453,
+      "local": 4,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0036.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 454,
+      "local": 5,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0037.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 455,
+      "local": 6,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0038.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 456,
+      "local": 7,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0039.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 457,
+      "local": 8,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0040.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 458,
+      "local": 9,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0041.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 459,
+      "local": 10,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0042.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 460,
+      "local": 11,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0043.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 461,
+      "local": 12,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0044.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 462,
+      "local": 13,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0045.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 463,
+      "local": 14,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0046.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 464,
+      "local": 15,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0047.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 465,
+      "local": 16,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0048.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 466,
+      "local": 17,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0049.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 467,
+      "local": 18,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0050.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 468,
+      "local": 19,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0051.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 469,
+      "local": 20,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0052.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 470,
+      "local": 21,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0053.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 471,
+      "local": 22,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0054.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 472,
+      "local": 23,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0055.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 473,
+      "local": 24,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0056.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 474,
+      "local": 25,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0057.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 475,
+      "local": 26,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0058.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 476,
+      "local": 27,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0059.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 477,
+      "local": 28,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0060.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 478,
+      "local": 29,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0061.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 479,
+      "local": 30,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0062.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "kind": "hook",
+      "frame": 480,
+      "local": 31,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0063.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 513,
+      "local": 0,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0064.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 514,
+      "local": 1,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0065.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 515,
+      "local": 2,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0066.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 516,
+      "local": 3,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0067.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 517,
+      "local": 4,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0068.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 518,
+      "local": 5,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0069.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 519,
+      "local": 6,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0070.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 520,
+      "local": 7,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0071.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 521,
+      "local": 8,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0072.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 522,
+      "local": 9,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0073.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 523,
+      "local": 10,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0074.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 524,
+      "local": 11,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0075.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 525,
+      "local": 12,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0076.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 526,
+      "local": 13,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0077.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 527,
+      "local": 14,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0078.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 528,
+      "local": 15,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0079.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 529,
+      "local": 16,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0080.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 530,
+      "local": 17,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0081.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 531,
+      "local": 18,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0082.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 532,
+      "local": 19,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0083.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 533,
+      "local": 20,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0084.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 534,
+      "local": 21,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0085.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 535,
+      "local": 22,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0086.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 536,
+      "local": 23,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0087.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 537,
+      "local": 24,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0088.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 538,
+      "local": 25,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0089.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 539,
+      "local": 26,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0090.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 540,
+      "local": 27,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0091.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 541,
+      "local": 28,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0092.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 542,
+      "local": 29,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0093.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 543,
+      "local": 30,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0094.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "kind": "uppercut",
+      "frame": 544,
+      "local": 31,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0095.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1153,
+      "local": 0,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0096.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1154,
+      "local": 1,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0097.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1155,
+      "local": 2,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0098.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1156,
+      "local": 3,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0099.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1157,
+      "local": 4,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0100.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1158,
+      "local": 5,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0101.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1159,
+      "local": 6,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0102.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1160,
+      "local": 7,
+      "phase": "GUARD",
+      "labels": [],
+      "path": "media/whole_frames/0103.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1161,
+      "local": 8,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0104.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1162,
+      "local": 9,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0105.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1163,
+      "local": 10,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0106.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1164,
+      "local": 11,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0107.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1165,
+      "local": 12,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0108.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1166,
+      "local": 13,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0109.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1167,
+      "local": 14,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0110.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1168,
+      "local": 15,
+      "phase": "FILL / STEER",
+      "labels": [],
+      "path": "media/whole_frames/0111.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1169,
+      "local": 16,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0112.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1170,
+      "local": 17,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0113.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1171,
+      "local": 18,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0114.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1172,
+      "local": 19,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0115.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1173,
+      "local": 20,
+      "phase": "HOLD",
+      "labels": [],
+      "path": "media/whole_frames/0116.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1174,
+      "local": 21,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0117.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1175,
+      "local": 22,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0118.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1176,
+      "local": 23,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0119.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1177,
+      "local": 24,
+      "phase": "VENT",
+      "labels": [],
+      "path": "media/whole_frames/0120.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1178,
+      "local": 25,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0121.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1179,
+      "local": 26,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0122.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1180,
+      "local": 27,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0123.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1181,
+      "local": 28,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0124.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1182,
+      "local": 29,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0125.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1183,
+      "local": 30,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0126.png"
+    },
+    {
+      "case": "body_L",
+      "kind": "body",
+      "frame": 1184,
+      "local": 31,
+      "phase": "ELASTIC RETURN",
+      "labels": [],
+      "path": "media/whole_frames/0127.png"
+    }
+  ]
+}

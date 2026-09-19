@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>TOOLCHAIN_REPRO</title><style>body{max-width:1150px;margin:35px auto;padding:0 24px;font:18px/1.55 system-ui;color:#e5edf7;background:#101c2c}a{color:#55ddea}img,video{max-width:100%}table{border-collapse:collapse;width:100%;font-size:16px}th,td{border:1px solid #506079;padding:9px;text-align:left}pre{overflow:auto;background:#203149;padding:16px}h1,h2{line-height:1.2}li{margin:7px 0}</style><body><a href="INDEX.html">Review index</a><h1>I. Toolchain and reproduction</h1>
+<p>Blender 3.6.5 CLI with bpy/NumPy; Python 3.11, Pillow, Mistune and imageio-ffmpeg. Blender access was exercised; native UI and browser playback are not claimed. Source hashes are in <a href="lineage.json">lineage.json</a>; successor SHA-256 is <code>b8ebfdb134b5a4337ec7f10f7d83f8a4941f0d535c413fe9265b9506a8bcbeeb</code>. Git LFS stores .blend/.png/.mp4 files. Source binaries are real files, not pointers.</p>
+<p>Run builds in a new output directory or isolated checkout. Never overwrite settled baselines. <code>--replace-candidate</code> applies only to an unsettled output. Scripts resolve the packet directory from their location. Use this prefix for the following commands: <code>python reviews/2026-09-19/n3-airflow-bladder-bend-B2/</code>.</p>
+<pre><code class="language-text">run_blender.py build_bend reviews/2026-09-19/n3-airflow-bladder-bend/Punching_Bag_N3_Airflow_Bladder_Bend.blend
+run_blender.py audit_lineage &lt;successor.blend&gt;
+run_blender.py audit_atlas &lt;successor.blend&gt;
+run_blender.py audit_swell &lt;successor.blend&gt;
+run_blender.py render_media &lt;successor.blend&gt; whole
+run_blender.py render_media &lt;successor.blend&gt; exposed
+run_blender.py render_cells &lt;successor.blend&gt;
+compose_media.py
+qa_media.py
+build_packet.py
+# Inspect the decoded phase sheets and full-resolution stills; record visual_review.json.
+verify_packet.py
+</code></pre>
+<p>Film has four chapters, 128 frames at 4 fps, 2400×1400 pixels. Transitions between chapters are cuts; timing is explanatory. Intermediate frame folders are ignored. Native Blender process receipts and source-bound render records are retained. Blender reports eight invalid orphan shape-key pointers and action-user diagnostics on load, also present in the parent packet; the loader discards those blocks. All attached atlas shape schedules and selected B2 morph weights pass the saved-model checks after loading. The file is not claimed to load without diagnostics. Complete film decode and selected decoded-frame visual QA do not imply continuous manual playback.</p>
+<p><strong>Track A does not prove strike impulse.</strong> These are prescribed geometry and illustrative pneumatic cues. Measured propulsion, contact force, durability and real CV remain unverified.</p>
+</body></html>
