@@ -1,0 +1,350 @@
+{
+  "status": "PASS",
+  "blend_sha256": "8eebb0669a7a5b3092abee51921b8e33a3b7b598db53eaf89abdfd4f062d0564",
+  "decoded_stills": 38,
+  "records": [
+    {
+      "case": "short_max_L_straight",
+      "path": "media/stills/short_max_L_straight.png",
+      "sha256": "2a0d7070ffee26fe2120c404b170f9e61f8df7def4ec77004783966bb2f96211",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_R_straight",
+      "path": "media/stills/short_max_R_straight.png",
+      "sha256": "4ccb01bfcfd4d6f29c632ee5fb65426ed456ebf3cd803bb5214d828fd772fbb5",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_L_hook",
+      "path": "media/stills/short_max_L_hook.png",
+      "sha256": "b429f85a06c8d8abe55b347f6d2b08162b21249bce1233752eccd6bb5755a9a9",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_R_hook",
+      "path": "media/stills/short_max_R_hook.png",
+      "sha256": "a4976b1258a5f7debcb885f6add44d662504254503cb9612b96a46001981a432",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "path": "media/stills/short_max_L_uppercut.png",
+      "sha256": "8a90be589a5ab7e6753117261d367f0708e70b3d721eb501342cfeb12ace847a",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "path": "media/stills/short_max_R_uppercut.png",
+      "sha256": "cf001b53c58fbc8fd2e8d08915486f2baf9a1d2148d4a1d5a3fe5f67f60303ed",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "path": "media/stills/short_max_L_diagonal.png",
+      "sha256": "ee3e948c624e8e727a8d7421896b654d1c7158a9da4f7d5c4b70b79dcf323d36",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "path": "media/stills/short_max_R_diagonal.png",
+      "sha256": "1f0df5a7793c67e696b3c6c9c78781efb24b15b755913cade51ac6384b200779",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_short_L_straight",
+      "path": "media/stills/short_short_L_straight.png",
+      "sha256": "7269f6d28aac4b464cf90696c7a4c18fc1165317ef9ba43e3ad01901e04ea11a",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_mid_L_straight",
+      "path": "media/stills/short_mid_L_straight.png",
+      "sha256": "83ac2809dcdc064ca97622d23ede650997d2deb4e860a0aedc9e7ba364a2ff6d",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_short_R_straight",
+      "path": "media/stills/short_short_R_straight.png",
+      "sha256": "4e214e1c06c8240bc099ccdf4a1eda864f2c729793dd8796a9f890e56dace23c",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "short_mid_R_straight",
+      "path": "media/stills/short_mid_R_straight.png",
+      "sha256": "1a31e972afdda88fb3aa63f8eee186caba3b37d9e9abbe25322f71e3417730da",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_L_straight",
+      "path": "media/stills/mid_max_L_straight.png",
+      "sha256": "55a69a16ff755224e14e8ea1225eb764f074af1c8c595dc7f49111a8d0f68004",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_R_straight",
+      "path": "media/stills/mid_max_R_straight.png",
+      "sha256": "1261795dbc3c5304aadf118f2971246a32996ad5b4e969a290f90a51719a175d",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_L_hook",
+      "path": "media/stills/mid_max_L_hook.png",
+      "sha256": "e83c721fca9ff2ef6e938d829d6fb9d3a48db16c1be56b1966e37d09bfd212af",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_R_hook",
+      "path": "media/stills/mid_max_R_hook.png",
+      "sha256": "71b32da2b246bb03a1f34aa115b3592bd9ca6719c67c9f9bfc06ab63de7883b2",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "path": "media/stills/mid_max_L_uppercut.png",
+      "sha256": "3d70b86fbe192fb72b16799508263bf8dadd508fe2d876d9de638aa3f10b97e5",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "path": "media/stills/mid_max_R_uppercut.png",
+      "sha256": "f51eaaaad4e1fc17d1ed437d1795fe135fdf7f8070bd18a6758d5b95a644fe66",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "path": "media/stills/mid_max_L_diagonal.png",
+      "sha256": "f3ca8dcc0c98e3817d5e8a019e004dd0f6378bd8f4ba687020f2b170ff48902f",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "path": "media/stills/mid_max_R_diagonal.png",
+      "sha256": "c7af5dc9c7a7bd76074a0ea5dd135edf7a613895323a863d51c098db701c7edf",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_short_L_straight",
+      "path": "media/stills/mid_short_L_straight.png",
+      "sha256": "7299ea020c3981b5afb540c65e94911e068501262ae6740e61cef5de21d95800",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "path": "media/stills/mid_mid_L_straight.png",
+      "sha256": "c7dea20fa7d61c71b70c335aba5cfac714d6a6beba9ece2f67aad7044a139ec1",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_short_R_straight",
+      "path": "media/stills/mid_short_R_straight.png",
+      "sha256": "79c7d1e74f4c2f0e117144f92825b44a193dd8fa8a1cc4bd117e738e6b73a0c3",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "path": "media/stills/mid_mid_R_straight.png",
+      "sha256": "4411b14b30e6364c8479b41102a1030cb85510a033c6d5842b6c8ee841ba89ba",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_L_straight",
+      "path": "media/stills/tall_max_L_straight.png",
+      "sha256": "fb09b504db0f38fa22dbbef215f1f642bae9a74c10260e9ee5582a43e7363666",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_R_straight",
+      "path": "media/stills/tall_max_R_straight.png",
+      "sha256": "98a05cba521715cac11e7eec9be900a95b7de7c29fab3322797464a747345150",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_L_hook",
+      "path": "media/stills/tall_max_L_hook.png",
+      "sha256": "100c7eb1162509315fa96da10ac505eebf1e933d3cb8360dfe9c380f8fba19e4",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_R_hook",
+      "path": "media/stills/tall_max_R_hook.png",
+      "sha256": "a5c964a2d7f62e20191466616d30498233d53da4b53381f99c8ad6cafe128766",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "path": "media/stills/tall_max_L_uppercut.png",
+      "sha256": "db82bfb719a8b7611565e7eaf9ebabf41e5a25a860e651ec272eca4a2fdbec42",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "path": "media/stills/tall_max_R_uppercut.png",
+      "sha256": "b846e2ba736cd707e7b3d2f02ff6cdd4a45eb5a89353cbbf20bb1ce168fa8fb8",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "path": "media/stills/tall_max_L_diagonal.png",
+      "sha256": "21d14fbfa1014065faf5776b2b9157511b9b944afca1471c4634c87eb7f12bd8",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "path": "media/stills/tall_max_R_diagonal.png",
+      "sha256": "df4a9028d13484622df956506027817e5c4865b4443831c4e68b81d643d5b069",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_short_L_straight",
+      "path": "media/stills/tall_short_L_straight.png",
+      "sha256": "8bfc3959d0ed54920eb424a6136abd168718a27cc7ca562fd72785b5160cfded",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "path": "media/stills/tall_mid_L_straight.png",
+      "sha256": "f04d7b735623b0c92101df25f671c0e63deeb6b073518230bc6cf51d0aa197ff",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_short_R_straight",
+      "path": "media/stills/tall_short_R_straight.png",
+      "sha256": "d9f700b9fe4171a3c56e2b7b4729135e6488449c59fd44d42db879ddef6f9352",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "path": "media/stills/tall_mid_R_straight.png",
+      "sha256": "315dd511c338a3dce64e6e9bbea5399e3fd7be910a77e4240ba0f5817a8278f0",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "body_L",
+      "path": "media/stills/body_L.png",
+      "sha256": "fec48728f783b9f69538c937f017bbc43a08652ebeee9f386d67019260eb234e",
+      "size": [
+        1200,
+        1090
+      ]
+    },
+    {
+      "case": "body_R",
+      "path": "media/stills/body_R.png",
+      "sha256": "b31b223c743b10d4e775fcc9571744985a4f47764f8f1eedeec1490341b36ab9",
+      "size": [
+        1200,
+        1090
+      ]
+    }
+  ],
+  "scope": "Pillow full decode and caption composition; visual inspection recorded separately. No film generated for this atlas-only pass."
+}

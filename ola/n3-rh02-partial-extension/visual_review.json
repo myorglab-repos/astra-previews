@@ -1,0 +1,48 @@
+{
+  "status": "PASS_WITH_LIMITATIONS",
+  "timestamp": "2026-09-20T00:07:24.121186-04:00",
+  "reviewer": "Codex assistant direct image inspection",
+  "blend_sha256": "8eebb0669a7a5b3092abee51921b8e33a3b7b598db53eaf89abdfd4f062d0564",
+  "images_inspected": [
+    {
+      "path": "media/partial_short.png",
+      "sha256": "4fb840592002ec94e1d54504fbd001859df3b63c77a43a6bfcc7f2d56f3547e1"
+    },
+    {
+      "path": "media/partial_mid.png",
+      "sha256": "f34c23d97444996a7c0c33828f36472963928b22f82de305eac278c55ca0d99c"
+    },
+    {
+      "path": "media/partial_tall.png",
+      "sha256": "520c941a7dcba8018d49b40b3d4dc471387ad990978af39ea20bae6b5aac5b32"
+    },
+    {
+      "path": "media/qa_all_1.png",
+      "sha256": "5b4df98630b5bfc12a125064c23726c8714e6619fe98d5b6001375d606c3b955"
+    },
+    {
+      "path": "media/qa_all_2.png",
+      "sha256": "e05019f25c398ce41813d54c5191985158a1cfd2e03de2d37047b89843f4d396"
+    },
+    {
+      "path": "media/qa_all_3.png",
+      "sha256": "364ca8e6e0759179125f7537cdafaa1b7786da24c2c330ac096d1a05f9ddd0a6"
+    },
+    {
+      "path": "media/qa_all_4.png",
+      "sha256": "2a4ba00799f3bb469c95021290335610c86767ccd40dba64bac1cc068f185b6a"
+    }
+  ],
+  "findings": [
+    "All 12 partial poses reviewed in comparison sheets; clear NON-HEAD-TARGET versus HEAD TARGET captions, named sides and explicit shortfall values.",
+    "All 38 peaks inspected in four contact sheets; framing and labels retained.",
+    "Found and corrected the inherited amber=abdomen-only legend in saved model; rebuilt, re-audited and re-rendered before final review.",
+    "Amber 50% reference boxes and cyan head targets are visually distinguished; numerical audit establishes 25 mm proxy separation independent of perspective."
+  ],
+  "limitations": [
+    "Contact sheets are overview evidence; full-size individual stills are linked for detailed review.",
+    "Perspective overlap in 2D is not physical intersection; use numeric 3D proxy audits.",
+    "No film or browser playback claim; no physical force or safety qualification.",
+    "Independent Ola policy disposition pending."
+  ]
+}

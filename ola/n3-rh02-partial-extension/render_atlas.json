@@ -1,0 +1,233 @@
+{
+  "blend_sha256": "8eebb0669a7a5b3092abee51921b8e33a3b7b598db53eaf89abdfd4f062d0564",
+  "records": [
+    {
+      "case": "short_max_L_straight",
+      "frame": 17,
+      "role": "head_target",
+      "path": "media/raw/short_max_L_straight.png"
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 49,
+      "role": "head_target",
+      "path": "media/raw/short_max_R_straight.png"
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 81,
+      "role": "head_target",
+      "path": "media/raw/short_max_L_hook.png"
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 113,
+      "role": "head_target",
+      "path": "media/raw/short_max_R_hook.png"
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 145,
+      "role": "head_target",
+      "path": "media/raw/short_max_L_uppercut.png"
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 177,
+      "role": "head_target",
+      "path": "media/raw/short_max_R_uppercut.png"
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 209,
+      "role": "head_target",
+      "path": "media/raw/short_max_L_diagonal.png"
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 241,
+      "role": "head_target",
+      "path": "media/raw/short_max_R_diagonal.png"
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 273,
+      "role": "reference_only_non_head_target",
+      "path": "media/raw/short_short_L_straight.png"
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 305,
+      "role": "head_target",
+      "path": "media/raw/short_mid_L_straight.png"
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 337,
+      "role": "reference_only_non_head_target",
+      "path": "media/raw/short_short_R_straight.png"
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 369,
+      "role": "head_target",
+      "path": "media/raw/short_mid_R_straight.png"
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 401,
+      "role": "head_target",
+      "path": "media/raw/mid_max_L_straight.png"
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 433,
+      "role": "head_target",
+      "path": "media/raw/mid_max_R_straight.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 465,
+      "role": "head_target",
+      "path": "media/raw/mid_max_L_hook.png"
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 497,
+      "role": "head_target",
+      "path": "media/raw/mid_max_R_hook.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 529,
+      "role": "head_target",
+      "path": "media/raw/mid_max_L_uppercut.png"
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 561,
+      "role": "head_target",
+      "path": "media/raw/mid_max_R_uppercut.png"
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 593,
+      "role": "head_target",
+      "path": "media/raw/mid_max_L_diagonal.png"
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 625,
+      "role": "head_target",
+      "path": "media/raw/mid_max_R_diagonal.png"
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 657,
+      "role": "reference_only_non_head_target",
+      "path": "media/raw/mid_short_L_straight.png"
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 689,
+      "role": "head_target",
+      "path": "media/raw/mid_mid_L_straight.png"
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 721,
+      "role": "reference_only_non_head_target",
+      "path": "media/raw/mid_short_R_straight.png"
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 753,
+      "role": "head_target",
+      "path": "media/raw/mid_mid_R_straight.png"
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 785,
+      "role": "head_target",
+      "path": "media/raw/tall_max_L_straight.png"
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 817,
+      "role": "head_target",
+      "path": "media/raw/tall_max_R_straight.png"
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 849,
+      "role": "head_target",
+      "path": "media/raw/tall_max_L_hook.png"
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 881,
+      "role": "head_target",
+      "path": "media/raw/tall_max_R_hook.png"
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 913,
+      "role": "head_target",
+      "path": "media/raw/tall_max_L_uppercut.png"
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 945,
+      "role": "head_target",
+      "path": "media/raw/tall_max_R_uppercut.png"
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 977,
+      "role": "head_target",
+      "path": "media/raw/tall_max_L_diagonal.png"
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 1009,
+      "role": "head_target",
+      "path": "media/raw/tall_max_R_diagonal.png"
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1041,
+      "role": "reference_only_non_head_target",
+      "path": "media/raw/tall_short_L_straight.png"
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1073,
+      "role": "head_target",
+      "path": "media/raw/tall_mid_L_straight.png"
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1105,
+      "role": "reference_only_non_head_target",
+      "path": "media/raw/tall_short_R_straight.png"
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1137,
+      "role": "head_target",
+      "path": "media/raw/tall_mid_R_straight.png"
+    },
+    {
+      "case": "body_L",
+      "frame": 1169,
+      "role": "abdomen_target",
+      "path": "media/raw/body_L.png"
+    },
+    {
+      "case": "body_R",
+      "frame": 1201,
+      "role": "abdomen_target",
+      "path": "media/raw/body_R.png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS_WITH_ENGINEERING_RESIDUALS",
+  "blend_sha256": "8eebb0669a7a5b3092abee51921b8e33a3b7b598db53eaf89abdfd4f062d0564",
+  "manifest_artifacts": 133,
+  "local_links_checked": 206,
+  "missing_links": [],
+  "baselines_preserved": 9,
+  "peak_geometry_unchanged": 38,
+  "max_cases_unchanged": 26,
+  "all_current_boxes_separated": true,
+  "non_head_cases": 6,
+  "head_partial_cases": 6,
+  "original_clearance_summaries_unchanged": true,
+  "visual_review_pass": true,
+  "open_items": [
+    "Ola RH-02 policy disposition",
+    "50% head-target capability excluded",
+    "Narrow G-03 margin and loaded clearance",
+    "RH-03 routing/materials",
+    "B-03 retention",
+    "B-06 Critical structure",
+    "C-01 Critical measured propulsion/contact"
+  ],
+  "scope": "Digital policy and completeness verification. Track A does not prove strike impulse."
+}
