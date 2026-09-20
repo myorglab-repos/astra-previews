@@ -1,0 +1,26 @@
+{
+  "status": "PASS_WITH_ENGINEERING_RESIDUALS",
+  "blend_sha256": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+  "manifest_artifacts": 113,
+  "local_links_checked": 258,
+  "missing_links": [],
+  "baselines_preserved": true,
+  "all_38_policy_peaks_included": true,
+  "all_target_boxes_spatially_separated": false,
+  "target_boxes_overlapping_bag_proxy": 6,
+  "unchanged_chords": true,
+  "registration_pass": true,
+  "nominal_clearance_pass": true,
+  "media_decode_pass": true,
+  "visual_review_pass": true,
+  "open_items": [
+    "RH-01 policy acceptance",
+    "RH-02 marginal 50% coverage, tall clipped centroid aim and failed separated-envelope assumption",
+    "G-03 reduced clearance margin and tolerances",
+    "RH-03 material/routing",
+    "B-03 retention",
+    "B-06 root structure Critical",
+    "C-01 measured propulsion/contact Critical"
+  ],
+  "scope": "Completeness and stated digital checks. Not owner acceptance; Track A does not prove strike impulse."
+}

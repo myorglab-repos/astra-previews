@@ -1,0 +1,5052 @@
+{
+  "blend_sha256": "7ca3b269cc91bc3adb4cb244e784af1d5a976dff248614cb2e128b1225554aab",
+  "blender": "3.6.5",
+  "method": "All integer and half frames; evaluated world mesh ring centers and glove datum; 71 mm radius proxy versus infinite r=275 mm cylinder. AABB overlap is broad-phase only; datum inclusion is point-in-box.",
+  "sample_times": 2431,
+  "minimum": {
+    "G05_lower": {
+      "mm": 4.999995231628418,
+      "frame": 1.0
+    },
+    "G05_upper": {
+      "mm": 4.999995231628418,
+      "frame": 1.0
+    },
+    "G03_L_U": {
+      "mm": 23.67245090075565,
+      "frame": 913.0
+    },
+    "vertex_L_U": {
+      "mm": 32.74904735974038,
+      "frame": 913.0
+    },
+    "G03_L_F": {
+      "mm": 0.060171854631529964,
+      "frame": 1025.0
+    },
+    "vertex_L_F": {
+      "mm": 11.29330028777792,
+      "frame": 785.0
+    },
+    "G03_R_U": {
+      "mm": 23.67245090075565,
+      "frame": 945.0
+    },
+    "vertex_R_U": {
+      "mm": 32.74904735974038,
+      "frame": 945.0
+    },
+    "G03_R_F": {
+      "mm": 0.060171854631529964,
+      "frame": 1089.0
+    },
+    "vertex_R_F": {
+      "mm": 11.29330028777792,
+      "frame": 817.0
+    }
+  },
+  "maximum": {
+    "A05_core": {
+      "mm": 0.00034960301096504954,
+      "frame": 745.5
+    },
+    "A05_cuff": {
+      "mm": 0.0003495305265252614,
+      "frame": 745.5
+    },
+    "A05_cover": {
+      "mm": 0.0003494381204717344,
+      "frame": 745.5
+    },
+    "within_chapter_halfstep": {
+      "mm": 29.693632407946026,
+      "frame": 1169.0
+    }
+  },
+  "peaks": [
+    {
+      "id": "short_max_L_straight",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 0,
+      "pitch_deg": 8,
+      "side": "L",
+      "kind": "straight",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 73,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "start": 1,
+      "peak": 17,
+      "end": 32,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        -67.9188147187233,
+        -600.9634137153625,
+        1594.9479341506958
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99997497013155,
+        1414.999957936726
+      ],
+      "chord_mm": 858.9146793058655,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.51147572089083,
+          -814.013581260473,
+          1559.7312541539152
+        ],
+        [
+          55.59185951210321,
+          -571.3767835682878,
+          1706.6034303956185
+        ]
+      ],
+      "palm_world": [
+        0.04382723408846765,
+        -0.26037042376440933,
+        -0.9645135644359267
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.3249054227475,
+        "F": 394.0784258516577
+      },
+      "glove_vertices_inside_target": 4459,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_R_straight",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 0,
+      "pitch_deg": 8,
+      "side": "R",
+      "kind": "straight",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 313,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "start": 33,
+      "peak": 49,
+      "end": 64,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        67.9188221693039,
+        -600.9634137153625,
+        1594.9479341506958
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99997497013155,
+        1414.999957936726
+      ],
+      "chord_mm": 858.9146768565138,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -55.591852061522616,
+          -814.013593806147,
+          1559.7312541539152
+        ],
+        [
+          122.51148286291377,
+          -571.3767814906944,
+          1706.6034265227424
+        ]
+      ],
+      "palm_world": [
+        -0.04382723408846765,
+        -0.26037042376440933,
+        -0.9645135644359267
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.32490542274763,
+        "F": 394.07842585165764
+      },
+      "glove_vertices_inside_target": 4459,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_L_hook",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 3,
+      "pitch_deg": 11,
+      "side": "L",
+      "kind": "hook",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 553,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "start": 65,
+      "peak": 81,
+      "end": 96,
+      "prior_pitch_deg": 11,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        -154.1919708251953,
+        -472.7656841278076,
+        1616.992473602295
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999818126652,
+        1414.9999265009747
+      ],
+      "chord_mm": 720.0773441465535,
+      "target_datum_deficit_mm": 7.234315872192365,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -195.85454566294555,
+          -643.0543145987526,
+          1566.0238019775607
+        ],
+        [
+          36.36054228882735,
+          -445.5185892723681,
+          1721.813890192667
+        ]
+      ],
+      "palm_world": [
+        0.6589851486985373,
+        0.7027599926291805,
+        -0.26808014949749764
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 467.60262620010366,
+        "F": 387.4385179478892
+      },
+      "glove_vertices_inside_target": 3438,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_R_hook",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 3,
+      "pitch_deg": 11,
+      "side": "R",
+      "kind": "hook",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 793,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "start": 97,
+      "peak": 113,
+      "end": 128,
+      "prior_pitch_deg": 11,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        154.1919708251953,
+        -472.76559472084045,
+        1616.9923543930054
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.9999818126652,
+        1414.9999265009742
+      ],
+      "chord_mm": 720.0772284155805,
+      "target_datum_deficit_mm": 7.234405279159528,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -36.36056470482174,
+          -643.0542238640338,
+          1566.023682768271
+        ],
+        [
+          195.85454566294555,
+          -445.51849986540094,
+          1721.8137709833775
+        ]
+      ],
+      "palm_world": [
+        -0.6589851486985373,
+        0.7027599926291805,
+        -0.26808014949749764
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 467.60262620010366,
+        "F": 387.43851794788907
+      },
+      "glove_vertices_inside_target": 3438,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_L_uppercut",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 0,
+      "pitch_deg": 8,
+      "side": "L",
+      "kind": "uppercut",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1033,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "start": 129,
+      "peak": 145,
+      "end": 160,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        -70.57598233222961,
+        -501.67953968048096,
+        1605.7921648025513
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99997497013155,
+        1414.9999579367266
+      ],
+      "chord_mm": 770.1030870488698,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -112.05015013271368,
+          -679.003075204096,
+          1559.9514396911302
+        ],
+        [
+          63.938835135523426,
+          -468.89636490479324,
+          1781.5394603655327
+        ]
+      ],
+      "palm_world": [
+        -0.22550723190580643,
+        0.6109443562641492,
+        0.758876460240509
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 432.1066309202175,
+        "F": 403.04764107649083
+      },
+      "glove_vertices_inside_target": 2952,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_R_uppercut",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 0,
+      "pitch_deg": 8,
+      "side": "R",
+      "kind": "uppercut",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1273,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "start": 161,
+      "peak": 177,
+      "end": 192,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        70.57598978281021,
+        -501.6794800758362,
+        1605.7921648025513
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99997497013155,
+        1414.999957936726
+      ],
+      "chord_mm": 770.1030308079601,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -63.93882768494283,
+          -679.0030100377429,
+          1559.9514396911302
+        ],
+        [
+          112.05015758329428,
+          -468.89630491988,
+          1781.539456299714
+        ]
+      ],
+      "palm_world": [
+        0.22550723190580643,
+        0.6109443562641492,
+        0.758876460240509
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 432.10663092021747,
+        "F": 403.0476410764905
+      },
+      "glove_vertices_inside_target": 2952,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_L_diagonal",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": -8,
+      "pitch_deg": 0,
+      "side": "L",
+      "kind": "diagonal",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1513,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "start": 193,
+      "peak": 209,
+      "end": 224,
+      "prior_pitch_deg": 0,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        -67.54633039236069,
+        -600.513219833374,
+        1596.3366031646729
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999976158142,
+        1414.9999618530273
+      ],
+      "chord_mm": 858.914830647494,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.69107244615678,
+          -813.5828450012067,
+          1564.1169264341315
+        ],
+        [
+          57.405898283199505,
+          -571.0164826944759,
+          1707.9303497449462
+        ]
+      ],
+      "palm_world": [
+        0.08936941076235709,
+        -0.24604636974777122,
+        -0.965129158379298
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 427.4783552789509,
+        "F": 397.62016875990844
+      },
+      "glove_vertices_inside_target": 4407,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_max_R_diagonal",
+      "preset": "short",
+      "preset_pitch_deg": 8,
+      "strike_trim_deg": 15,
+      "pitch_deg": 23,
+      "side": "R",
+      "kind": "diagonal",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1753,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "start": 225,
+      "peak": 241,
+      "end": 256,
+      "prior_pitch_deg": 23,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "wrist_mm": [
+        68.67434084415436,
+        -604.3432354927063,
+        1580.67786693573
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99992791485099,
+        1415.0000135008174
+      ],
+      "chord_mm": 858.914538623906,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -51.5616276579562,
+          -817.7726816641317,
+          1538.2191231822585
+        ],
+        [
+          122.06894209508276,
+          -574.9702056344386,
+          1690.6109516915806
+        ]
+      ],
+      "palm_world": [
+        0.04473204521802488,
+        -0.272629796457672,
+        -0.9610785806655255
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 427.4287631801396,
+        "F": 398.58948587061633
+      },
+      "glove_vertices_inside_target": 5138,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_short_L_straight",
+      "preset": "short",
+      "pitch_deg": 27.126,
+      "side": "L",
+      "kind": "straight",
+      "extension": "short",
+      "fraction": 0.5,
+      "source_frame": 73,
+      "q": -0.35808787362155053,
+      "target": [
+        [
+          -0.26,
+          -0.45,
+          1.45
+        ],
+        [
+          0.26,
+          -0.15,
+          1.65
+        ]
+      ],
+      "start": 257,
+      "peak": 273,
+      "end": 288,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 27.1262506090376,
+        "desired_centroid_z_m": 1.5499999999999998,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        -382.9391896724701,
+        -227.553129196167,
+        1509.955644607544
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99994531825237,
+        1415.0000282307929
+      ],
+      "chord_mm": 429.45721994041776,
+      "target_datum_deficit_mm": 122.93918967247008,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -437.5318506746376,
+          -421.992928803627,
+          1484.143542102558
+        ],
+        [
+          -259.4285154416436,
+          -188.6097637148726,
+          1666.575387947883
+        ]
+      ],
+      "palm_world": [
+        0.04382723200422499,
+        -0.5620176914430915,
+        -0.8259632487222575
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 476.97573638980475,
+        "F": 271.839359512452
+      },
+      "glove_vertices_inside_target": 4,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_mid_L_straight",
+      "preset": "short",
+      "pitch_deg": 13.499,
+      "side": "L",
+      "kind": "straight",
+      "extension": "mid",
+      "fraction": 0.7,
+      "source_frame": 73,
+      "q": 0.24897376604499005,
+      "target": [
+        [
+          -0.26,
+          -0.6,
+          1.45
+        ],
+        [
+          0.26,
+          -0.3,
+          1.65
+        ]
+      ],
+      "start": 289,
+      "peak": 305,
+      "end": 320,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 13.498555791508938,
+        "desired_centroid_z_m": 1.5499999999999998,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        -242.12591350078583,
+        -391.0028040409088,
+        1525.5777835845947
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99996180599155,
+        1414.9999622713185
+      ],
+      "chord_mm": 601.2402427234962,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -296.71857450295335,
+          -600.143884498841,
+          1499.4536211784903
+        ],
+        [
+          -118.61523926995932,
+          -358.7823938035205,
+          1650.583047116298
+        ]
+      ],
+      "palm_world": [
+        0.043827233832697064,
+        -0.3515999167470839,
+        -0.9351238806265284
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 383.89047413274784,
+        "F": 290.0963823319828
+      },
+      "glove_vertices_inside_target": 5170,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_short_R_straight",
+      "preset": "short",
+      "pitch_deg": 27.126,
+      "side": "R",
+      "kind": "straight",
+      "extension": "short",
+      "fraction": 0.5,
+      "source_frame": 313,
+      "q": -0.3580878721658405,
+      "target": [
+        [
+          -0.26,
+          -0.45,
+          1.45
+        ],
+        [
+          0.26,
+          -0.15,
+          1.65
+        ]
+      ],
+      "start": 321,
+      "peak": 337,
+      "end": 352,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 27.12625061154724,
+        "desired_centroid_z_m": 1.5499999999999998,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        382.9391896724701,
+        -227.553129196167,
+        1509.955644607544
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99994531825237,
+        1415.0000282307929
+      ],
+      "chord_mm": 429.45721994041776,
+      "target_datum_deficit_mm": 122.93918967247008,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          259.4285154416436,
+          -421.9929518049008,
+          1484.1435455430642
+        ],
+        [
+          437.53185036608,
+          -188.60976580855183,
+          1666.575393242201
+        ]
+      ],
+      "palm_world": [
+        -0.04382723200422499,
+        -0.5620176914430915,
+        -0.8259632487222575
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 476.9757363898047,
+        "F": 271.83935951245195
+      },
+      "glove_vertices_inside_target": 4,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "short_mid_R_straight",
+      "preset": "short",
+      "pitch_deg": 13.499,
+      "side": "R",
+      "kind": "straight",
+      "extension": "mid",
+      "fraction": 0.7,
+      "source_frame": 313,
+      "q": 0.2489737684477409,
+      "target": [
+        [
+          -0.26,
+          -0.6,
+          1.45
+        ],
+        [
+          0.26,
+          -0.3,
+          1.65
+        ]
+      ],
+      "start": 353,
+      "peak": 369,
+      "end": 384,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 13.4985557817896,
+        "desired_centroid_z_m": 1.5499999999999998,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        242.12592840194702,
+        -391.0028040409088,
+        1525.5777835845947
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99996180599155,
+        1414.9999622713183
+      ],
+      "chord_mm": 601.2402400429036,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          118.61525417112051,
+          -600.1438832386407,
+          1499.4536228839675
+        ],
+        [
+          296.7185890955569,
+          -358.78239583175286,
+          1650.5830611960382
+        ]
+      ],
+      "palm_world": [
+        -0.043827233832697064,
+        -0.3515999167470839,
+        -0.9351238806265284
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 383.89047413274784,
+        "F": 290.0963823319824
+      },
+      "glove_vertices_inside_target": 5170,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_L_straight",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 0,
+      "pitch_deg": 16,
+      "side": "L",
+      "kind": "straight",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 73,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "start": 385,
+      "peak": 401,
+      "end": 416,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        -67.9188147187233,
+        -568.221926689148,
+        1703.277587890625
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999527717604,
+        1414.9999526630647
+      ],
+      "chord_mm": 858.914712534592,
+      "target_datum_deficit_mm": 31.77807331085203,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.51147572089083,
+          -775.196045229453,
+          1677.2478319372178
+        ],
+        [
+          55.59185951210321,
+          -534.7444276197713,
+          1834.2065053079234
+        ]
+      ],
+      "palm_world": [
+        0.04382723366309613,
+        -0.39207084146047977,
+        -0.9188904335479349
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.3249096858734,
+        "F": 394.0784285258365
+      },
+      "glove_vertices_inside_target": 4059,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_R_straight",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 0,
+      "pitch_deg": 16,
+      "side": "R",
+      "kind": "straight",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 313,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "start": 417,
+      "peak": 433,
+      "end": 448,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        67.9188221693039,
+        -568.221926689148,
+        1703.277587890625
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.9999527717604,
+        1414.9999526630647
+      ],
+      "chord_mm": 858.9147100852405,
+      "target_datum_deficit_mm": 31.77807331085203,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -55.591852061522616,
+          -775.1960574761725,
+          1677.2478336487848
+        ],
+        [
+          122.51148286291377,
+          -534.7444239551794,
+          1834.206519172041
+        ]
+      ],
+      "palm_world": [
+        -0.04382723366309613,
+        -0.39207084146047977,
+        -0.9188904335479349
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.32490968587337,
+        "F": 394.0784285258364
+      },
+      "glove_vertices_inside_target": 4059,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_L_hook",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 3,
+      "pitch_deg": 19,
+      "side": "L",
+      "kind": "hook",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 553,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "start": 449,
+      "peak": 465,
+      "end": 480,
+      "prior_pitch_deg": 19,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        -154.1919708251953,
+        -438.2037818431854,
+        1707.2657346725464
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999719152241,
+        1414.9999417597562
+      ],
+      "chord_mm": 720.0772975606542,
+      "target_datum_deficit_mm": 41.79621815681456,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -195.85454566294555,
+          -603.6506005783716,
+          1659.1138357265738
+        ],
+        [
+          36.36054228882735,
+          -409.24920269974484,
+          1825.9777805946924
+        ]
+      ],
+      "palm_world": [
+        0.658985145533284,
+        0.6586112455922993,
+        -0.3632764858146431
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 467.60262281109755,
+        "F": 387.43851676036985
+      },
+      "glove_vertices_inside_target": 2786,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_R_hook",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 3,
+      "pitch_deg": 19,
+      "side": "R",
+      "kind": "hook",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 793,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "start": 481,
+      "peak": 497,
+      "end": 512,
+      "prior_pitch_deg": 19,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        154.1919708251953,
+        -438.20369243621826,
+        1707.2657346725464
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.9999719152241,
+        1414.9999417597564
+      ],
+      "chord_mm": 720.0772195609843,
+      "target_datum_deficit_mm": 41.796307563781724,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -36.36056470482174,
+          -603.6505166619961,
+          1659.11383555741
+        ],
+        [
+          195.85454566294555,
+          -409.2491154191576,
+          1825.9777671706693
+        ]
+      ],
+      "palm_world": [
+        -0.658985145533284,
+        0.6586112455922993,
+        -0.3632764858146431
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 467.6026228110975,
+        "F": 387.43851676036957
+      },
+      "glove_vertices_inside_target": 2786,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_L_uppercut",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 0,
+      "pitch_deg": 16,
+      "side": "L",
+      "kind": "uppercut",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1033,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "start": 513,
+      "peak": 529,
+      "end": 544,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        -70.57598233222961,
+        -468.3949947357178,
+        1700.1986503601074
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999527717604,
+        1414.9999526630645
+      ],
+      "chord_mm": 770.1030785327538,
+      "target_datum_deficit_mm": 11.605005264282209,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -112.05015013271368,
+          -629.8679608915144,
+          1657.2368504331089
+        ],
+        [
+          63.938835135523426,
+          -435.607162871049,
+          1888.6272499845718
+        ]
+      ],
+      "palm_world": [
+        -0.2255072231419685,
+        0.7106138987868249,
+        0.6664640869257599
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 432.10663531636885,
+        "F": 403.0476437265491
+      },
+      "glove_vertices_inside_target": 3012,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_R_uppercut",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 0,
+      "pitch_deg": 16,
+      "side": "R",
+      "kind": "uppercut",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1273,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "start": 545,
+      "peak": 561,
+      "end": 576,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        70.57598978281021,
+        -468.394935131073,
+        1700.1986503601074
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.9999527717604,
+        1414.999952663065
+      ],
+      "chord_mm": 770.1030248680113,
+      "target_datum_deficit_mm": 11.605064868926984,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -63.93882768494283,
+          -629.8679126039644,
+          1657.2368504331089
+        ],
+        [
+          112.05015758329428,
+          -435.6071028763659,
+          1888.6272523616951
+        ]
+      ],
+      "palm_world": [
+        0.2255072231419685,
+        0.7106138987868249,
+        0.6664640869257599
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 432.10663531636874,
+        "F": 403.04764372654944
+      },
+      "glove_vertices_inside_target": 3012,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_L_diagonal",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": -8,
+      "pitch_deg": 8,
+      "side": "L",
+      "kind": "diagonal",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1513,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "start": 577,
+      "peak": 593,
+      "end": 608,
+      "prior_pitch_deg": 8,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        -67.54633039236069,
+        -567.5827860832214,
+        1704.5899629592896
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99997497013155,
+        1414.999957936726
+      ],
+      "chord_mm": 858.9147645234349,
+      "target_datum_deficit_mm": 32.41721391677854,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.69107244615678,
+          -774.5313576077413,
+          1678.5184203370486
+        ],
+        [
+          57.405898283199505,
+          -534.2253566672082,
+          1835.4887589645111
+        ]
+      ],
+      "palm_world": [
+        0.08936941033373583,
+        -0.3779718941331166,
+        -0.921493546229177
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 427.47834894990785,
+        "F": 397.62016482377663
+      },
+      "glove_vertices_inside_target": 4032,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_max_R_diagonal",
+      "preset": "mid",
+      "preset_pitch_deg": 16,
+      "strike_trim_deg": 15,
+      "pitch_deg": 31,
+      "side": "R",
+      "kind": "diagonal",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1753,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "start": 609,
+      "peak": 625,
+      "end": 640,
+      "prior_pitch_deg": 31,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "wrist_mm": [
+        68.67434084415436,
+        -573.5548138618469,
+        1689.6167993545532
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99991423421747,
+        1414.999970019725
+      ],
+      "chord_mm": 858.9145464131811,
+      "target_datum_deficit_mm": 26.445186138153055,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -51.5616276579562,
+          -781.2556974519773,
+          1663.3767064713384
+        ],
+        [
+          122.06894209508276,
+          -540.2659039078384,
+          1818.9418895660717
+        ]
+      ],
+      "palm_world": [
+        0.04473204514433528,
+        -0.40373283409906935,
+        -0.9137827109370906
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 427.42875890509475,
+        "F": 398.58948324395305
+      },
+      "glove_vertices_inside_target": 4395,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_short_L_straight",
+      "preset": "mid",
+      "pitch_deg": 49.181,
+      "side": "L",
+      "kind": "straight",
+      "extension": "short",
+      "fraction": 0.5,
+      "source_frame": 73,
+      "q": -0.35808787362155053,
+      "target": [
+        [
+          -0.26,
+          -0.45,
+          1.62
+        ],
+        [
+          0.26,
+          -0.15,
+          1.82
+        ]
+      ],
+      "start": 641,
+      "peak": 657,
+      "end": 672,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 49.18110236933386,
+        "desired_centroid_z_m": 1.7200000000000002,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        -382.9391896724701,
+        -161.34274005889893,
+        1659.7968339920044
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99989536494155,
+        1415.0000328970727
+      ],
+      "chord_mm": 429.45719918741685,
+      "target_datum_deficit_mm": 122.93918967247008,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -437.5318506746376,
+          -317.96199442203067,
+          1635.3303156357706
+        ],
+        [
+          -259.4285154416436,
+          -113.97038617808997,
+          1856.493356882164
+        ]
+      ],
+      "palm_world": [
+        0.04382723330015076,
+        -0.8310376546957342,
+        -0.5544867808154383
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 476.97572711639674,
+        "F": 271.8393545351002
+      },
+      "glove_vertices_inside_target": 4,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_mid_L_straight",
+      "preset": "mid",
+      "pitch_deg": 29.11,
+      "side": "L",
+      "kind": "straight",
+      "extension": "mid",
+      "fraction": 0.7,
+      "source_frame": 73,
+      "q": 0.24897376604499005,
+      "target": [
+        [
+          -0.26,
+          -0.6,
+          1.62
+        ],
+        [
+          0.26,
+          -0.3,
+          1.82
+        ]
+      ],
+      "start": 673,
+      "peak": 689,
+      "end": 704,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 29.110350251607244,
+        "desired_centroid_z_m": 1.7200000000000002,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        -242.12591350078583,
+        -339.8132026195526,
+        1677.8491735458374
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999334633513,
+        1414.9999436914698
+      ],
+      "chord_mm": 601.2402496366202,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -296.71857450295335,
+          -531.5991699577669,
+          1652.1106222904384
+        ],
+        [
+          -118.61523926995932,
+          -299.957175611681,
+          1838.6977977532165
+        ]
+      ],
+      "palm_world": [
+        0.0438272342937672,
+        -0.5902759839619308,
+        -0.806010816485693
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 383.8904626219477,
+        "F": 290.0963753231995
+      },
+      "glove_vertices_inside_target": 4970,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_short_R_straight",
+      "preset": "mid",
+      "pitch_deg": 49.181,
+      "side": "R",
+      "kind": "straight",
+      "extension": "short",
+      "fraction": 0.5,
+      "source_frame": 313,
+      "q": -0.3580878721658405,
+      "target": [
+        [
+          -0.26,
+          -0.45,
+          1.62
+        ],
+        [
+          0.26,
+          -0.15,
+          1.82
+        ]
+      ],
+      "start": 705,
+      "peak": 721,
+      "end": 736,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 49.1811023894649,
+        "desired_centroid_z_m": 1.7200000000000002,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        382.9391896724701,
+        -161.34274005889893,
+        1659.7968339920044
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99989536494155,
+        1415.000032897073
+      ],
+      "chord_mm": 429.45719918741673,
+      "target_datum_deficit_mm": 122.93918967247008,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          259.4285154416436,
+          -317.9619880204879,
+          1635.3303156357706
+        ],
+        [
+          437.53185036608,
+          -113.97038383156305,
+          1856.4933557587165
+        ]
+      ],
+      "palm_world": [
+        -0.04382723330015076,
+        -0.8310376546957342,
+        -0.5544867808154383
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 476.9757271163967,
+        "F": 271.8393545351003
+      },
+      "glove_vertices_inside_target": 4,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "mid_mid_R_straight",
+      "preset": "mid",
+      "pitch_deg": 29.11,
+      "side": "R",
+      "kind": "straight",
+      "extension": "mid",
+      "fraction": 0.7,
+      "source_frame": 313,
+      "q": 0.2489737684477409,
+      "target": [
+        [
+          -0.26,
+          -0.6,
+          1.62
+        ],
+        [
+          0.26,
+          -0.3,
+          1.82
+        ]
+      ],
+      "start": 737,
+      "peak": 753,
+      "end": 768,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 29.110350265434803,
+        "desired_centroid_z_m": 1.7200000000000002,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        242.12592840194702,
+        -339.8132026195526,
+        1677.8491735458374
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.9999334633513,
+        1414.9999436914698
+      ],
+      "chord_mm": 601.2402469560276,
+      "target_datum_deficit_mm": 0.0,
+      "datum_inside": true,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          118.61525417112051,
+          -531.599183370468,
+          1652.1106256716923
+        ],
+        [
+          296.7185890955569,
+          -299.95717631254047,
+          1838.6977974503816
+        ]
+      ],
+      "palm_world": [
+        -0.0438272342937672,
+        -0.5902759839619308,
+        -0.806010816485693
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 383.89046262194756,
+        "F": 290.09637532319954
+      },
+      "glove_vertices_inside_target": 4970,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_L_straight",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 0,
+      "pitch_deg": 24,
+      "side": "L",
+      "kind": "straight",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 73,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "start": 769,
+      "peak": 785,
+      "end": 800,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        -67.9188147187233,
+        -520.7224488258362,
+        1805.9961795806885
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99997023622583,
+        1414.9999261856312
+      ],
+      "chord_mm": 858.9147204869384,
+      "target_datum_deficit_mm": 79.27755117416379,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.51147572089083,
+          -719.165579218858,
+          1780.1052992427856
+        ],
+        [
+          55.59185951210321,
+          -483.2485981243527,
+          1955.7455950048698
+        ]
+      ],
+      "palm_world": [
+        0.043827234692628204,
+        -0.5161400914919462,
+        -0.8553821248155018
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.32490172236214,
+        "F": 394.07842353047533
+      },
+      "glove_vertices_inside_target": 2501,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_R_straight",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 0,
+      "pitch_deg": 24,
+      "side": "R",
+      "kind": "straight",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 313,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "start": 801,
+      "peak": 817,
+      "end": 832,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        67.9188221693039,
+        -520.7224488258362,
+        1805.9961795806885
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99997023622583,
+        1414.9999261856312
+      ],
+      "chord_mm": 858.9147180375867,
+      "target_datum_deficit_mm": 79.27755117416379,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -55.591852061522616,
+          -719.16557808151,
+          1780.1052988405668
+        ],
+        [
+          122.51148286291377,
+          -483.24859869302674,
+          1955.7455995197731
+        ]
+      ],
+      "palm_world": [
+        -0.043827234692628204,
+        -0.5161400914919462,
+        -0.8553821248155018
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.3249017223622,
+        "F": 394.0784235304754
+      },
+      "glove_vertices_inside_target": 2501,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_L_hook",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 3,
+      "pitch_deg": 27,
+      "side": "L",
+      "kind": "hook",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 553,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "start": 833,
+      "peak": 849,
+      "end": 864,
+      "prior_pitch_deg": 27,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        -154.1919708251953,
+        -391.4146423339844,
+        1791.8506860733032
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99991648231784,
+        1415.0000365326075
+      ],
+      "chord_mm": 720.0773331955091,
+      "target_datum_deficit_mm": 88.58535766601561,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -195.85454566294555,
+          -550.3756777270268,
+          1746.5677612484772
+        ],
+        [
+          36.36054228882735,
+          -360.4323363071288,
+          1923.3622207740275
+        ]
+      ],
+      "palm_world": [
+        0.6589851526870374,
+        0.6016433373626336,
+        -0.45140210804247927
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 467.60263707709623,
+        "F": 387.4385217592251
+      },
+      "glove_vertices_inside_target": 981,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_R_hook",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 3,
+      "pitch_deg": 27,
+      "side": "R",
+      "kind": "hook",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 793,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "start": 865,
+      "peak": 881,
+      "end": 896,
+      "prior_pitch_deg": 27,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        154.1919708251953,
+        -391.4145529270172,
+        1791.8506860733032
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99991648231784,
+        1415.000036532607
+      ],
+      "chord_mm": 720.0772610053313,
+      "target_datum_deficit_mm": 88.58544707298277,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -36.36056470482174,
+          -550.3755961691263,
+          1746.567763597705
+        ],
+        [
+          195.85454566294555,
+          -360.4322473910774,
+          1923.362216562429
+        ]
+      ],
+      "palm_world": [
+        -0.6589851526870374,
+        0.6016433373626336,
+        -0.45140210804247927
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 467.60263707709635,
+        "F": 387.43852175922564
+      },
+      "glove_vertices_inside_target": 981,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_L_uppercut",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 0,
+      "pitch_deg": 24,
+      "side": "L",
+      "kind": "uppercut",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1033,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "start": 897,
+      "peak": 913,
+      "end": 928,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        -70.57598233222961,
+        -422.29554057121277,
+        1789.054036140442
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99997023622583,
+        1414.9999261856315
+      ],
+      "chord_mm": 770.1031211618274,
+      "target_datum_deficit_mm": 57.70445942878722,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -112.05015013271368,
+          -566.3074982910337,
+          1749.326589311634
+        ],
+        [
+          63.938835135523426,
+          -389.96818651569356,
+          1987.847686118832
+        ]
+      ],
+      "palm_world": [
+        -0.22550722452368568,
+        0.7964520942110668,
+        0.5610798101112088
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 432.10662710436605,
+        "F": 403.04763877624487
+      },
+      "glove_vertices_inside_target": 1415,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_R_uppercut",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 0,
+      "pitch_deg": 24,
+      "side": "R",
+      "kind": "uppercut",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1273,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "start": 929,
+      "peak": 945,
+      "end": 960,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        70.57598978281021,
+        -422.295480966568,
+        1789.0539169311523
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99997023622583,
+        1414.999926185631
+      ],
+      "chord_mm": 770.1030131628305,
+      "target_datum_deficit_mm": 57.70451903343199,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -63.93882768494283,
+          -566.3074535014031,
+          1749.3264705455335
+        ],
+        [
+          112.05015758329428,
+          -389.9681302362542,
+          1987.8475528954896
+        ]
+      ],
+      "palm_world": [
+        0.22550722452368568,
+        0.7964520942110668,
+        0.5610798101112088
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 432.10662710436634,
+        "F": 403.0476387762446
+      },
+      "glove_vertices_inside_target": 1415,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_L_diagonal",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": -8,
+      "pitch_deg": 16,
+      "side": "L",
+      "kind": "diagonal",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1513,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "start": 961,
+      "peak": 977,
+      "end": 992,
+      "prior_pitch_deg": 16,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        -67.54633039236069,
+        -519.9069976806641,
+        1807.2069883346558
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.9999527717604,
+        1414.9999526630647
+      ],
+      "chord_mm": 858.9148962459058,
+      "target_datum_deficit_mm": 80.09300231933591,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.69107244615678,
+          -718.4360700971761,
+          1781.407216111706
+        ],
+        [
+          57.405898283199505,
+          -482.55510824556677,
+          1956.8701132161518
+        ]
+      ],
+      "palm_world": [
+        0.08936941465205067,
+        -0.5025406213631166,
+        -0.859922107870662
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 427.47835322090407,
+        "F": 397.62016747997666
+      },
+      "glove_vertices_inside_target": 2477,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_max_R_diagonal",
+      "preset": "tall",
+      "preset_pitch_deg": 24,
+      "strike_trim_deg": 15,
+      "pitch_deg": 39,
+      "side": "R",
+      "kind": "diagonal",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 1753,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "start": 993,
+      "peak": 1009,
+      "end": 1024,
+      "prior_pitch_deg": 39,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "wrist_mm": [
+        68.67434084415436,
+        -527.904748916626,
+        1793.2103872299194
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99990082675922,
+        1414.9999524831428
+      ],
+      "chord_mm": 858.9145425261526,
+      "target_datum_deficit_mm": 72.095251083374,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -51.5616276579562,
+          -727.302373484596,
+          1766.9379169810002
+        ],
+        [
+          122.06894209508276,
+          -490.6570367668012,
+          1941.342184822269
+        ]
+      ],
+      "palm_world": [
+        0.044732044872771576,
+        -0.5269777714789,
+        -0.8487010501517201
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 427.4287444747616,
+        "F": 398.5894743777007
+      },
+      "glove_vertices_inside_target": 2689,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_short_L_straight",
+      "preset": "tall",
+      "pitch_deg": 60,
+      "side": "L",
+      "kind": "straight",
+      "extension": "short",
+      "fraction": 0.5,
+      "source_frame": 73,
+      "q": -0.35808787362155053,
+      "target": [
+        [
+          -0.26,
+          -0.45,
+          1.78
+        ],
+        [
+          0.26,
+          -0.15,
+          1.96
+        ]
+      ],
+      "start": 1025,
+      "peak": 1041,
+      "end": 1056,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 77.47992148032047,
+        "desired_centroid_z_m": 1.87,
+        "pitch_clipped": true
+      },
+      "wrist_mm": [
+        -382.9391896724701,
+        -109.14754867553711,
+        1721.3950157165527
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99991957805844,
+        1415.0000266516827
+      ],
+      "chord_mm": 429.4571710049993,
+      "target_datum_deficit_mm": 142.18829529677993,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -437.5318506746376,
+          -241.41792423631466,
+          1697.9683161096364
+        ],
+        [
+          -259.4285154416436,
+          -59.3123565622664,
+          1930.4413981850198
+        ]
+      ],
+      "palm_world": [
+        0.043827233480393066,
+        -0.9203471075572828,
+        -0.38863913237912434
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 476.97574116194363,
+        "F": 271.83936207382
+      },
+      "glove_vertices_inside_target": 4,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_mid_L_straight",
+      "preset": "tall",
+      "pitch_deg": 45.018,
+      "side": "L",
+      "kind": "straight",
+      "extension": "mid",
+      "fraction": 0.7,
+      "source_frame": 73,
+      "q": 0.24897376604499005,
+      "target": [
+        [
+          -0.26,
+          -0.6,
+          1.78
+        ],
+        [
+          0.26,
+          -0.3,
+          1.96
+        ]
+      ],
+      "start": 1057,
+      "peak": 1073,
+      "end": 1088,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 45.01814134478403,
+        "desired_centroid_z_m": 1.87,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        -242.12591350078583,
+        -247.4777102470398,
+        1813.001275062561
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        189.99993169511242,
+        1415.0000575713511
+      ],
+      "chord_mm": 601.240232607417,
+      "target_datum_deficit_mm": 52.52228975296019,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -296.71857450295335,
+          -412.5434667193253,
+          1788.2396216259858
+        ],
+        [
+          -118.61523926995932,
+          -201.3509447608109,
+          2003.501705336474
+        ]
+      ],
+      "palm_world": [
+        0.04382723303787605,
+        -0.7885925291038324,
+        -0.6133522614989406
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 383.89046110839405,
+        "F": 290.09637440161544
+      },
+      "glove_vertices_inside_target": 2106,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_short_R_straight",
+      "preset": "tall",
+      "pitch_deg": 60,
+      "side": "R",
+      "kind": "straight",
+      "extension": "short",
+      "fraction": 0.5,
+      "source_frame": 313,
+      "q": -0.3580878721658405,
+      "target": [
+        [
+          -0.26,
+          -0.45,
+          1.78
+        ],
+        [
+          0.26,
+          -0.15,
+          1.96
+        ]
+      ],
+      "start": 1089,
+      "peak": 1105,
+      "end": 1120,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 77.47992154519545,
+        "desired_centroid_z_m": 1.87,
+        "pitch_clipped": true
+      },
+      "wrist_mm": [
+        382.9391896724701,
+        -109.14754867553711,
+        1721.3950157165527
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99991957805838,
+        1415.0000266516827
+      ],
+      "chord_mm": 429.4571710049992,
+      "target_datum_deficit_mm": 142.18829529677993,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          259.4285154416436,
+          -241.41793667386435,
+          1697.9683165623655
+        ],
+        [
+          437.53185036608,
+          -59.312349705145756,
+          1930.4413837023837
+        ]
+      ],
+      "palm_world": [
+        -0.043827233480393066,
+        -0.9203471075572828,
+        -0.38863913237912434
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 476.97574116194403,
+        "F": 271.8393620738203
+      },
+      "glove_vertices_inside_target": 4,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "tall_mid_R_straight",
+      "preset": "tall",
+      "pitch_deg": 45.018,
+      "side": "R",
+      "kind": "straight",
+      "extension": "mid",
+      "fraction": 0.7,
+      "source_frame": 313,
+      "q": 0.2489737684477409,
+      "target": [
+        [
+          -0.26,
+          -0.6,
+          1.78
+        ],
+        [
+          0.26,
+          -0.3,
+          1.96
+        ]
+      ],
+      "start": 1121,
+      "peak": 1137,
+      "end": 1152,
+      "prior_pitch_deg": 24,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "aim_policy": {
+        "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..60 deg",
+        "unclipped_pitch_deg": 45.01814135654655,
+        "desired_centroid_z_m": 1.87,
+        "pitch_clipped": false
+      },
+      "wrist_mm": [
+        242.12592840194702,
+        -247.4777102470398,
+        1813.001275062561
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        189.99993169511242,
+        1415.0000575713516
+      ],
+      "chord_mm": 601.240229926824,
+      "target_datum_deficit_mm": 52.52228975296019,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          118.61525417112051,
+          -412.54344694862993,
+          1788.2396248739904
+        ],
+        [
+          296.7185890955569,
+          -201.3509426605324,
+          2003.501693666585
+        ]
+      ],
+      "palm_world": [
+        -0.04382723303787605,
+        -0.7885925291038324,
+        -0.6133522614989406
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 383.8904611083939,
+        "F": 290.09637440161504
+      },
+      "glove_vertices_inside_target": 2106,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "body_L",
+      "preset": "abdomen",
+      "pitch_deg": -20,
+      "side": "L",
+      "kind": "body",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 73,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.0
+        ],
+        [
+          0.26,
+          -0.6,
+          1.24
+        ]
+      ],
+      "start": 1153,
+      "peak": 1169,
+      "end": 1184,
+      "prior_pitch_deg": -20,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.0
+        ],
+        [
+          0.26,
+          -0.6,
+          1.24
+        ]
+      ],
+      "wrist_mm": [
+        -67.9188147187233,
+        -592.85968542099,
+        1202.549695968628
+      ],
+      "shoulder_mm": [
+        -350.2839505672455,
+        190.0000714543566,
+        1414.999906415696
+      ],
+      "chord_mm": 858.9147575846421,
+      "target_datum_deficit_mm": 7.140314579009988,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -122.51147572089083,
+          -808.6113263149051,
+          1095.5575246168369
+        ],
+        [
+          55.59185951210321,
+          -569.8893881141418,
+          1253.6779069873792
+        ]
+      ],
+      "palm_world": [
+        0.04382723567583013,
+        0.22291824209978756,
+        -0.9738514418288632
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.32490763968224,
+        "F": 394.07842724229914
+      },
+      "glove_vertices_inside_target": 4682,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    },
+    {
+      "id": "body_R",
+      "preset": "abdomen",
+      "pitch_deg": -20,
+      "side": "R",
+      "kind": "body",
+      "extension": "max",
+      "fraction": 1.0,
+      "source_frame": 313,
+      "q": 1.0,
+      "target": [
+        [
+          -0.26,
+          -0.85,
+          1.0
+        ],
+        [
+          0.26,
+          -0.6,
+          1.24
+        ]
+      ],
+      "start": 1185,
+      "peak": 1201,
+      "end": 1216,
+      "prior_pitch_deg": -20,
+      "prior_target": [
+        [
+          -0.26,
+          -0.85,
+          1.0
+        ],
+        [
+          0.26,
+          -0.6,
+          1.24
+        ]
+      ],
+      "wrist_mm": [
+        67.9188221693039,
+        -592.85968542099,
+        1202.549695968628
+      ],
+      "shoulder_mm": [
+        350.2839505672455,
+        190.0000714543566,
+        1414.9999064156962
+      ],
+      "chord_mm": 858.9147551352906,
+      "target_datum_deficit_mm": 7.140314579009988,
+      "datum_inside": false,
+      "glove_aabb_overlap": true,
+      "glove_bounds_mm": [
+        [
+          -55.591852061522616,
+          -808.6113125631072,
+          1095.5575216911805
+        ],
+        [
+          122.51148286291377,
+          -569.8893884245559,
+          1253.6779070272985
+        ]
+      ],
+      "palm_world": [
+        -0.04382723567583013,
+        0.22291824209978756,
+        -0.9738514418288632
+      ],
+      "palm_pass": true,
+      "UF_arc_mm": {
+        "U": 429.32490763968235,
+        "F": 394.07842724229897
+      },
+      "glove_vertices_inside_target": 4682,
+      "nearest_glove_vertex_deficit_mm": 0.0
+    }
+  ],
+  "fixed_matrix_max_deviation": {
+    "lower": 0,
+    "upper": 0,
+    "mast": 0,
+    "lower_fill": 0,
+    "upper_fill": 0
+  },
+  "chambers": [
+    "L-F1",
+    "L-F2",
+    "L-F3",
+    "L-T1",
+    "L-T2",
+    "L-U1",
+    "L-U2",
+    "L-U3",
+    "R-F1",
+    "R-F2",
+    "R-F3",
+    "R-T1",
+    "R-T2",
+    "R-U1",
+    "R-U2",
+    "R-U3"
+  ],
+  "baselines_preserved": {
+    "revision_n\\Punching_Bag_N1_Full_Product_Review.blend": true,
+    "reviews\\2026-09-19\\n2-track-a\\Punching_Bag_N2_Track_A.blend": true,
+    "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend": true,
+    "reviews/2026-09-19/n3-reach-height-body/Punching_Bag_N3_Reach_Height_Body.blend": true
+  },
+  "scope": "Track A does not prove strike impulse. No continuous extrema, triangle contact, material strain or loaded reach proof.",
+  "path_samples": [
+    {
+      "case": "short_max_L_straight",
+      "frame": 1.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_straight",
+      "frame": 9.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_straight",
+      "frame": 17.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -600.9634137153625,
+        1594.9479341506958
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_straight",
+      "frame": 21.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -600.9634137153625,
+        1594.9479341506958
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_straight",
+      "frame": 32.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 33.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 41.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 49.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -600.9634137153625,
+        1594.9479341506958
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 53.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -600.9634137153625,
+        1594.9479341506958
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 64.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 65.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -330.5639624595642,
+        1455.0679922103882
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 73.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -330.5639624595642,
+        1455.0679922103882
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 81.0,
+      "wrist_mm": [
+        -154.1919708251953,
+        -472.7656841278076,
+        1616.992473602295
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 85.0,
+      "wrist_mm": [
+        -154.1919708251953,
+        -472.7656841278076,
+        1616.992473602295
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 96.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -330.5639624595642,
+        1455.0679922103882
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 97.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -330.5639624595642,
+        1455.0679922103882
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 105.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -330.5639624595642,
+        1455.0679922103882
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 113.0,
+      "wrist_mm": [
+        154.1919708251953,
+        -472.76559472084045,
+        1616.9923543930054
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 117.0,
+      "wrist_mm": [
+        154.1919708251953,
+        -472.76559472084045,
+        1616.9923543930054
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 128.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -330.5639624595642,
+        1455.0679922103882
+      ],
+      "root_pitch_deg": 11.000000021511672
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 129.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 137.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 145.0,
+      "wrist_mm": [
+        -70.57598233222961,
+        -501.67953968048096,
+        1605.7921648025513
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 149.0,
+      "wrist_mm": [
+        -70.57598233222961,
+        -501.67953968048096,
+        1605.7921648025513
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 160.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 161.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 169.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 177.0,
+      "wrist_mm": [
+        70.57598978281021,
+        -501.6794800758362,
+        1605.7921648025513
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 181.0,
+      "wrist_mm": [
+        70.57598978281021,
+        -501.6794800758362,
+        1605.7921648025513
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 192.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 193.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -328.64508032798767,
+        1355.0035953521729
+      ],
+      "root_pitch_deg": -0.0
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 201.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -328.64508032798767,
+        1355.0035953521729
+      ],
+      "root_pitch_deg": -0.0
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 209.0,
+      "wrist_mm": [
+        -67.54633039236069,
+        -600.513219833374,
+        1596.3366031646729
+      ],
+      "root_pitch_deg": -0.0
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 213.0,
+      "wrist_mm": [
+        -67.54633039236069,
+        -600.513219833374,
+        1596.3366031646729
+      ],
+      "root_pitch_deg": -0.0
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 224.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -328.64508032798767,
+        1355.0035953521729
+      ],
+      "root_pitch_deg": -0.0
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 225.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -310.8578622341156,
+        1562.423825263977
+      ],
+      "root_pitch_deg": 22.999999501668448
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 233.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -310.8578622341156,
+        1562.423825263977
+      ],
+      "root_pitch_deg": 22.999999501668448
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 241.0,
+      "wrist_mm": [
+        68.67434084415436,
+        -604.3432354927063,
+        1580.67786693573
+      ],
+      "root_pitch_deg": 22.999999501668448
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 245.0,
+      "wrist_mm": [
+        68.67434084415436,
+        -604.3432354927063,
+        1580.67786693573
+      ],
+      "root_pitch_deg": 22.999999501668448
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 256.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -310.8578622341156,
+        1562.423825263977
+      ],
+      "root_pitch_deg": 22.999999501668448
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 257.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -298.952579498291,
+        1598.0784893035889
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 265.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -298.952579498291,
+        1598.0784893035889
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 273.0,
+      "wrist_mm": [
+        -382.9391896724701,
+        -227.553129196167,
+        1509.955644607544
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 277.0,
+      "wrist_mm": [
+        -382.9391896724701,
+        -227.553129196167,
+        1509.955644607544
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 288.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -298.952579498291,
+        1598.0784893035889
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 289.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -328.3219039440155,
+        1477.7276515960693
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 297.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -328.3219039440155,
+        1477.7276515960693
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 305.0,
+      "wrist_mm": [
+        -242.12591350078583,
+        -391.0028040409088,
+        1525.5777835845947
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 309.0,
+      "wrist_mm": [
+        -242.12591350078583,
+        -391.0028040409088,
+        1525.5777835845947
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 320.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -328.3219039440155,
+        1477.7276515960693
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 321.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -298.952579498291,
+        1598.0784893035889
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 329.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -298.952579498291,
+        1598.0784893035889
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 337.0,
+      "wrist_mm": [
+        382.9391896724701,
+        -227.553129196167,
+        1509.955644607544
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 341.0,
+      "wrist_mm": [
+        382.9391896724701,
+        -227.553129196167,
+        1509.955644607544
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 352.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -298.952579498291,
+        1598.0784893035889
+      ],
+      "root_pitch_deg": 27.12600066605726
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 353.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -328.3219039440155,
+        1477.7276515960693
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 361.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -328.3219039440155,
+        1477.7276515960693
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 369.0,
+      "wrist_mm": [
+        242.12592840194702,
+        -391.0028040409088,
+        1525.5777835845947
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 373.0,
+      "wrist_mm": [
+        242.12592840194702,
+        -391.0028040409088,
+        1525.5777835845947
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 384.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -328.3219039440155,
+        1477.7276515960693
+      ],
+      "root_pitch_deg": 13.498999752958317
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 385.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 393.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 401.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -568.221926689148,
+        1703.277587890625
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 405.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -568.221926689148,
+        1703.277587890625
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 416.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 417.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 425.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 433.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -568.221926689148,
+        1703.277587890625
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 437.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -568.221926689148,
+        1703.277587890625
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 448.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 449.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -319.92149353027344,
+        1527.126669883728
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 457.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -319.92149353027344,
+        1527.126669883728
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 465.0,
+      "wrist_mm": [
+        -154.1919708251953,
+        -438.2037818431854,
+        1707.2657346725464
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 469.0,
+      "wrist_mm": [
+        -154.1919708251953,
+        -438.2037818431854,
+        1707.2657346725464
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 480.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -319.92149353027344,
+        1527.126669883728
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 481.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -319.92149353027344,
+        1527.126669883728
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 489.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -319.92149353027344,
+        1527.126669883728
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 497.0,
+      "wrist_mm": [
+        154.1919708251953,
+        -438.20369243621826,
+        1707.2657346725464
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 501.0,
+      "wrist_mm": [
+        154.1919708251953,
+        -438.20369243621826,
+        1707.2657346725464
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 512.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -319.92149353027344,
+        1527.126669883728
+      ],
+      "root_pitch_deg": 18.999999959540737
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 513.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 521.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 529.0,
+      "wrist_mm": [
+        -70.57598233222961,
+        -468.3949947357178,
+        1700.1986503601074
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 533.0,
+      "wrist_mm": [
+        -70.57598233222961,
+        -468.3949947357178,
+        1700.1986503601074
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 544.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 545.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 553.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 561.0,
+      "wrist_mm": [
+        70.57598978281021,
+        -468.394935131073,
+        1700.1986503601074
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 565.0,
+      "wrist_mm": [
+        70.57598978281021,
+        -468.394935131073,
+        1700.1986503601074
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 576.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 577.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 585.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 593.0,
+      "wrist_mm": [
+        -67.54633039236069,
+        -567.5827860832214,
+        1704.5899629592896
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 597.0,
+      "wrist_mm": [
+        -67.54633039236069,
+        -567.5827860832214,
+        1704.5899629592896
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 608.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 609.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -285.46613454818726,
+        1630.6949853897095
+      ],
+      "root_pitch_deg": 30.99999858592387
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 617.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -285.46613454818726,
+        1630.6949853897095
+      ],
+      "root_pitch_deg": 30.99999858592387
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 625.0,
+      "wrist_mm": [
+        68.67434084415436,
+        -573.5548138618469,
+        1689.6167993545532
+      ],
+      "root_pitch_deg": 30.99999858592387
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 629.0,
+      "wrist_mm": [
+        68.67434084415436,
+        -573.5548138618469,
+        1689.6167993545532
+      ],
+      "root_pitch_deg": 30.99999858592387
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 640.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -285.46613454818726,
+        1630.6949853897095
+      ],
+      "root_pitch_deg": 30.99999858592387
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 641.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -194.42760944366455,
+        1768.2814598083496
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 649.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -194.42760944366455,
+        1768.2814598083496
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 657.0,
+      "wrist_mm": [
+        -382.9391896724701,
+        -161.34274005889893,
+        1659.7968339920044
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 661.0,
+      "wrist_mm": [
+        -382.9391896724701,
+        -161.34274005889893,
+        1659.7968339920044
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 672.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -194.42760944366455,
+        1768.2814598083496
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 673.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -292.32120513916016,
+        1614.8964166641235
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 681.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -292.32120513916016,
+        1614.8964166641235
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 689.0,
+      "wrist_mm": [
+        -242.12591350078583,
+        -339.8132026195526,
+        1677.8491735458374
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 693.0,
+      "wrist_mm": [
+        -242.12591350078583,
+        -339.8132026195526,
+        1677.8491735458374
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 704.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -292.32120513916016,
+        1614.8964166641235
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 705.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -194.42760944366455,
+        1768.2814598083496
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 713.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -194.42760944366455,
+        1768.2814598083496
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 721.0,
+      "wrist_mm": [
+        382.9391896724701,
+        -161.34274005889893,
+        1659.7968339920044
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 725.0,
+      "wrist_mm": [
+        382.9391896724701,
+        -161.34274005889893,
+        1659.7968339920044
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 736.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -194.42760944366455,
+        1768.2814598083496
+      ],
+      "root_pitch_deg": 49.18099909982484
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 737.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -292.32120513916016,
+        1614.8964166641235
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 745.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -292.32120513916016,
+        1614.8964166641235
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 753.0,
+      "wrist_mm": [
+        242.12592840194702,
+        -339.8132026195526,
+        1677.8491735458374
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 757.0,
+      "wrist_mm": [
+        242.12592840194702,
+        -339.8132026195526,
+        1677.8491735458374
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 768.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -292.32120513916016,
+        1614.8964166641235
+      ],
+      "root_pitch_deg": 29.109999865216714
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 769.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 777.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 785.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -520.7224488258362,
+        1805.9961795806885
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 789.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -520.7224488258362,
+        1805.9961795806885
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 800.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 801.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 809.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 817.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -520.7224488258362,
+        1805.9961795806885
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 821.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -520.7224488258362,
+        1805.9961795806885
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 832.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 833.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -299.35401678085327,
+        1597.0027446746826
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 841.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -299.35401678085327,
+        1597.0027446746826
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 849.0,
+      "wrist_mm": [
+        -154.1919708251953,
+        -391.4146423339844,
+        1791.8506860733032
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 853.0,
+      "wrist_mm": [
+        -154.1919708251953,
+        -391.4146423339844,
+        1791.8506860733032
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 864.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -299.35401678085327,
+        1597.0027446746826
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 865.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -299.35401678085327,
+        1597.0027446746826
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 873.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -299.35401678085327,
+        1597.0027446746826
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 881.0,
+      "wrist_mm": [
+        154.1919708251953,
+        -391.4145529270172,
+        1791.8506860733032
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 885.0,
+      "wrist_mm": [
+        154.1919708251953,
+        -391.4145529270172,
+        1791.8506860733032
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 896.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -299.35401678085327,
+        1597.0027446746826
+      ],
+      "root_pitch_deg": 27.00000075134345
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 897.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 905.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 913.0,
+      "wrist_mm": [
+        -70.57598233222961,
+        -422.29554057121277,
+        1789.054036140442
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 917.0,
+      "wrist_mm": [
+        -70.57598233222961,
+        -422.29554057121277,
+        1789.054036140442
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 928.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 929.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 937.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 945.0,
+      "wrist_mm": [
+        70.57598978281021,
+        -422.295480966568,
+        1789.0539169311523
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 949.0,
+      "wrist_mm": [
+        70.57598978281021,
+        -422.295480966568,
+        1789.0539169311523
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 960.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -308.20855498313904,
+        1571.1424350738525
+      ],
+      "root_pitch_deg": 24.000000667860846
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 961.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 969.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 977.0,
+      "wrist_mm": [
+        -67.54633039236069,
+        -519.9069976806641,
+        1807.2069883346558
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 981.0,
+      "wrist_mm": [
+        -67.54633039236069,
+        -519.9069976806641,
+        1807.2069883346558
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 992.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -325.0909149646759,
+        1500.2857446670532
+      ],
+      "root_pitch_deg": 15.999999876058132
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 993.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -250.81992149353027,
+        1694.767951965332
+      ],
+      "root_pitch_deg": 39.00000108527387
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 1001.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -250.81992149353027,
+        1694.767951965332
+      ],
+      "root_pitch_deg": 39.00000108527387
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 1009.0,
+      "wrist_mm": [
+        68.67434084415436,
+        -527.904748916626,
+        1793.2103872299194
+      ],
+      "root_pitch_deg": 39.00000108527387
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 1013.0,
+      "wrist_mm": [
+        68.67434084415436,
+        -527.904748916626,
+        1793.2103872299194
+      ],
+      "root_pitch_deg": 39.00000108527387
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 1024.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -250.81992149353027,
+        1694.767951965332
+      ],
+      "root_pitch_deg": 39.00000108527387
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1025.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -121.28090858459473,
+        1834.161639213562
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1033.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -121.28090858459473,
+        1834.161639213562
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1041.0,
+      "wrist_mm": [
+        -382.9391896724701,
+        -109.14754867553711,
+        1721.3950157165527
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1045.0,
+      "wrist_mm": [
+        -382.9391896724701,
+        -109.14754867553711,
+        1721.3950157165527
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1056.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -121.28090858459473,
+        1834.161639213562
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1057.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -219.05946731567383,
+        1739.442229270935
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1065.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -219.05946731567383,
+        1739.442229270935
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1073.0,
+      "wrist_mm": [
+        -242.12591350078583,
+        -247.4777102470398,
+        1813.001275062561
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1077.0,
+      "wrist_mm": [
+        -242.12591350078583,
+        -247.4777102470398,
+        1813.001275062561
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1088.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -219.05946731567383,
+        1739.442229270935
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1089.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -121.28090858459473,
+        1834.161639213562
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1097.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -121.28090858459473,
+        1834.161639213562
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1105.0,
+      "wrist_mm": [
+        382.9391896724701,
+        -109.14754867553711,
+        1721.3950157165527
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1109.0,
+      "wrist_mm": [
+        382.9391896724701,
+        -109.14754867553711,
+        1721.3950157165527
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1120.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -121.28090858459473,
+        1834.161639213562
+      ],
+      "root_pitch_deg": 60.000001669652114
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1121.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -219.05946731567383,
+        1739.442229270935
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1129.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -219.05946731567383,
+        1739.442229270935
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1137.0,
+      "wrist_mm": [
+        242.12592840194702,
+        -247.4777102470398,
+        1813.001275062561
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1141.0,
+      "wrist_mm": [
+        242.12592840194702,
+        -247.4777102470398,
+        1813.001275062561
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1152.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -219.05946731567383,
+        1739.442229270935
+      ],
+      "root_pitch_deg": 45.01799880070207
+    },
+    {
+      "case": "body_L",
+      "frame": 1153.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "body_L",
+      "frame": 1161.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "body_L",
+      "frame": 1169.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -592.85968542099,
+        1202.549695968628
+      ],
+      "root_pitch_deg": -19.99999941818584
+    },
+    {
+      "case": "body_L",
+      "frame": 1173.0,
+      "wrist_mm": [
+        -67.9188147187233,
+        -592.85968542099,
+        1202.549695968628
+      ],
+      "root_pitch_deg": -19.99999941818584
+    },
+    {
+      "case": "body_L",
+      "frame": 1184.0,
+      "wrist_mm": [
+        -299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "body_R",
+      "frame": 1185.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "body_R",
+      "frame": 1193.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    },
+    {
+      "case": "body_R",
+      "frame": 1201.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -592.85968542099,
+        1202.549695968628
+      ],
+      "root_pitch_deg": -19.99999941818584
+    },
+    {
+      "case": "body_R",
+      "frame": 1205.0,
+      "wrist_mm": [
+        67.9188221693039,
+        -592.85968542099,
+        1202.549695968628
+      ],
+      "root_pitch_deg": -19.99999941818584
+    },
+    {
+      "case": "body_R",
+      "frame": 1216.0,
+      "wrist_mm": [
+        299.8775839805603,
+        -331.94756507873535,
+        1427.7689456939697
+      ],
+      "root_pitch_deg": 7.999999938029066
+    }
+  ],
+  "body_descent_mm": {
+    "body_L": 225.2192497253418,
+    "body_R": 225.2192497253418
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "blend_sha256": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+  "mode": "stills",
+  "records": [
+    {
+      "case": "short_max_L_straight",
+      "frame": 17,
+      "path": "media/stills/short_max_L_straight.png"
+    },
+    {
+      "case": "short_max_R_straight",
+      "frame": 49,
+      "path": "media/stills/short_max_R_straight.png"
+    },
+    {
+      "case": "short_max_L_hook",
+      "frame": 81,
+      "path": "media/stills/short_max_L_hook.png"
+    },
+    {
+      "case": "short_max_R_hook",
+      "frame": 113,
+      "path": "media/stills/short_max_R_hook.png"
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "frame": 145,
+      "path": "media/stills/short_max_L_uppercut.png"
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "frame": 177,
+      "path": "media/stills/short_max_R_uppercut.png"
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "frame": 209,
+      "path": "media/stills/short_max_L_diagonal.png"
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "frame": 241,
+      "path": "media/stills/short_max_R_diagonal.png"
+    },
+    {
+      "case": "short_short_L_straight",
+      "frame": 273,
+      "path": "media/stills/short_short_L_straight.png"
+    },
+    {
+      "case": "short_mid_L_straight",
+      "frame": 305,
+      "path": "media/stills/short_mid_L_straight.png"
+    },
+    {
+      "case": "short_short_R_straight",
+      "frame": 337,
+      "path": "media/stills/short_short_R_straight.png"
+    },
+    {
+      "case": "short_mid_R_straight",
+      "frame": 369,
+      "path": "media/stills/short_mid_R_straight.png"
+    },
+    {
+      "case": "mid_max_L_straight",
+      "frame": 401,
+      "path": "media/stills/mid_max_L_straight.png"
+    },
+    {
+      "case": "mid_max_R_straight",
+      "frame": 433,
+      "path": "media/stills/mid_max_R_straight.png"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "frame": 465,
+      "path": "media/stills/mid_max_L_hook.png"
+    },
+    {
+      "case": "mid_max_R_hook",
+      "frame": 497,
+      "path": "media/stills/mid_max_R_hook.png"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "frame": 529,
+      "path": "media/stills/mid_max_L_uppercut.png"
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "frame": 561,
+      "path": "media/stills/mid_max_R_uppercut.png"
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "frame": 593,
+      "path": "media/stills/mid_max_L_diagonal.png"
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "frame": 625,
+      "path": "media/stills/mid_max_R_diagonal.png"
+    },
+    {
+      "case": "mid_short_L_straight",
+      "frame": 657,
+      "path": "media/stills/mid_short_L_straight.png"
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "frame": 689,
+      "path": "media/stills/mid_mid_L_straight.png"
+    },
+    {
+      "case": "mid_short_R_straight",
+      "frame": 721,
+      "path": "media/stills/mid_short_R_straight.png"
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "frame": 753,
+      "path": "media/stills/mid_mid_R_straight.png"
+    },
+    {
+      "case": "tall_max_L_straight",
+      "frame": 785,
+      "path": "media/stills/tall_max_L_straight.png"
+    },
+    {
+      "case": "tall_max_R_straight",
+      "frame": 817,
+      "path": "media/stills/tall_max_R_straight.png"
+    },
+    {
+      "case": "tall_max_L_hook",
+      "frame": 849,
+      "path": "media/stills/tall_max_L_hook.png"
+    },
+    {
+      "case": "tall_max_R_hook",
+      "frame": 881,
+      "path": "media/stills/tall_max_R_hook.png"
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "frame": 913,
+      "path": "media/stills/tall_max_L_uppercut.png"
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "frame": 945,
+      "path": "media/stills/tall_max_R_uppercut.png"
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "frame": 977,
+      "path": "media/stills/tall_max_L_diagonal.png"
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "frame": 1009,
+      "path": "media/stills/tall_max_R_diagonal.png"
+    },
+    {
+      "case": "tall_short_L_straight",
+      "frame": 1041,
+      "path": "media/stills/tall_short_L_straight.png"
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "frame": 1073,
+      "path": "media/stills/tall_mid_L_straight.png"
+    },
+    {
+      "case": "tall_short_R_straight",
+      "frame": 1105,
+      "path": "media/stills/tall_short_R_straight.png"
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "frame": 1137,
+      "path": "media/stills/tall_mid_R_straight.png"
+    },
+    {
+      "case": "body_L",
+      "frame": 1169,
+      "path": "media/stills/body_L.png"
+    },
+    {
+      "case": "body_R",
+      "frame": 1201,
+      "path": "media/stills/body_R.png"
+    }
+  ]
+}

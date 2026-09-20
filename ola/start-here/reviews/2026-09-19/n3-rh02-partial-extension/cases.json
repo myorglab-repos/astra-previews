@@ -1,0 +1,2142 @@
+[
+  {
+    "id": "short_max_L_straight",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 0,
+    "pitch_deg": 8,
+    "side": "L",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 73,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "start": 1,
+    "peak": 17,
+    "end": 32,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_R_straight",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 0,
+    "pitch_deg": 8,
+    "side": "R",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 313,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "start": 33,
+    "peak": 49,
+    "end": 64,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_L_hook",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 3,
+    "pitch_deg": 11,
+    "side": "L",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 553,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "start": 65,
+    "peak": 81,
+    "end": 96,
+    "prior_pitch_deg": 11,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_R_hook",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 3,
+    "pitch_deg": 11,
+    "side": "R",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 793,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "start": 97,
+    "peak": 113,
+    "end": 128,
+    "prior_pitch_deg": 11,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_L_uppercut",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 0,
+    "pitch_deg": 8,
+    "side": "L",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1033,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "start": 129,
+    "peak": 145,
+    "end": 160,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_R_uppercut",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 0,
+    "pitch_deg": 8,
+    "side": "R",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1273,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "start": 161,
+    "peak": 177,
+    "end": 192,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.45
+      ],
+      [
+        0.26,
+        -0.48,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_L_diagonal",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": -8,
+    "pitch_deg": 0,
+    "side": "L",
+    "kind": "diagonal",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1513,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "start": 193,
+    "peak": 209,
+    "end": 224,
+    "prior_pitch_deg": 0,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_max_R_diagonal",
+    "preset": "short",
+    "preset_pitch_deg": 8,
+    "strike_trim_deg": 15,
+    "pitch_deg": 23,
+    "side": "R",
+    "kind": "diagonal",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1753,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "start": 225,
+    "peak": 241,
+    "end": 256,
+    "prior_pitch_deg": 23,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_short_L_straight",
+    "preset": "short",
+    "pitch_deg": 27.126,
+    "side": "L",
+    "kind": "straight",
+    "extension": "short",
+    "fraction": 0.5,
+    "source_frame": 73,
+    "q": -0.35808787362155053,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.45
+      ],
+      [
+        0.26,
+        -0.3,
+        1.65
+      ]
+    ],
+    "start": 257,
+    "peak": 273,
+    "end": 288,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 27.1262506090376,
+      "desired_centroid_z_m": 1.5499999999999998,
+      "pitch_clipped": false,
+      "rh02_disposition": "Prior pitch retained as rehearsal pose; no head-target aim claim"
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.45,
+        1.45
+      ],
+      [
+        0.26,
+        -0.15,
+        1.65
+      ]
+    ],
+    "target_role": "reference_only_non_head_target",
+    "rh02_policy": "NON-HEAD-TARGET rehearsal; reference box is diagnostic only"
+  },
+  {
+    "id": "short_mid_L_straight",
+    "preset": "short",
+    "pitch_deg": 13.499,
+    "side": "L",
+    "kind": "straight",
+    "extension": "mid",
+    "fraction": 0.7,
+    "source_frame": 73,
+    "q": 0.24897376604499005,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.45
+      ],
+      [
+        0.26,
+        -0.3,
+        1.65
+      ]
+    ],
+    "start": 289,
+    "peak": 305,
+    "end": 320,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 13.498555791508938,
+      "desired_centroid_z_m": 1.5499999999999998,
+      "pitch_clipped": false
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.6,
+        1.45
+      ],
+      [
+        0.26,
+        -0.3,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "short_short_R_straight",
+    "preset": "short",
+    "pitch_deg": 27.126,
+    "side": "R",
+    "kind": "straight",
+    "extension": "short",
+    "fraction": 0.5,
+    "source_frame": 313,
+    "q": -0.3580878721658405,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.45
+      ],
+      [
+        0.26,
+        -0.3,
+        1.65
+      ]
+    ],
+    "start": 321,
+    "peak": 337,
+    "end": 352,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 27.12625061154724,
+      "desired_centroid_z_m": 1.5499999999999998,
+      "pitch_clipped": false,
+      "rh02_disposition": "Prior pitch retained as rehearsal pose; no head-target aim claim"
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.45,
+        1.45
+      ],
+      [
+        0.26,
+        -0.15,
+        1.65
+      ]
+    ],
+    "target_role": "reference_only_non_head_target",
+    "rh02_policy": "NON-HEAD-TARGET rehearsal; reference box is diagnostic only"
+  },
+  {
+    "id": "short_mid_R_straight",
+    "preset": "short",
+    "pitch_deg": 13.499,
+    "side": "R",
+    "kind": "straight",
+    "extension": "mid",
+    "fraction": 0.7,
+    "source_frame": 313,
+    "q": 0.2489737684477409,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.45
+      ],
+      [
+        0.26,
+        -0.3,
+        1.65
+      ]
+    ],
+    "start": 353,
+    "peak": 369,
+    "end": 384,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.45
+      ],
+      [
+        0.26,
+        -0.6,
+        1.65
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 13.4985557817896,
+      "desired_centroid_z_m": 1.5499999999999998,
+      "pitch_clipped": false
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.6,
+        1.45
+      ],
+      [
+        0.26,
+        -0.3,
+        1.65
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_L_straight",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 0,
+    "pitch_deg": 16,
+    "side": "L",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 73,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "start": 385,
+    "peak": 401,
+    "end": 416,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_R_straight",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 0,
+    "pitch_deg": 16,
+    "side": "R",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 313,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "start": 417,
+    "peak": 433,
+    "end": 448,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_L_hook",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 3,
+    "pitch_deg": 19,
+    "side": "L",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 553,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "start": 449,
+    "peak": 465,
+    "end": 480,
+    "prior_pitch_deg": 19,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_R_hook",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 3,
+    "pitch_deg": 19,
+    "side": "R",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 793,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "start": 481,
+    "peak": 497,
+    "end": 512,
+    "prior_pitch_deg": 19,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_L_uppercut",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 0,
+    "pitch_deg": 16,
+    "side": "L",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1033,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "start": 513,
+    "peak": 529,
+    "end": 544,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_R_uppercut",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 0,
+    "pitch_deg": 16,
+    "side": "R",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1273,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "start": 545,
+    "peak": 561,
+    "end": 576,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.62
+      ],
+      [
+        0.26,
+        -0.48,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_L_diagonal",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": -8,
+    "pitch_deg": 8,
+    "side": "L",
+    "kind": "diagonal",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1513,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "start": 577,
+    "peak": 593,
+    "end": 608,
+    "prior_pitch_deg": 8,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_max_R_diagonal",
+    "preset": "mid",
+    "preset_pitch_deg": 16,
+    "strike_trim_deg": 15,
+    "pitch_deg": 31,
+    "side": "R",
+    "kind": "diagonal",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1753,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "start": 609,
+    "peak": 625,
+    "end": 640,
+    "prior_pitch_deg": 31,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_short_L_straight",
+    "preset": "mid",
+    "pitch_deg": 49.181,
+    "side": "L",
+    "kind": "straight",
+    "extension": "short",
+    "fraction": 0.5,
+    "source_frame": 73,
+    "q": -0.35808787362155053,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.62
+      ],
+      [
+        0.26,
+        -0.3,
+        1.82
+      ]
+    ],
+    "start": 641,
+    "peak": 657,
+    "end": 672,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 49.18110236933386,
+      "desired_centroid_z_m": 1.7200000000000002,
+      "pitch_clipped": false,
+      "rh02_disposition": "Prior pitch retained as rehearsal pose; no head-target aim claim"
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.45,
+        1.62
+      ],
+      [
+        0.26,
+        -0.15,
+        1.82
+      ]
+    ],
+    "target_role": "reference_only_non_head_target",
+    "rh02_policy": "NON-HEAD-TARGET rehearsal; reference box is diagnostic only"
+  },
+  {
+    "id": "mid_mid_L_straight",
+    "preset": "mid",
+    "pitch_deg": 29.11,
+    "side": "L",
+    "kind": "straight",
+    "extension": "mid",
+    "fraction": 0.7,
+    "source_frame": 73,
+    "q": 0.24897376604499005,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.62
+      ],
+      [
+        0.26,
+        -0.3,
+        1.82
+      ]
+    ],
+    "start": 673,
+    "peak": 689,
+    "end": 704,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 29.110350251607244,
+      "desired_centroid_z_m": 1.7200000000000002,
+      "pitch_clipped": false
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.6,
+        1.62
+      ],
+      [
+        0.26,
+        -0.3,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "mid_short_R_straight",
+    "preset": "mid",
+    "pitch_deg": 49.181,
+    "side": "R",
+    "kind": "straight",
+    "extension": "short",
+    "fraction": 0.5,
+    "source_frame": 313,
+    "q": -0.3580878721658405,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.62
+      ],
+      [
+        0.26,
+        -0.3,
+        1.82
+      ]
+    ],
+    "start": 705,
+    "peak": 721,
+    "end": 736,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 49.1811023894649,
+      "desired_centroid_z_m": 1.7200000000000002,
+      "pitch_clipped": false,
+      "rh02_disposition": "Prior pitch retained as rehearsal pose; no head-target aim claim"
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.45,
+        1.62
+      ],
+      [
+        0.26,
+        -0.15,
+        1.82
+      ]
+    ],
+    "target_role": "reference_only_non_head_target",
+    "rh02_policy": "NON-HEAD-TARGET rehearsal; reference box is diagnostic only"
+  },
+  {
+    "id": "mid_mid_R_straight",
+    "preset": "mid",
+    "pitch_deg": 29.11,
+    "side": "R",
+    "kind": "straight",
+    "extension": "mid",
+    "fraction": 0.7,
+    "source_frame": 313,
+    "q": 0.2489737684477409,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.62
+      ],
+      [
+        0.26,
+        -0.3,
+        1.82
+      ]
+    ],
+    "start": 737,
+    "peak": 753,
+    "end": 768,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.62
+      ],
+      [
+        0.26,
+        -0.6,
+        1.82
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 29.110350265434803,
+      "desired_centroid_z_m": 1.7200000000000002,
+      "pitch_clipped": false
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.6,
+        1.62
+      ],
+      [
+        0.26,
+        -0.3,
+        1.82
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_L_straight",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 0,
+    "pitch_deg": 24,
+    "side": "L",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 73,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "start": 769,
+    "peak": 785,
+    "end": 800,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_R_straight",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 0,
+    "pitch_deg": 24,
+    "side": "R",
+    "kind": "straight",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 313,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "start": 801,
+    "peak": 817,
+    "end": 832,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_L_hook",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 3,
+    "pitch_deg": 27,
+    "side": "L",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 553,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "start": 833,
+    "peak": 849,
+    "end": 864,
+    "prior_pitch_deg": 27,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_R_hook",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 3,
+    "pitch_deg": 27,
+    "side": "R",
+    "kind": "hook",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 793,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "start": 865,
+    "peak": 881,
+    "end": 896,
+    "prior_pitch_deg": 27,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_L_uppercut",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 0,
+    "pitch_deg": 24,
+    "side": "L",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1033,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "start": 897,
+    "peak": 913,
+    "end": 928,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_R_uppercut",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 0,
+    "pitch_deg": 24,
+    "side": "R",
+    "kind": "uppercut",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1273,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "start": 929,
+    "peak": 945,
+    "end": 960,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.7,
+        1.78
+      ],
+      [
+        0.26,
+        -0.48,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_L_diagonal",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": -8,
+    "pitch_deg": 16,
+    "side": "L",
+    "kind": "diagonal",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1513,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "start": 961,
+    "peak": 977,
+    "end": 992,
+    "prior_pitch_deg": 16,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_max_R_diagonal",
+    "preset": "tall",
+    "preset_pitch_deg": 24,
+    "strike_trim_deg": 15,
+    "pitch_deg": 39,
+    "side": "R",
+    "kind": "diagonal",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 1753,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "start": 993,
+    "peak": 1009,
+    "end": 1024,
+    "prior_pitch_deg": 39,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_short_L_straight",
+    "preset": "tall",
+    "pitch_deg": 57,
+    "side": "L",
+    "kind": "straight",
+    "extension": "short",
+    "fraction": 0.5,
+    "source_frame": 73,
+    "q": -0.35808787362155053,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.78
+      ],
+      [
+        0.26,
+        -0.3,
+        1.96
+      ]
+    ],
+    "start": 1025,
+    "peak": 1041,
+    "end": 1056,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 77.47992148032047,
+      "desired_centroid_z_m": 1.87,
+      "pitch_clipped": true,
+      "rh02_disposition": "Prior pitch retained as rehearsal pose; no head-target aim claim"
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.45,
+        1.78
+      ],
+      [
+        0.26,
+        -0.15,
+        1.96
+      ]
+    ],
+    "target_role": "reference_only_non_head_target",
+    "rh02_policy": "NON-HEAD-TARGET rehearsal; reference box is diagnostic only"
+  },
+  {
+    "id": "tall_mid_L_straight",
+    "preset": "tall",
+    "pitch_deg": 45.018,
+    "side": "L",
+    "kind": "straight",
+    "extension": "mid",
+    "fraction": 0.7,
+    "source_frame": 73,
+    "q": 0.24897376604499005,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.78
+      ],
+      [
+        0.26,
+        -0.3,
+        1.96
+      ]
+    ],
+    "start": 1057,
+    "peak": 1073,
+    "end": 1088,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 45.01814134478403,
+      "desired_centroid_z_m": 1.87,
+      "pitch_clipped": false
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.6,
+        1.78
+      ],
+      [
+        0.26,
+        -0.3,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "tall_short_R_straight",
+    "preset": "tall",
+    "pitch_deg": 57,
+    "side": "R",
+    "kind": "straight",
+    "extension": "short",
+    "fraction": 0.5,
+    "source_frame": 313,
+    "q": -0.3580878721658405,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.78
+      ],
+      [
+        0.26,
+        -0.3,
+        1.96
+      ]
+    ],
+    "start": 1089,
+    "peak": 1105,
+    "end": 1120,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 77.47992154519545,
+      "desired_centroid_z_m": 1.87,
+      "pitch_clipped": true,
+      "rh02_disposition": "Prior pitch retained as rehearsal pose; no head-target aim claim"
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.45,
+        1.78
+      ],
+      [
+        0.26,
+        -0.15,
+        1.96
+      ]
+    ],
+    "target_role": "reference_only_non_head_target",
+    "rh02_policy": "NON-HEAD-TARGET rehearsal; reference box is diagnostic only"
+  },
+  {
+    "id": "tall_mid_R_straight",
+    "preset": "tall",
+    "pitch_deg": 45.018,
+    "side": "R",
+    "kind": "straight",
+    "extension": "mid",
+    "fraction": 0.7,
+    "source_frame": 313,
+    "q": 0.2489737684477409,
+    "target": [
+      [
+        -0.26,
+        -0.6,
+        1.78
+      ],
+      [
+        0.26,
+        -0.3,
+        1.96
+      ]
+    ],
+    "start": 1121,
+    "peak": 1137,
+    "end": 1152,
+    "prior_pitch_deg": 24,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.78
+      ],
+      [
+        0.26,
+        -0.6,
+        1.96
+      ]
+    ],
+    "aim_policy": {
+      "method": "Glove vertex-centroid Z to band midpoint; protected-root pitch clipped to 0..57 deg",
+      "unclipped_pitch_deg": 45.01814135654655,
+      "desired_centroid_z_m": 1.87,
+      "pitch_clipped": false
+    },
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.6,
+        1.78
+      ],
+      [
+        0.26,
+        -0.3,
+        1.96
+      ]
+    ],
+    "target_role": "head_target",
+    "rh02_policy": "Retained head-band surface inclusion at prescribed peak"
+  },
+  {
+    "id": "body_L",
+    "preset": "abdomen",
+    "pitch_deg": -20,
+    "side": "L",
+    "kind": "body",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 73,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "start": 1153,
+    "peak": 1169,
+    "end": 1184,
+    "prior_pitch_deg": -20,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "target_role": "abdomen_target",
+    "rh02_policy": "Retained abdomen target"
+  },
+  {
+    "id": "body_R",
+    "preset": "abdomen",
+    "pitch_deg": -20,
+    "side": "R",
+    "kind": "body",
+    "extension": "max",
+    "fraction": 1.0,
+    "source_frame": 313,
+    "q": 1.0,
+    "target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "start": 1185,
+    "peak": 1201,
+    "end": 1216,
+    "prior_pitch_deg": -20,
+    "prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "rh02_prior_target": [
+      [
+        -0.26,
+        -0.85,
+        1.0
+      ],
+      [
+        0.26,
+        -0.6,
+        1.24
+      ]
+    ],
+    "target_role": "abdomen_target",
+    "rh02_policy": "Retained abdomen target"
+  }
+]

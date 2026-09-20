@@ -1,9 +1,9 @@
 ﻿# RH-02 — Partial-extension aim policy
 
-**Status:** LIVE — queued as `n3-rh02-partial-extension` in `chats/NEXT_PROMPT.md` (2026-09-19 ~23:55 ET)  
-**Prerequisite:** AF-01b CLOSED-A on `n3-af01b-exposed-arm-swell-2` (see `ENGINEERING_ASSESSMENT_N3_AF01B2_2026-09-19.md`)
+**Status:** CLOSED-A (2026-09-20) — see `ENGINEERING_ASSESSMENT_N3_RH02_2026-09-20.md`  
+**Packet:** `reviews/2026-09-19/n3-rh02-partial-extension/`
 
-## Intent
-- Coupled pitch + shape weight so partials stay in declared band OR declare partials as non-head-target
-- Re-audit spatial policy (no bag-proxy encroachment for declared head boxes)
-- No continuum lengthening (Option A stand-off remains)
+## Outcome
+- Six 50% straights: NON-HEAD-TARGET + amber separated reference boxes (+25 mm bag gap); quantified misses retained
+- Six 70% straights: head-target surface inclusion + centroid height retained; tall centroid Y shortfall 6.305 mm reported
+- Motion/mesh unchanged from AF-01b-2 parent; G-03/G-05 digital regression exact

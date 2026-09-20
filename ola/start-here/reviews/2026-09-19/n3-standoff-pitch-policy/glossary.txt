@@ -1,0 +1,18 @@
+## Plain-language glossary
+
+| Term | Everyday meaning | Why it matters here |
+|---|---|---|
+| Stand-off / policy box | Assumed opponent distance / a rectangular target region. | Closer hook/uppercut targets replace the old common far target; this changes the review requirement. |
+| Pitch / coupled aim | Upward shoulder tilt / changing that tilt with reach. | Shorter strokes need more tilt to approach the same height band. |
+| Chord / partial extension | Straight shoulder-to-wrist distance / a fraction of maximum. | 50/70/100% remain approximately 429/601/859 mm without lengthening meshes. |
+| Glove vertex / datum | A sampled glove surface point / the wrist reference point. | Surface inclusion can pass while the wrist is still outside. |
+| RH-01 | Tall hook/uppercut reach issue. | New boxes pass; old far-box misses remain demonstrable. |
+| RH-02 | Keeping partial strokes aimed at the target height. | Coupled pitch helps; tall 50% centering is clipped and all 50% inclusion is marginal. |
+| RH-03 | Routing shape and material validity. | No new bow; inherited 68 mm bow still lacks material validation. |
+| G-03 / G-05 | Sampled arm-to-bag clearance / cover gaps. | Positive digital gaps do not establish loaded collision safety or tolerances. |
+| A-05 / A-03 | Wrist-glove alignment / chamber cue explanation. | Alignment is checked; retained airflow remains an uncalibrated illustration. |
+| B-03 / B-06 | Textile retention / root and structural load path. | Both need hardware engineering; B-06 remains Critical. |
+| C-01 | Missing pressure-to-motion-to-contact measurements. | Remains Critical; no physical force claim follows from these films. |
+| Track A / CLOSED-A | Digital visualization checks / closure for a stated digital check only. | A reviewed movie is not a physically qualified robot. |
+
+What changed / what is still not proven: closer targets and coupled shoulder tilt make the prescribed poses enter their policy boxes; robust short-stroke aim, real punch power and structural hardware remain unproven.

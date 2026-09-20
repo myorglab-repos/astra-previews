@@ -1,0 +1,1001 @@
+{
+  "status": "PASS",
+  "blend_sha256": "8eebb0669a7a5b3092abee51921b8e33a3b7b598db53eaf89abdfd4f062d0564",
+  "method": "Analytic AABB-to-infinite-cylinder XY separation, radius 275 mm. Exact parent peak/path/clearance regression. Glove vertex inclusion is sampled surface inclusion; not mesh-volume intersection or contact.",
+  "cases": [
+    {
+      "case": "short_max_L_straight",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4459,
+      "maximum_vertex_interior_margin_mm": 90.26874584608468,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_R_straight",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4459,
+      "maximum_vertex_interior_margin_mm": 90.26874584608468,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_L_hook",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 7.234315872192365,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 3438,
+      "maximum_vertex_interior_margin_mm": 68.51781514962197,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_R_hook",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 7.234405279159528,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 3438,
+      "maximum_vertex_interior_margin_mm": 68.51793783955262,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 7.319573997162479,
+      "centroid_height_shortfall_mm": 7.319573997162479,
+      "vertices_inside": 2952,
+      "maximum_vertex_interior_margin_mm": 69.9824879028097,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.45
+        ],
+        [
+          0.26,
+          -0.48,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 7.3195739744896855,
+      "centroid_height_shortfall_mm": 7.3195739744896855,
+      "vertices_inside": 2952,
+      "maximum_vertex_interior_margin_mm": 69.98248672116335,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4407,
+      "maximum_vertex_interior_margin_mm": 85.88307356586844,
+      "policy_pass": true
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.45
+        ],
+        [
+          0.26,
+          -0.6,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 5138,
+      "maximum_vertex_interior_margin_mm": 99.9861920116758,
+      "policy_pass": true
+    },
+    {
+      "case": "short_short_L_straight",
+      "fraction": 0.5,
+      "target_role": "reference_only_non_head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.45
+        ],
+        [
+          0.26,
+          -0.3,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 142.69755935751266,
+      "centroid_shortfall_mm": 100.66703860272494,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4,
+      "maximum_vertex_interior_margin_mm": 0.5714845583564276,
+      "policy_pass": true
+    },
+    {
+      "case": "short_mid_L_straight",
+      "fraction": 0.7,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.45
+        ],
+        [
+          0.26,
+          -0.3,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 5170,
+      "maximum_vertex_interior_margin_mm": 99.87380117876809,
+      "policy_pass": true
+    },
+    {
+      "case": "short_short_R_straight",
+      "fraction": 0.5,
+      "target_role": "reference_only_non_head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.45
+        ],
+        [
+          0.26,
+          -0.3,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 142.69755935751266,
+      "centroid_shortfall_mm": 100.6670386616082,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4,
+      "maximum_vertex_interior_margin_mm": 0.5714845583564276,
+      "policy_pass": true
+    },
+    {
+      "case": "short_mid_R_straight",
+      "fraction": 0.7,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.45
+        ],
+        [
+          0.26,
+          -0.3,
+          1.65
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 5170,
+      "maximum_vertex_interior_margin_mm": 99.87379860365108,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_L_straight",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 31.77807331085203,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4059,
+      "maximum_vertex_interior_margin_mm": 99.88400435989541,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_R_straight",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 31.77807331085203,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4059,
+      "maximum_vertex_interior_margin_mm": 99.8840100760936,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_L_hook",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 41.79621815681456,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2786,
+      "maximum_vertex_interior_margin_mm": 99.66749075966929,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_R_hook",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 41.796307563781724,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2786,
+      "maximum_vertex_interior_margin_mm": 99.66749075966929,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 11.605005264282209,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 3012,
+      "maximum_vertex_interior_margin_mm": 94.95282831682495,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.62
+        ],
+        [
+          0.26,
+          -0.48,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 11.605064868926984,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 3012,
+      "maximum_vertex_interior_margin_mm": 94.95276967174104,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 32.41721391677854,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4032,
+      "maximum_vertex_interior_margin_mm": 99.98134062793528,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.62
+        ],
+        [
+          0.26,
+          -0.6,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 26.445186138153055,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4395,
+      "maximum_vertex_interior_margin_mm": 99.96572386933589,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_short_L_straight",
+      "fraction": 0.5,
+      "target_role": "reference_only_non_head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.62
+        ],
+        [
+          0.26,
+          -0.3,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 20.756014882429813,
+      "wrist_shortfall_mm": 185.31022662469994,
+      "centroid_shortfall_mm": 139.15730603785346,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 0,
+      "maximum_vertex_interior_margin_mm": -15.52183280589009,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "fraction": 0.7,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.62
+        ],
+        [
+          0.26,
+          -0.3,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4970,
+      "maximum_vertex_interior_margin_mm": 99.91964311033198,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_short_R_straight",
+      "fraction": 0.5,
+      "target_role": "reference_only_non_head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.62
+        ],
+        [
+          0.26,
+          -0.3,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 20.756016866460126,
+      "wrist_shortfall_mm": 185.31022662469994,
+      "centroid_shortfall_mm": 139.1573060864392,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 0,
+      "maximum_vertex_interior_margin_mm": -15.521833619699333,
+      "policy_pass": true
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "fraction": 0.7,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.62
+        ],
+        [
+          0.26,
+          -0.3,
+          1.82
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 0.0,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4970,
+      "maximum_vertex_interior_margin_mm": 99.91964311033198,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_L_straight",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 79.27755117416379,
+      "centroid_shortfall_mm": 15.69268936057938,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2501,
+      "maximum_vertex_interior_margin_mm": 89.94383180472276,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_R_straight",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 79.27755117416379,
+      "centroid_shortfall_mm": 15.692689351976469,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2501,
+      "maximum_vertex_interior_margin_mm": 89.94383925298254,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_L_hook",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 88.58535766601561,
+      "centroid_shortfall_mm": 47.91383869669329,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 981,
+      "maximum_vertex_interior_margin_mm": 69.68730366515618,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_R_hook",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 88.58544707298277,
+      "centroid_shortfall_mm": 47.91392804446565,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 981,
+      "maximum_vertex_interior_margin_mm": 69.68719631317511,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 57.70445942878722,
+      "centroid_shortfall_mm": 24.394492633489335,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 1415,
+      "maximum_vertex_interior_margin_mm": 78.07062274868804,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.7,
+          1.78
+        ],
+        [
+          0.26,
+          -0.48,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 204.99999999999997,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 57.70451903343199,
+      "centroid_shortfall_mm": 24.39455223605637,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 1415,
+      "maximum_vertex_interior_margin_mm": 78.07055721001221,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 80.09300231933591,
+      "centroid_shortfall_mm": 16.507513208253954,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2477,
+      "maximum_vertex_interior_margin_mm": 89.90671813059193,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "fraction": 1.0,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.78
+        ],
+        [
+          0.26,
+          -0.6,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 72.095251083374,
+      "centroid_shortfall_mm": 7.9877956024892,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2689,
+      "maximum_vertex_interior_margin_mm": 89.98027110925189,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_short_L_straight",
+      "fraction": 0.5,
+      "target_role": "reference_only_non_head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.78
+        ],
+        [
+          0.26,
+          -0.3,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 58.53686686150376,
+      "wrist_shortfall_mm": 226.7063316307309,
+      "centroid_shortfall_mm": 173.84569279622303,
+      "centroid_height_shortfall_mm": 9.330150351534257,
+      "vertices_inside": 0,
+      "maximum_vertex_interior_margin_mm": -43.52181774658687,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "fraction": 0.7,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.78
+        ],
+        [
+          0.26,
+          -0.3,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 52.52228975296019,
+      "centroid_shortfall_mm": 6.30540837601626,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2106,
+      "maximum_vertex_interior_margin_mm": 78.90331392767736,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_short_R_straight",
+      "fraction": 0.5,
+      "target_role": "reference_only_non_head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.78
+        ],
+        [
+          0.26,
+          -0.3,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 58.536873264088506,
+      "wrist_shortfall_mm": 226.7063316307309,
+      "centroid_shortfall_mm": 173.84569283929395,
+      "centroid_height_shortfall_mm": 9.330150315978699,
+      "vertices_inside": 0,
+      "maximum_vertex_interior_margin_mm": -43.52181808561956,
+      "policy_pass": true
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "fraction": 0.7,
+      "target_role": "head_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.6,
+          1.78
+        ],
+        [
+          0.26,
+          -0.3,
+          1.96
+        ]
+      ],
+      "bag_proxy_gap_mm": 24.999999999999968,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 52.52228975296019,
+      "centroid_shortfall_mm": 6.305408381186339,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 2106,
+      "maximum_vertex_interior_margin_mm": 78.90330913769338,
+      "policy_pass": true
+    },
+    {
+      "case": "body_L",
+      "fraction": 1.0,
+      "target_role": "abdomen_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.0
+        ],
+        [
+          0.26,
+          -0.6,
+          1.24
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 7.140314579009988,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4682,
+      "maximum_vertex_interior_margin_mm": 119.80759027099275,
+      "policy_pass": true
+    },
+    {
+      "case": "body_R",
+      "fraction": 1.0,
+      "target_role": "abdomen_target",
+      "box_m": [
+        [
+          -0.26,
+          -0.85,
+          1.0
+        ],
+        [
+          0.26,
+          -0.6,
+          1.24
+        ]
+      ],
+      "bag_proxy_gap_mm": 324.99999999999994,
+      "box_disjoint": true,
+      "glove_surface_shortfall_mm": 0.0,
+      "wrist_shortfall_mm": 7.140314579009988,
+      "centroid_shortfall_mm": 0.0,
+      "centroid_height_shortfall_mm": 0,
+      "vertices_inside": 4682,
+      "maximum_vertex_interior_margin_mm": 119.80759389887208,
+      "policy_pass": true
+    }
+  ],
+  "peak_geometry_unchanged": 38,
+  "max_case_records_unchanged": 26,
+  "non_head_cases": 6,
+  "partial_head_cases": 6,
+  "all_2431_clearance_samples_summaries_unchanged": true,
+  "scope": "50% is an explicitly excluded head-target capability, not a newly proven stroke. 70% centroid height and sampled glove surface inclusion pass; tall centroid remains outside the Y face. Track A does not prove strike impulse."
+}

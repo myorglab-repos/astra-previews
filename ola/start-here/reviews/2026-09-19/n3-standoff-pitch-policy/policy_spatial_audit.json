@@ -1,0 +1,271 @@
+{
+  "method": "Closest XY point of each axis-aligned target box to mast axis, versus 275 mm radius infinite cylinder. Does not test finite body volumes or anthropometry.",
+  "cases": [
+    {
+      "case": "short_max_L_straight",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_R_straight",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_L_hook",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_R_hook",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_L_uppercut",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_R_uppercut",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_L_diagonal",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_max_R_diagonal",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_short_L_straight",
+      "box_nearest_xy_radius_mm": 150.0,
+      "bag_proxy_radial_gap_mm": -125.00000000000003,
+      "box_disjoint_from_infinite_bag_proxy": false,
+      "interpretation": "FAIL separated-envelope assumption / RH-02"
+    },
+    {
+      "case": "short_mid_L_straight",
+      "box_nearest_xy_radius_mm": 300.0,
+      "bag_proxy_radial_gap_mm": 24.999999999999968,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "short_short_R_straight",
+      "box_nearest_xy_radius_mm": 150.0,
+      "bag_proxy_radial_gap_mm": -125.00000000000003,
+      "box_disjoint_from_infinite_bag_proxy": false,
+      "interpretation": "FAIL separated-envelope assumption / RH-02"
+    },
+    {
+      "case": "short_mid_R_straight",
+      "box_nearest_xy_radius_mm": 300.0,
+      "bag_proxy_radial_gap_mm": 24.999999999999968,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_L_straight",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_R_straight",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_L_hook",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_R_hook",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_L_uppercut",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_R_uppercut",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_L_diagonal",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_max_R_diagonal",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_short_L_straight",
+      "box_nearest_xy_radius_mm": 150.0,
+      "bag_proxy_radial_gap_mm": -125.00000000000003,
+      "box_disjoint_from_infinite_bag_proxy": false,
+      "interpretation": "FAIL separated-envelope assumption / RH-02"
+    },
+    {
+      "case": "mid_mid_L_straight",
+      "box_nearest_xy_radius_mm": 300.0,
+      "bag_proxy_radial_gap_mm": 24.999999999999968,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "mid_short_R_straight",
+      "box_nearest_xy_radius_mm": 150.0,
+      "bag_proxy_radial_gap_mm": -125.00000000000003,
+      "box_disjoint_from_infinite_bag_proxy": false,
+      "interpretation": "FAIL separated-envelope assumption / RH-02"
+    },
+    {
+      "case": "mid_mid_R_straight",
+      "box_nearest_xy_radius_mm": 300.0,
+      "bag_proxy_radial_gap_mm": 24.999999999999968,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_L_straight",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_R_straight",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_L_hook",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_R_hook",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_L_uppercut",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_R_uppercut",
+      "box_nearest_xy_radius_mm": 480.0,
+      "bag_proxy_radial_gap_mm": 204.99999999999997,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_L_diagonal",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_max_R_diagonal",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_short_L_straight",
+      "box_nearest_xy_radius_mm": 150.0,
+      "bag_proxy_radial_gap_mm": -125.00000000000003,
+      "box_disjoint_from_infinite_bag_proxy": false,
+      "interpretation": "FAIL separated-envelope assumption / RH-02"
+    },
+    {
+      "case": "tall_mid_L_straight",
+      "box_nearest_xy_radius_mm": 300.0,
+      "bag_proxy_radial_gap_mm": 24.999999999999968,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "tall_short_R_straight",
+      "box_nearest_xy_radius_mm": 150.0,
+      "bag_proxy_radial_gap_mm": -125.00000000000003,
+      "box_disjoint_from_infinite_bag_proxy": false,
+      "interpretation": "FAIL separated-envelope assumption / RH-02"
+    },
+    {
+      "case": "tall_mid_R_straight",
+      "box_nearest_xy_radius_mm": 300.0,
+      "bag_proxy_radial_gap_mm": 24.999999999999968,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "body_L",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    },
+    {
+      "case": "body_R",
+      "box_nearest_xy_radius_mm": 600.0,
+      "bag_proxy_radial_gap_mm": 324.99999999999994,
+      "box_disjoint_from_infinite_bag_proxy": true,
+      "interpretation": "Nominal box-proxy separation only; no human-body fit claim"
+    }
+  ]
+}
