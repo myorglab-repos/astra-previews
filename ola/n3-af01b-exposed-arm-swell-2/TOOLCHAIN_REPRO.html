@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>TOOLCHAIN_REPRO</title><style>body{max-width:1280px;margin:32px auto;padding:0 24px;font:18px/1.55 system-ui;color:#e5edf7;background:#101c2c}a{color:#55ddea}img,video{max-width:100%}table{border-collapse:collapse;width:100%;font-size:16px}th,td{border:1px solid #506079;padding:9px;text-align:left}pre{overflow:auto;background:#203149;padding:16px}</style><body><a href="INDEX.html">Review index</a><h1>I. Toolchain and reproduction</h1>
+<p>Blender 3.6.5 CLI with bpy/NumPy; Python 3.11, Pillow, Mistune and imageio-ffmpeg. Blender CLI access was exercised; native UI and uninterrupted manual playback are not claimed. Successor SHA-256: <code>b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263</code>. Source and eight baseline hashes are in lineage.json. Models and media are real binaries tracked by Git LFS.</p>
+<p>Use a fresh sibling output directory for the build scripts. Never overwrite settled evidence. Prefix commands with <code>python reviews/2026-09-19/n3-af01b-exposed-arm-swell-2/</code>:</p>
+<pre><code class="language-text">run_blender.py build_bend reviews/2026-09-19/n3-af01b-exposed-arm-swell/Punching_Bag_N3_Airflow_Bladder_Bend.blend
+run_blender.py audit_lineage &lt;successor.blend&gt;
+run_blender.py audit_atlas &lt;successor.blend&gt;
+run_blender.py audit_swell &lt;successor.blend&gt;
+run_blender.py render_media &lt;successor.blend&gt; whole
+run_blender.py render_media &lt;successor.blend&gt; exposed
+run_blender.py render_media &lt;successor.blend&gt; exposed_reverse
+run_blender.py render_cells &lt;successor.blend&gt;
+audit_exposed_render.py
+compose_media.py
+qa_media.py
+build_packet.py
+# Inspect final decoded sheets and stills, record visual_review.json and READY_FOR_OLA.md.
+verify_packet.py
+</code></pre>
+<p>Main film 2400x1400; blind film 1640x900. Each is 128 frames at 4 fps / 32 seconds. Intermediate frame folders are ignored. Inherited orphan shape-key load diagnostics remain documented in process logs; attached shape schedules are checked after reload. No clean-load claim is made. <code>visual_review.json</code> is an inspection record, not automatically generated viewer acceptance.</p>
+<p><strong>Track A does not prove strike impulse.</strong> Swelling, bend and timing are prescribed illustrations, not a pneumatic solution or measured pressure, flow, strain, propulsion, contact force, durability or real CV.</p>
+</body></html>

@@ -1,0 +1,25 @@
+{
+  "source": "media/exposed_blind_review.mp4",
+  "samples": [
+    {
+      "frame": 16,
+      "kind": "straight",
+      "path": "media/decoded_blind_straight.png"
+    },
+    {
+      "frame": 48,
+      "kind": "hook",
+      "path": "media/decoded_blind_hook.png"
+    },
+    {
+      "frame": 80,
+      "kind": "uppercut",
+      "path": "media/decoded_blind_uppercut.png"
+    },
+    {
+      "frame": 112,
+      "kind": "body",
+      "path": "media/decoded_blind_body.png"
+    }
+  ]
+}

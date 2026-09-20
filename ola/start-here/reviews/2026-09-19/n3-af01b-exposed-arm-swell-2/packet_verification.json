@@ -1,0 +1,24 @@
+{
+  "status": "PASS_WITH_ENGINEERING_RESIDUALS",
+  "blend_sha256": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+  "manifest_artifacts": 105,
+  "local_links_checked": 62,
+  "missing_links": [],
+  "baselines_preserved": 8,
+  "original_atlas_peak_records_identical": true,
+  "swelling_and_relaxation_pass": true,
+  "original_atlas_clearance_and_registration_pass": true,
+  "inflated_surface_packaging_audited": false,
+  "media_decode_pass": true,
+  "visual_review_pass": true,
+  "open_items": [
+    "AF-01b exposed-pane independent blind-viewer acceptance pending",
+    "AF-03 readability for Ola disposition",
+    "RH-02 partial reach/spacing",
+    "RH-03 routing/materials",
+    "B-03 retention",
+    "B-06 Critical structure",
+    "C-01 Critical measured propulsion/contact"
+  ],
+  "scope": "Digital illustration and completeness checks only. Track A does not prove strike impulse."
+}

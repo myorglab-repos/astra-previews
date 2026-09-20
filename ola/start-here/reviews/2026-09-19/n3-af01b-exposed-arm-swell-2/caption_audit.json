@@ -1,0 +1,7878 @@
+{
+  "status": "PASS",
+  "source": "airflow_cues.PROFILES / branch_state",
+  "records": [
+    {
+      "frame": 1,
+      "kind": "straight",
+      "local": 0,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "kind": "straight",
+      "local": 1,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "kind": "straight",
+      "local": 2,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "kind": "straight",
+      "local": 3,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "kind": "straight",
+      "local": 4,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "kind": "straight",
+      "local": 5,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "kind": "straight",
+      "local": 6,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "kind": "straight",
+      "local": 7,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "kind": "straight",
+      "local": 8,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "kind": "straight",
+      "local": 9,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "kind": "straight",
+      "local": 10,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "kind": "straight",
+      "local": 11,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "kind": "straight",
+      "local": 12,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "kind": "straight",
+      "local": 13,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "kind": "straight",
+      "local": 14,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "kind": "straight",
+      "local": 15,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "kind": "straight",
+      "local": 16,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "kind": "straight",
+      "local": 17,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "kind": "straight",
+      "local": 18,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "kind": "straight",
+      "local": 19,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "kind": "straight",
+      "local": 20,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "kind": "straight",
+      "local": 21,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "kind": "straight",
+      "local": 22,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "kind": "straight",
+      "local": 23,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "kind": "straight",
+      "local": 24,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "kind": "straight",
+      "local": 25,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "kind": "straight",
+      "local": 26,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "kind": "straight",
+      "local": 27,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "kind": "straight",
+      "local": 28,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "kind": "straight",
+      "local": 29,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "kind": "straight",
+      "local": 30,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "kind": "straight",
+      "local": 31,
+      "caption": "Fill-more set: U1, F1, F3, T1",
+      "caption_channels": [
+        "U1",
+        "F1",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 449,
+      "kind": "hook",
+      "local": 0,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 450,
+      "kind": "hook",
+      "local": 1,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 451,
+      "kind": "hook",
+      "local": 2,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 452,
+      "kind": "hook",
+      "local": 3,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 453,
+      "kind": "hook",
+      "local": 4,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 454,
+      "kind": "hook",
+      "local": 5,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 455,
+      "kind": "hook",
+      "local": 6,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 456,
+      "kind": "hook",
+      "local": 7,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 457,
+      "kind": "hook",
+      "local": 8,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 458,
+      "kind": "hook",
+      "local": 9,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        }
+      ]
+    },
+    {
+      "frame": 459,
+      "kind": "hook",
+      "local": 10,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        }
+      ]
+    },
+    {
+      "frame": 460,
+      "kind": "hook",
+      "local": 11,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        }
+      ]
+    },
+    {
+      "frame": 461,
+      "kind": "hook",
+      "local": 12,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        }
+      ]
+    },
+    {
+      "frame": 462,
+      "kind": "hook",
+      "local": 13,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        }
+      ]
+    },
+    {
+      "frame": 463,
+      "kind": "hook",
+      "local": 14,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        }
+      ]
+    },
+    {
+      "frame": 464,
+      "kind": "hook",
+      "local": 15,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        }
+      ]
+    },
+    {
+      "frame": 465,
+      "kind": "hook",
+      "local": 16,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 466,
+      "kind": "hook",
+      "local": 17,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 467,
+      "kind": "hook",
+      "local": 18,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 468,
+      "kind": "hook",
+      "local": 19,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 469,
+      "kind": "hook",
+      "local": 20,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 470,
+      "kind": "hook",
+      "local": 21,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        }
+      ]
+    },
+    {
+      "frame": 471,
+      "kind": "hook",
+      "local": 22,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        }
+      ]
+    },
+    {
+      "frame": 472,
+      "kind": "hook",
+      "local": 23,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        }
+      ]
+    },
+    {
+      "frame": 473,
+      "kind": "hook",
+      "local": 24,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        }
+      ]
+    },
+    {
+      "frame": 474,
+      "kind": "hook",
+      "local": 25,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        }
+      ]
+    },
+    {
+      "frame": 475,
+      "kind": "hook",
+      "local": 26,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        }
+      ]
+    },
+    {
+      "frame": 476,
+      "kind": "hook",
+      "local": 27,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        }
+      ]
+    },
+    {
+      "frame": 477,
+      "kind": "hook",
+      "local": 28,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        }
+      ]
+    },
+    {
+      "frame": 478,
+      "kind": "hook",
+      "local": 29,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        }
+      ]
+    },
+    {
+      "frame": 479,
+      "kind": "hook",
+      "local": 30,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        }
+      ]
+    },
+    {
+      "frame": 480,
+      "kind": "hook",
+      "local": 31,
+      "caption": "Fill-more set: U2, F1, T2",
+      "caption_channels": [
+        "U2",
+        "F1",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 513,
+      "kind": "uppercut",
+      "local": 0,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 514,
+      "kind": "uppercut",
+      "local": 1,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 515,
+      "kind": "uppercut",
+      "local": 2,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 516,
+      "kind": "uppercut",
+      "local": 3,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 517,
+      "kind": "uppercut",
+      "local": 4,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 518,
+      "kind": "uppercut",
+      "local": 5,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 519,
+      "kind": "uppercut",
+      "local": 6,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 520,
+      "kind": "uppercut",
+      "local": 7,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 521,
+      "kind": "uppercut",
+      "local": 8,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 522,
+      "kind": "uppercut",
+      "local": 9,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        }
+      ]
+    },
+    {
+      "frame": 523,
+      "kind": "uppercut",
+      "local": 10,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        }
+      ]
+    },
+    {
+      "frame": 524,
+      "kind": "uppercut",
+      "local": 11,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        }
+      ]
+    },
+    {
+      "frame": 525,
+      "kind": "uppercut",
+      "local": 12,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        }
+      ]
+    },
+    {
+      "frame": 526,
+      "kind": "uppercut",
+      "local": 13,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        }
+      ]
+    },
+    {
+      "frame": 527,
+      "kind": "uppercut",
+      "local": 14,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        }
+      ]
+    },
+    {
+      "frame": 528,
+      "kind": "uppercut",
+      "local": 15,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "F3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        }
+      ]
+    },
+    {
+      "frame": 529,
+      "kind": "uppercut",
+      "local": 16,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 530,
+      "kind": "uppercut",
+      "local": 17,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 531,
+      "kind": "uppercut",
+      "local": 18,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 532,
+      "kind": "uppercut",
+      "local": 19,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 533,
+      "kind": "uppercut",
+      "local": 20,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        }
+      ]
+    },
+    {
+      "frame": 534,
+      "kind": "uppercut",
+      "local": 21,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        }
+      ]
+    },
+    {
+      "frame": 535,
+      "kind": "uppercut",
+      "local": 22,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        }
+      ]
+    },
+    {
+      "frame": 536,
+      "kind": "uppercut",
+      "local": 23,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        }
+      ]
+    },
+    {
+      "frame": 537,
+      "kind": "uppercut",
+      "local": 24,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        }
+      ]
+    },
+    {
+      "frame": 538,
+      "kind": "uppercut",
+      "local": 25,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        }
+      ]
+    },
+    {
+      "frame": 539,
+      "kind": "uppercut",
+      "local": 26,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        }
+      ]
+    },
+    {
+      "frame": 540,
+      "kind": "uppercut",
+      "local": 27,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        }
+      ]
+    },
+    {
+      "frame": 541,
+      "kind": "uppercut",
+      "local": 28,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        }
+      ]
+    },
+    {
+      "frame": 542,
+      "kind": "uppercut",
+      "local": 29,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        }
+      ]
+    },
+    {
+      "frame": 543,
+      "kind": "uppercut",
+      "local": 30,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        }
+      ]
+    },
+    {
+      "frame": 544,
+      "kind": "uppercut",
+      "local": 31,
+      "caption": "Fill-more set: U3, F2, T2",
+      "caption_channels": [
+        "U3",
+        "F2",
+        "T2"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1153,
+      "kind": "body",
+      "local": 0,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1154,
+      "kind": "body",
+      "local": 1,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1155,
+      "kind": "body",
+      "local": 2,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1156,
+      "kind": "body",
+      "local": 3,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1157,
+      "kind": "body",
+      "local": 4,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1158,
+      "kind": "body",
+      "local": 5,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1159,
+      "kind": "body",
+      "local": 6,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1160,
+      "kind": "body",
+      "local": 7,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "guard",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "guard",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1161,
+      "kind": "body",
+      "local": 8,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    },
+    {
+      "frame": 1162,
+      "kind": "body",
+      "local": 9,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.61875
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.4625
+        }
+      ]
+    },
+    {
+      "frame": 1163,
+      "kind": "body",
+      "local": 10,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.7875000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.47500000000000003
+        }
+      ]
+    },
+    {
+      "frame": 1164,
+      "kind": "body",
+      "local": 11,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 0.95625
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.48750000000000004
+        }
+      ]
+    },
+    {
+      "frame": 1165,
+      "kind": "body",
+      "local": 12,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.125
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5
+        }
+      ]
+    },
+    {
+      "frame": 1166,
+      "kind": "body",
+      "local": 13,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.29375
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5125000000000001
+        }
+      ]
+    },
+    {
+      "frame": 1167,
+      "kind": "body",
+      "local": 14,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.4625000000000001
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.525
+        }
+      ]
+    },
+    {
+      "frame": 1168,
+      "kind": "body",
+      "local": 15,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "U2",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "U3",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F1",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        },
+        {
+          "channel": "F3",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "T1",
+          "state": "fill more",
+          "fill_more_group": true,
+          "radial_scale": 1.63125
+        },
+        {
+          "channel": "T2",
+          "state": "fill less",
+          "fill_more_group": false,
+          "radial_scale": 0.5375000000000001
+        }
+      ]
+    },
+    {
+      "frame": 1169,
+      "kind": "body",
+      "local": 16,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 1170,
+      "kind": "body",
+      "local": 17,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 1171,
+      "kind": "body",
+      "local": 18,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 1172,
+      "kind": "body",
+      "local": 19,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 1173,
+      "kind": "body",
+      "local": 20,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U2",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "U3",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F1",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        },
+        {
+          "channel": "F3",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T1",
+          "state": "hold",
+          "fill_more_group": true,
+          "radial_scale": 1.8
+        },
+        {
+          "channel": "T2",
+          "state": "hold",
+          "fill_more_group": false,
+          "radial_scale": 0.55
+        }
+      ]
+    },
+    {
+      "frame": 1174,
+      "kind": "body",
+      "local": 21,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.6772727272727272
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.540909090909091
+        }
+      ]
+    },
+    {
+      "frame": 1175,
+      "kind": "body",
+      "local": 22,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.5545454545454547
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5318181818181819
+        }
+      ]
+    },
+    {
+      "frame": 1176,
+      "kind": "body",
+      "local": 23,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.4318181818181819
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5227272727272727
+        }
+      ]
+    },
+    {
+      "frame": 1177,
+      "kind": "body",
+      "local": 24,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.309090909090909
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5136363636363637
+        }
+      ]
+    },
+    {
+      "frame": 1178,
+      "kind": "body",
+      "local": 25,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.1863636363636363
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.5045454545454545
+        }
+      ]
+    },
+    {
+      "frame": 1179,
+      "kind": "body",
+      "local": 26,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 1.0636363636363637
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4954545454545455
+        }
+      ]
+    },
+    {
+      "frame": 1180,
+      "kind": "body",
+      "local": 27,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.9409090909090909
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4863636363636364
+        }
+      ]
+    },
+    {
+      "frame": 1181,
+      "kind": "body",
+      "local": 28,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.8181818181818181
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4772727272727273
+        }
+      ]
+    },
+    {
+      "frame": 1182,
+      "kind": "body",
+      "local": 29,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.6954545454545455
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4681818181818182
+        }
+      ]
+    },
+    {
+      "frame": 1183,
+      "kind": "body",
+      "local": 30,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.5727272727272728
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.4590909090909091
+        }
+      ]
+    },
+    {
+      "frame": 1184,
+      "kind": "body",
+      "local": 31,
+      "caption": "Fill-more set: U1, U2, F3, T1",
+      "caption_channels": [
+        "U1",
+        "U2",
+        "F3",
+        "T1"
+      ],
+      "panel": [
+        {
+          "channel": "U1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U2",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "U3",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F1",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "F3",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T1",
+          "state": "vent",
+          "fill_more_group": true,
+          "radial_scale": 0.45
+        },
+        {
+          "channel": "T2",
+          "state": "vent",
+          "fill_more_group": false,
+          "radial_scale": 0.45
+        }
+      ]
+    }
+  ]
+}

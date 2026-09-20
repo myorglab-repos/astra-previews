@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "blend_sha256": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+  "views": {
+    "exposed": {
+      "chamber_frame_samples": 1024,
+      "max_radius_error_m": 0
+    },
+    "exposed_reverse": {
+      "chamber_frame_samples": 1024,
+      "max_radius_error_m": 0
+    }
+  },
+  "opposite_views_identical_geometry": true,
+  "scope": "Both render snapshots match saved evaluated cell geometry on every frame. Constant neutral cell materials in render_media.py; actual visibility is assessed from decoded media, not this numeric check."
+}

@@ -1,37 +1,38 @@
 ﻿# NEXT_PROMPT
 status: in_progress
-started_at: 2026-09-19 22:30 ET
+started_at: 2026-09-19 23:56 ET
 runner: codex-cli
-timestamp: 2026-09-19 22:30 ET
-pass_id: n3-af01b-exposed-arm-swell
+timestamp: 2026-09-19 23:55 ET
+pass_id: n3-rh02-partial-extension
 from: Ola (Robotics Desk)
-source: Michael "do all" + want swell visible in exposed arm view; AF-01b residual from B2 assessment
+source: ENGINEERING_ASSESSMENT_N3_AF01B2_2026-09-19.md (AF-01b CLOSED-A) + docs/engineering/RH02_PARTIAL_EXTENSION_STAGED.md
 
 ## Goal
-Track A **AF-01b**: make chamber **geometry swell visible in the EXPOSED LEFT ARM pane** (and whole-product where cells show), not only on the ACTUAL 3D CELLS comparison board. Inherit `n3-airflow-bladder-bend-B2` twin. Keep caption/panel/morph single-source sync (AF-02). Do not invent pressures/forces.
+Close **RH-02**: partial-extension (≈50%/70%) strokes must keep declared head-band aim **or** be explicitly declared non-head-target, without bag-proxy encroachment. Inherit Option A stand-off / pitch policy twin. No continuum lengthening. No invented forces.
 
 ### In scope
-1. Exposed-arm render: fill-more chambers must look thicker/fatter than fill-less and than guard — readable without the side board (silhouette, materials, stronger educational morph if needed, camera framing).
-2. Optional: dim or translucent non-emphasized chambers so differential is obvious.
-3. Keep B2 cell board + guard/peak stills; enlarge flow cues if they help without hiding swell.
-4. Re-run swell_audit + caption_audit + film decode; policy atlas regression (tall hook/UC glove-in-box) unchanged.
-5. Packet `reviews/2026-09-19/n3-af01b-exposed-arm-swell/` (or dated); update AIRFLOW_PEDAGOGY; `## READY_FOR_OLA`.
-6. After this pass settles, Ola will issue RH-02 partial-extension policy brief (already staged in docs/engineering/RH02_PARTIAL_EXTENSION_STAGED.md).
+1. Document partial-extension aim policy (coupled root pitch + continuum shape weights, OR declare partials as non-head-band for named cases).
+2. Apply in Blender for short/mid/tall × 50%/70% (and existing max cases regression).
+3. Re-audit spatial policy: declared head boxes must not clip / overlap bag proxy; report shortfall mm honestly.
+4. Film or atlas stills showing partials under the new policy; clearance regression on G-03/G-05 proxies unchanged-or-better.
+5. Packet `reviews/2026-09-19/n3-rh02-partial-extension/`; READY_FOR_OLA with plain-language glossary.
+
+### Constraints
+- Architecture freeze (soft 8-chamber continuum; no distal metal; Option A — no arm lengthening).
+- Track A does not prove strike impulse.
+- No invented pressure / force / life numbers.
+- Preserve prior accepted atlas peaks unless intentionally superseded and called out.
 
 ### Accept criteria
-- [ ] Blind test: from EXPOSED pane alone, identify thicker cells for straight/hook/uppercut/body
-- [ ] Captions still match panel (AF-02 retained)
-- [ ] Fill/vent/return distinct; elastic return visible
-- [ ] swell_audit + caption_audit PASS; atlas policy peaks not regressed
-- [ ] READY_FOR_OLA; glossary; Track A ≠ impulse
+- [ ] Written RH-02 policy in packet (plain + engineering terms)
+- [ ] Partial cases re-audited; head-band inclusion or explicit non-head declaration
+- [ ] No bag-proxy encroachment for declared head boxes
+- [ ] Film/atlas evidence + audits; READY_FOR_OLA
+- [ ] Glossary in READY_FOR_OLA
 
 ### Out of scope
-System ID lab, continuum lengthening, closing C-01/B-06 hardware fab
+AF-01 remakes; System ID / C-01 coupons; B-06 hardware fab; RH-03 routing materials deep dive
 
 ## Plain-language
-Same air lesson as B2, but the big cutaway arm view must show the soft cells getting fatter — not just the little comparison thumbnails.
-
-## Parallel docs (already on disk — do not block this film pass)
-- docs/engineering/TRACK_B_SYSTEM_ID_PLAN.md
-- docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.md
+When the arms only punch part-way out, the glove should still aim where we say it aims (or we must admit that partial punch is not a head shot). Do not make the soft arms longer.
 

@@ -1,0 +1,33 @@
+{
+  "status": "PASS_WITH_LIMITATIONS",
+  "blend_sha256": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+  "reviewer": "Codex assistant image inspection",
+  "timestamp": "2026-09-19T23:01:49.680780-04:00",
+  "inspected": [
+    "media/qa_straight.png",
+    "media/qa_hook.png",
+    "media/qa_uppercut.png",
+    "media/qa_body.png",
+    "media/guard_peak_straight.png",
+    "media/guard_peak_hook.png",
+    "media/guard_peak_uppercut.png",
+    "media/guard_peak_body.png",
+    "media/decoded_blind_straight.png",
+    "media/decoded_blind_hook.png",
+    "media/decoded_blind_uppercut.png",
+    "media/decoded_blind_body.png"
+  ],
+  "observations": [
+    "Inspected all 24 decoded main-film phase samples, four dual-angle guard/peak sheets and all four decoded blind-film hold frames.",
+    "Exposed cell surfaces stay neutral while their silhouettes enlarge during fill, hold thickened shape and shrink through vent/return.",
+    "Opposite-side view reveals forearm and upper cells partially hidden in side A; wrist loops are visible with hidden cutaway cuffs.",
+    "Body retains downward prescribed root pitch; no panel or headline clipping found at delivery size.",
+    "The branch arrows and gold return textile distinguish fill/vent/return. Small whole-product context pane is dark; exposed views are the primary evidence."
+  ],
+  "limitations": [
+    "Not independent human blind-viewer acceptance; AF-01b remains OPEN for Ola.",
+    "Assembled-cell occlusion and crossing leader lines require both views and full-resolution inspection.",
+    "Full media decoding and selected-frame inspection do not claim uninterrupted manual playback.",
+    "No physical propulsion, pressure-volume, packaging or durability qualification."
+  ]
+}

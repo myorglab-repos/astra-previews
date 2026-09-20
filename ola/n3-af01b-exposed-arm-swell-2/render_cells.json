@@ -1,0 +1,6150 @@
+{
+  "blend_sha256": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+  "records": [
+    {
+      "kind": "straight",
+      "local": 0,
+      "frame": 1,
+      "path": "media/cells_frames/0000.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 1,
+      "frame": 2,
+      "path": "media/cells_frames/0001.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 2,
+      "frame": 3,
+      "path": "media/cells_frames/0002.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 3,
+      "frame": 4,
+      "path": "media/cells_frames/0003.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 4,
+      "frame": 5,
+      "path": "media/cells_frames/0004.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 5,
+      "frame": 6,
+      "path": "media/cells_frames/0005.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 6,
+      "frame": 7,
+      "path": "media/cells_frames/0006.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 7,
+      "frame": 8,
+      "path": "media/cells_frames/0007.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 8,
+      "frame": 9,
+      "path": "media/cells_frames/0008.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 9,
+      "frame": 10,
+      "path": "media/cells_frames/0009.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 10,
+      "frame": 11,
+      "path": "media/cells_frames/0010.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 11,
+      "frame": 12,
+      "path": "media/cells_frames/0011.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 12,
+      "frame": 13,
+      "path": "media/cells_frames/0012.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 13,
+      "frame": 14,
+      "path": "media/cells_frames/0013.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 14,
+      "frame": 15,
+      "path": "media/cells_frames/0014.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 15,
+      "frame": 16,
+      "path": "media/cells_frames/0015.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 16,
+      "frame": 17,
+      "path": "media/cells_frames/0016.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 17,
+      "frame": 18,
+      "path": "media/cells_frames/0017.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 18,
+      "frame": 19,
+      "path": "media/cells_frames/0018.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 19,
+      "frame": 20,
+      "path": "media/cells_frames/0019.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 20,
+      "frame": 21,
+      "path": "media/cells_frames/0020.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 21,
+      "frame": 22,
+      "path": "media/cells_frames/0021.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 22,
+      "frame": 23,
+      "path": "media/cells_frames/0022.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 23,
+      "frame": 24,
+      "path": "media/cells_frames/0023.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 24,
+      "frame": 25,
+      "path": "media/cells_frames/0024.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 25,
+      "frame": 26,
+      "path": "media/cells_frames/0025.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 26,
+      "frame": 27,
+      "path": "media/cells_frames/0026.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 27,
+      "frame": 28,
+      "path": "media/cells_frames/0027.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 28,
+      "frame": 29,
+      "path": "media/cells_frames/0028.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 29,
+      "frame": 30,
+      "path": "media/cells_frames/0029.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 30,
+      "frame": 31,
+      "path": "media/cells_frames/0030.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "straight",
+      "local": 31,
+      "frame": 32,
+      "path": "media/cells_frames/0031.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.35588197384439
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.010438511123846
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 0,
+      "frame": 449,
+      "path": "media/cells_frames/0032.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 1,
+      "frame": 450,
+      "path": "media/cells_frames/0033.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 2,
+      "frame": 451,
+      "path": "media/cells_frames/0034.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 3,
+      "frame": 452,
+      "path": "media/cells_frames/0035.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 4,
+      "frame": 453,
+      "path": "media/cells_frames/0036.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 5,
+      "frame": 454,
+      "path": "media/cells_frames/0037.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 6,
+      "frame": 455,
+      "path": "media/cells_frames/0038.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 7,
+      "frame": 456,
+      "path": "media/cells_frames/0039.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 8,
+      "frame": 457,
+      "path": "media/cells_frames/0040.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 9,
+      "frame": 458,
+      "path": "media/cells_frames/0041.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 10,
+      "frame": 459,
+      "path": "media/cells_frames/0042.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 11,
+      "frame": 460,
+      "path": "media/cells_frames/0043.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 12,
+      "frame": 461,
+      "path": "media/cells_frames/0044.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 13,
+      "frame": 462,
+      "path": "media/cells_frames/0045.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 14,
+      "frame": 463,
+      "path": "media/cells_frames/0046.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 15,
+      "frame": 464,
+      "path": "media/cells_frames/0047.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 16,
+      "frame": 465,
+      "path": "media/cells_frames/0048.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 17,
+      "frame": 466,
+      "path": "media/cells_frames/0049.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 18,
+      "frame": 467,
+      "path": "media/cells_frames/0050.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 19,
+      "frame": 468,
+      "path": "media/cells_frames/0051.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 20,
+      "frame": 469,
+      "path": "media/cells_frames/0052.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 21,
+      "frame": 470,
+      "path": "media/cells_frames/0053.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 22,
+      "frame": 471,
+      "path": "media/cells_frames/0054.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 23,
+      "frame": 472,
+      "path": "media/cells_frames/0055.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 24,
+      "frame": 473,
+      "path": "media/cells_frames/0056.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 25,
+      "frame": 474,
+      "path": "media/cells_frames/0057.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 26,
+      "frame": 475,
+      "path": "media/cells_frames/0058.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 27,
+      "frame": 476,
+      "path": "media/cells_frames/0059.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 28,
+      "frame": 477,
+      "path": "media/cells_frames/0060.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 29,
+      "frame": 478,
+      "path": "media/cells_frames/0061.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 30,
+      "frame": 479,
+      "path": "media/cells_frames/0062.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "hook",
+      "local": 31,
+      "frame": 480,
+      "path": "media/cells_frames/0063.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 6.781284288073398
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.04344438611093
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 6.490822596314196
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 5.104638555826027
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907031966956
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.759907899795889
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.782769063573427
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.4487592886011376
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 0,
+      "frame": 513,
+      "path": "media/cells_frames/0064.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 1,
+      "frame": 514,
+      "path": "media/cells_frames/0065.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 2,
+      "frame": 515,
+      "path": "media/cells_frames/0066.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 3,
+      "frame": 516,
+      "path": "media/cells_frames/0067.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 4,
+      "frame": 517,
+      "path": "media/cells_frames/0068.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 5,
+      "frame": 518,
+      "path": "media/cells_frames/0069.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 6,
+      "frame": 519,
+      "path": "media/cells_frames/0070.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 7,
+      "frame": 520,
+      "path": "media/cells_frames/0071.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 8,
+      "frame": 521,
+      "path": "media/cells_frames/0072.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 9,
+      "frame": 522,
+      "path": "media/cells_frames/0073.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 10,
+      "frame": 523,
+      "path": "media/cells_frames/0074.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 11,
+      "frame": 524,
+      "path": "media/cells_frames/0075.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 12,
+      "frame": 525,
+      "path": "media/cells_frames/0076.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 13,
+      "frame": 526,
+      "path": "media/cells_frames/0077.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 14,
+      "frame": 527,
+      "path": "media/cells_frames/0078.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 15,
+      "frame": 528,
+      "path": "media/cells_frames/0079.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "fill more",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "fill more",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "fill more",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 16,
+      "frame": 529,
+      "path": "media/cells_frames/0080.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 17,
+      "frame": 530,
+      "path": "media/cells_frames/0081.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 18,
+      "frame": 531,
+      "path": "media/cells_frames/0082.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 19,
+      "frame": 532,
+      "path": "media/cells_frames/0083.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 20,
+      "frame": 533,
+      "path": "media/cells_frames/0084.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 21,
+      "frame": 534,
+      "path": "media/cells_frames/0085.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 22,
+      "frame": 535,
+      "path": "media/cells_frames/0086.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 23,
+      "frame": 536,
+      "path": "media/cells_frames/0087.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 24,
+      "frame": 537,
+      "path": "media/cells_frames/0088.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 25,
+      "frame": 538,
+      "path": "media/cells_frames/0089.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 26,
+      "frame": 539,
+      "path": "media/cells_frames/0090.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 27,
+      "frame": 540,
+      "path": "media/cells_frames/0091.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 28,
+      "frame": 541,
+      "path": "media/cells_frames/0092.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 29,
+      "frame": 542,
+      "path": "media/cells_frames/0093.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 30,
+      "frame": 543,
+      "path": "media/cells_frames/0094.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "uppercut",
+      "local": 31,
+      "frame": 544,
+      "path": "media/cells_frames/0095.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 7.47883906839514
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 7.195115071193587
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 4.097772925562284
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.7622411735861565
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 4.0144147200239395
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 7.4554742699492005
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 7.440980783309588
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.432408822461485
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 0,
+      "frame": 1153,
+      "path": "media/cells_frames/0096.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 1,
+      "frame": 1154,
+      "path": "media/cells_frames/0097.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 2,
+      "frame": 1155,
+      "path": "media/cells_frames/0098.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 3,
+      "frame": 1156,
+      "path": "media/cells_frames/0099.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 4,
+      "frame": 1157,
+      "path": "media/cells_frames/0100.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 5,
+      "frame": 1158,
+      "path": "media/cells_frames/0101.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 6,
+      "frame": 1159,
+      "path": "media/cells_frames/0102.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 7,
+      "frame": 1160,
+      "path": "media/cells_frames/0103.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "guard",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "guard",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "guard",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "guard",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "guard",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "guard",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "guard",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "guard",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 8,
+      "frame": 1161,
+      "path": "media/cells_frames/0104.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 9,
+      "frame": 1162,
+      "path": "media/cells_frames/0105.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 10,
+      "frame": 1163,
+      "path": "media/cells_frames/0106.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 11,
+      "frame": 1164,
+      "path": "media/cells_frames/0107.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 12,
+      "frame": 1165,
+      "path": "media/cells_frames/0108.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 13,
+      "frame": 1166,
+      "path": "media/cells_frames/0109.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 14,
+      "frame": 1167,
+      "path": "media/cells_frames/0110.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 15,
+      "frame": 1168,
+      "path": "media/cells_frames/0111.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "fill more",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "fill more",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "fill less",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "fill less",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "fill less",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "fill more",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "fill more",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "fill less",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 16,
+      "frame": 1169,
+      "path": "media/cells_frames/0112.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 17,
+      "frame": 1170,
+      "path": "media/cells_frames/0113.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 18,
+      "frame": 1171,
+      "path": "media/cells_frames/0114.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 19,
+      "frame": 1172,
+      "path": "media/cells_frames/0115.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 20,
+      "frame": 1173,
+      "path": "media/cells_frames/0116.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "hold",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "hold",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "hold",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "hold",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "hold",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "hold",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "hold",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "hold",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 21,
+      "frame": 1174,
+      "path": "media/cells_frames/0117.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 22,
+      "frame": 1175,
+      "path": "media/cells_frames/0118.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 23,
+      "frame": 1176,
+      "path": "media/cells_frames/0119.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 24,
+      "frame": 1177,
+      "path": "media/cells_frames/0120.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 25,
+      "frame": 1178,
+      "path": "media/cells_frames/0121.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 26,
+      "frame": 1179,
+      "path": "media/cells_frames/0122.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 27,
+      "frame": 1180,
+      "path": "media/cells_frames/0123.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 28,
+      "frame": 1181,
+      "path": "media/cells_frames/0124.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 29,
+      "frame": 1182,
+      "path": "media/cells_frames/0125.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 30,
+      "frame": 1183,
+      "path": "media/cells_frames/0126.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    },
+    {
+      "kind": "body",
+      "local": 31,
+      "frame": 1184,
+      "path": "media/cells_frames/0127.png",
+      "labels": [
+        {
+          "chamber": "U1",
+          "state": "vent",
+          "uniform_pair_scale": 5.065910426562374
+        },
+        {
+          "chamber": "U2",
+          "state": "vent",
+          "uniform_pair_scale": 5.059962656237425
+        },
+        {
+          "chamber": "U3",
+          "state": "vent",
+          "uniform_pair_scale": 7.355881974161957
+        },
+        {
+          "chamber": "F1",
+          "state": "vent",
+          "uniform_pair_scale": 7.764886851064543
+        },
+        {
+          "chamber": "F2",
+          "state": "vent",
+          "uniform_pair_scale": 7.748062325035303
+        },
+        {
+          "chamber": "F3",
+          "state": "vent",
+          "uniform_pair_scale": 5.009526229734991
+        },
+        {
+          "chamber": "T1",
+          "state": "vent",
+          "uniform_pair_scale": 10.967760616421538
+        },
+        {
+          "chamber": "T2",
+          "state": "vent",
+          "uniform_pair_scale": 3.7179654712801047
+        }
+      ]
+    }
+  ],
+  "scope": "Actual evaluated cell meshes, rigidly reoriented with fixed uniform magnification per guard/current pair. Cell pairs have independent scales; no physical dimensions implied."
+}

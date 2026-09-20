@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "blend_sha256": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+  "films": [
+    {
+      "path": "media/airflow_review.mp4",
+      "decoded_frames": 128,
+      "fps": 4,
+      "duration_s": 32,
+      "size": [
+        2400,
+        1400
+      ],
+      "sha256": "dd7975d77d8b1273019f3aaa8582c6b36d08143d1884e3bdab1eea0c743871d8",
+      "decode_errors": ""
+    },
+    {
+      "path": "media/exposed_blind_review.mp4",
+      "decoded_frames": 128,
+      "fps": 4,
+      "duration_s": 32,
+      "size": [
+        1640,
+        900
+      ],
+      "sha256": "b4daee16655fb888e5d18ba12b1b2c2e0ebbf6afcbba4c3f5ff6c1244e374f80",
+      "decode_errors": ""
+    }
+  ],
+  "scope": "Full decode of main and exposed-only films. Visual review recorded separately."
+}

@@ -1,0 +1,126 @@
+{
+  "samples": [
+    {
+      "frame": 0,
+      "local": 0,
+      "kind": "straight"
+    },
+    {
+      "frame": 12,
+      "local": 12,
+      "kind": "straight"
+    },
+    {
+      "frame": 16,
+      "local": 16,
+      "kind": "straight"
+    },
+    {
+      "frame": 23,
+      "local": 23,
+      "kind": "straight"
+    },
+    {
+      "frame": 28,
+      "local": 28,
+      "kind": "straight"
+    },
+    {
+      "frame": 31,
+      "local": 31,
+      "kind": "straight"
+    },
+    {
+      "frame": 32,
+      "local": 0,
+      "kind": "hook"
+    },
+    {
+      "frame": 44,
+      "local": 12,
+      "kind": "hook"
+    },
+    {
+      "frame": 48,
+      "local": 16,
+      "kind": "hook"
+    },
+    {
+      "frame": 55,
+      "local": 23,
+      "kind": "hook"
+    },
+    {
+      "frame": 60,
+      "local": 28,
+      "kind": "hook"
+    },
+    {
+      "frame": 63,
+      "local": 31,
+      "kind": "hook"
+    },
+    {
+      "frame": 64,
+      "local": 0,
+      "kind": "uppercut"
+    },
+    {
+      "frame": 76,
+      "local": 12,
+      "kind": "uppercut"
+    },
+    {
+      "frame": 80,
+      "local": 16,
+      "kind": "uppercut"
+    },
+    {
+      "frame": 87,
+      "local": 23,
+      "kind": "uppercut"
+    },
+    {
+      "frame": 92,
+      "local": 28,
+      "kind": "uppercut"
+    },
+    {
+      "frame": 95,
+      "local": 31,
+      "kind": "uppercut"
+    },
+    {
+      "frame": 96,
+      "local": 0,
+      "kind": "body"
+    },
+    {
+      "frame": 108,
+      "local": 12,
+      "kind": "body"
+    },
+    {
+      "frame": 112,
+      "local": 16,
+      "kind": "body"
+    },
+    {
+      "frame": 119,
+      "local": 23,
+      "kind": "body"
+    },
+    {
+      "frame": 124,
+      "local": 28,
+      "kind": "body"
+    },
+    {
+      "frame": 127,
+      "local": 31,
+      "kind": "body"
+    }
+  ],
+  "source": "media/airflow_review.mp4",
+  "purpose": "Decoded phase samples, not a claim of uninterrupted manual playback."
+}

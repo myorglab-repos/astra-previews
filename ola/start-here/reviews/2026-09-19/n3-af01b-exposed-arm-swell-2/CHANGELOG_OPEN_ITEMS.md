@@ -1,0 +1,11 @@
+# H. Changes and open items
+
+The prior AF-01b film failed Ola's exposed-pane test. This successor rebuilds the educational chamber shape keys with two distinct radial endpoints: 1.8 for fill-more and 0.55 for fill-less, from a 0.45 guard scale. These are dimensionless drawing choices, not material strain or pressure values. Centers and non-chamber geometry retain the inherited prescribed motion. The original atlas is unchanged.
+
+Two simultaneous opposite-side cameras show the assembled exposed left arm. Each camera and magnification stays fixed for its entire chapter, with bounds computed across all 32 poses. Covers, root hardware and wrist cuffs are hidden; cells are neither moved apart nor straightened. Cell materials remain the same neutral gray throughout guard, fill, hold, vent and return. Geometric silhouettes therefore carry the swelling lesson. Cyan/orange feed dots and branch arrows show fill/vent, and gold textile marks passive return. No cell-color emphasis is used in the exposed panes.
+
+Added a board-free exposed clip, dual-angle guard/peak sheets and per-frame render-to-saved-geometry audit. Regenerated the supplemental board, main film, captions and all regression reports. Prior source, N1 and sibling packets are preserved. No notification service or watcher is created; READY_FOR_OLA is a local handoff record.
+
+AF-01b remains OPEN pending Ola's independent exposed-only viewer disposition. The two angles reduce occlusion but do not establish visibility of every surface. Swollen educational surfaces have no packaging, self-contact or textile-strain qualification. RH-02 partial reach/spacing is staged and not addressed; RH-03 routing/materials, B-03 retention, Critical B-06 root structure and Critical C-01 measured propulsion/contact remain OPEN.
+
+**Track A does not prove strike impulse.** Swelling, bend and timing are prescribed illustrations, not a pneumatic solution or measured pressure, flow, strain, propulsion, contact force, durability or real CV.

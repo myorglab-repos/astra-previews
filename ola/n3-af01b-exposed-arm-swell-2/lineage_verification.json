@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "blend_sha256": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+  "source_sha256": "fe9a3134fff559ba6091b4a72af793ccc2cc0259f50929fa3bb1051f7c98ed57",
+  "mesh_count": 245,
+  "all_mesh_topology_coordinates_shape_keys_and_schedules_identical": true,
+  "airflow_cases_all_32_frames_identical": {
+    "short_max_L_straight": "a243d5aef67986faa82a15de1ef0a8e255d248837211cd36ce9039ddaf3c9185",
+    "mid_max_L_hook": "e80a85c096ec9261e4447631b0a046a3db3a12091cae0d520efaf4de61d6e842",
+    "mid_max_L_uppercut": "dbed8cc42aa3434c17f36d1873da3edbc71e1afe2e218b466825cf5ffea4014e",
+    "body_L": "17abe9c21917a052481a2f4289866b2353d8dd1de6cdafd856ab931df9fd4d9a"
+  },
+  "scope": "Compared inherited meshes, all shape data/key schedules and 128 airflow geometry/material frames. Target annotation changes are intentional. No additional routing bow or continuum lengthening."
+}

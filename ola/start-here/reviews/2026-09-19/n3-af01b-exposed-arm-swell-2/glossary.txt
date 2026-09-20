@@ -1,0 +1,17 @@
+## Plain-language glossary
+
+| Term | Everyday meaning | Why it matters here |
+|---|---|---|
+| AF-01 / AF-01b | Swelling readability on the small cell board / on the exposed arm itself. | Board acceptance does not close the arm-view defect. |
+| AF-02 / AF-03 | Caption agreement / flow-symbol readability. | One profile drives the labels; arrows explain fill and vent separately from thickness. |
+| A-03 / U-F-T | Showing the chamber groups / upper, forearm and soft torsion wrist cells. | More-filled cells have visibly larger programmed radial shapes. |
+| Radial morph / centerline | Changing a tube's thickness / its curved middle path. | Thickness changes while inherited prescribed bend is preserved. |
+| Occlusion / opposite views | One object hiding another / cameras on two sides. | The second exposed view reveals cells hidden from the first. |
+| System ID / P-V | Measuring actual hardware response / pressure-volume behavior. | Neither is established by drawing larger cells. |
+| Isolated branch / elastic return | A separate feed for each cell / textile recoil while venting. | No serial cell plumbing or active suction is implied. |
+| A-05 / G-03 / G-05 | Wrist alignment / arm-bag gap / cover-carrier gap. | The original atlas regression passes; this does not qualify swollen surfaces. |
+| RH-02 / RH-03 | Partial reach and spacing / routing and material limits. | These remain outside this remake. |
+| B-03 / B-06 | Textile retention / protected root load path. | Real construction and structural qualification remain open. |
+| C-01 | Missing pressure-to-motion-to-impact measurements. | Remains Critical; Track A films cannot close it. |
+
+What changed / what is still not proven: neutral-colored exposed tubes geometrically swell and relax in two views; real pneumatic bend, punch power, structural durability and independent viewer acceptance remain unproven.
