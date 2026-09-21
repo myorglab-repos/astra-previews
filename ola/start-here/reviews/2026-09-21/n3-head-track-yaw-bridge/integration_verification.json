@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "transport": "actual loopback UDP/JSON",
+  "detector": "OpenCV Haar",
+  "packets_applied": 144,
+  "EOF_idle": true,
+  "sender_command": [
+    "C:\\Users\\mfawe\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\capture_head.py",
+    "--clip",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\media\\input_synthetic.avi",
+    "--timeline",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\presence_timeline.json",
+    "--config",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\demo_config.json",
+    "--head-spotcheck-approved",
+    "--send",
+    "--wait-ack",
+    "--log",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\episode.jsonl"
+  ],
+  "performance_claim": "NONE; per-frame acknowledgements pace offline integration, not a real-time benchmark"
+}

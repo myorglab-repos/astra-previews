@@ -1,0 +1,37 @@
+[
+  {
+    "path": "docs/engineering/ELIAS_HEAD_TRACK_YAW_BLENDER_PATH.md",
+    "snapshot": "sources/ELIAS_HEAD_TRACK_YAW_BLENDER_PATH.md",
+    "sha256": "4dd189ab89a9e96c2832c21b6fa6e09edc178fb5dbe8ec53e2b86ecef23fdab2"
+  },
+  {
+    "path": "docs/engineering/LIVE_CAMERA_VIRTUAL_TWIN_ICD.md",
+    "snapshot": "sources/LIVE_CAMERA_VIRTUAL_TWIN_ICD.md",
+    "sha256": "f781c993d70795bcb8527e54333122eebb2e13ab7eb0a03a95ae0722ddfbd2da"
+  },
+  {
+    "path": "docs/engineering/CONTROLS_INHIBIT_ESTOP_LIMP_ICD.md",
+    "snapshot": "sources/CONTROLS_INHIBIT_ESTOP_LIMP_ICD.md",
+    "sha256": "3db44e7600675ef6fd6b99fa51ab6f15b5365cffddb98ab1263e3e2b8f9ceaeb"
+  },
+  {
+    "path": "docs/engineering/ELIAS_TWIN_ADAPTER_SIGNAL_TABLE.md",
+    "snapshot": "sources/ELIAS_TWIN_ADAPTER_SIGNAL_TABLE.md",
+    "sha256": "f51dc33fcd4dd988a2d9b4feec33f0eae68980429fd168d941338888d3ebe0a7"
+  },
+  {
+    "path": "docs/engineering/ELIAS_DIGITAL_HIL_SESSION_ENABLE_STUB.md",
+    "snapshot": "sources/ELIAS_DIGITAL_HIL_SESSION_ENABLE_STUB.md",
+    "sha256": "c9144003b2f5522b4158f4dc1efaa1c8beaf446983396422aec0d5cb70cca1b5"
+  },
+  {
+    "path": "docs/engineering/ELIAS_CV_SYNTHETIC_DATASET_PLAN.md",
+    "snapshot": "sources/ELIAS_CV_SYNTHETIC_DATASET_PLAN.md",
+    "sha256": "f6a8cdbc2fe3baeb5b6022cf4a3319018a9f6936cbce1962407a3b084aef11d4"
+  },
+  {
+    "path": "ENGINEERING_ASSESSMENT_N3_B06_PITCH_HEIGHT_2026-09-21.md",
+    "snapshot": "sources/ENGINEERING_ASSESSMENT_N3_B06_PITCH_HEIGHT_2026-09-21.md",
+    "sha256": "878f244244ed42bd7f9ab060f5a0e87057c5946072c03eeabab0ccac020b4726"
+  }
+]

@@ -1,0 +1,37 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>README</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>Run the head → carrier yaw bridge</h1>
+<p>This folder is self-contained for live receiver/clip use with its saved successor. Run commands below from this folder. <strong>Digital twin only.</strong> Python must provide <code>opencv-python</code>; Blender uses the standard-library core and its own <code>bpy</code>. Tested environment is recorded in TOOLCHAIN_REPRO, not a promised future compatibility range.</p>
+<h2>Watch or inspect</h2>
+<p>Open <a href="INDEX.html">review index</a> or <a href="media/head_yaw_review.mp4">film</a>. Open <code>Punching_Bag_N3_Head_Track_Yaw.blend</code> in Blender 3.6.5 and select <code>N3_HEAD_TRACK_YAW_BRIDGE</code>. The saved animation replays received yaw; it does not run a detector on opening. Automatic Python execution is unnecessary.</p>
+<h2>Start the interactive receiver</h2>
+<p>In Blender's Python console, set <code>bridge_dir</code> to this folder's absolute path:</p>
+<pre><code class="language-python">import sys
+from pathlib import Path
+bridge_dir = Path(r&quot;C:\Users\mfawe\OneDrive\Documents\GitHub\robotic-punching-bag\reviews\2026-09-21\n3-head-track-yaw-bridge&quot;)
+sys.path.insert(0, str(bridge_dir))
+import blender_receiver as bridge
+bridge.start(bridge_dir / &quot;demo_config.json&quot;)
+</code></pre>
+<p>This explicitly selects <strong>ASSUMPTION demo values</strong>. <code>bridge.start()</code> without a path uses <code>config_template.json</code>, whose null mapping/watchdog values deny chase. Startup clears only the isolated carrier's baked yaw animation in memory so live values can own it. Reopen the saved file to restore replay. Keep timeline playback stopped during live use. No file is saved by the receiver.</p>
+<h2>Send the supplied clip</h2>
+<p>From PowerShell in this folder:</p>
+<pre><code class="language-powershell">python capture_head.py --clip media/input_synthetic.avi --timeline presence_timeline.json --config demo_config.json --head-spotcheck-approved --send --preview
+</code></pre>
+<p>Timeline presence, sync and fault signals are simulated. The last two chapters latch inhibit/E-stop. Normal EOF sends absent/invalid home; crashes/lost packets fall back to the receiver watchdog. These are digital behaviors only.</p>
+<h2>USB camera option (implemented; not exercised in this pass)</h2>
+<pre><code class="language-powershell">python capture_head.py --camera 0 --sim-present --head-spotcheck-approved --config demo_config.json --send --preview
+</code></pre>
+<p><code>--sim-present</code> explicitly simulates the presence sensor. Without it or a timeline, presence defaults absent. Only use <code>--head-spotcheck-approved</code> after qualitatively checking the actual scene. This simple fallback invalidates zero or multiple detections, but is not robust identity tracking. No camera media is recorded. Optional <code>--log episode.jsonl</code> writes local detections/gates, not video. Press q in preview or Ctrl+C in the sender to exit.</p>
+<h2>Reset, arm, rebind and stop</h2>
+<p>The <strong>local operator</strong>, not the sender/AI, controls reset. After clearing the simulated source fault and receiving a fresh packet with both stop inputs false:</p>
+<pre><code class="language-python">bridge.STATE.manual_reset()  # stays home; does not start chase
+bridge.STATE.arm()           # stays home until the next fresh packet
+</code></pre>
+<p><code>bridge.STATE.rebind()</code> allows a new sender stream but preserves the latch. Rebinding is needed when restarting the sender; old stream/sequence packets are rejected. <code>bridge.stop()</code> closes the socket and homes the twin. <code>bridge.start(...)</code> preserves an existing latch. Local <code>receiver_latch_state.tmp</code> persists the digital latch and arm state across receiver reconstruction/restart; malformed state is treated as latched. It is excluded from Git and is <strong>not safety-rated storage</strong>. Deleting it is not the reset procedure. Restarting the computer, receiver or sender does not provide physical E-stop guarantees.</p>
+<p>Only loopback traffic is supported. There is no valve, motor, serial, fieldbus, network-device or physical actuator output. Port 18766 is an ASSUMPTION local demo port; stop another receiver before running offline integration. Do not run interactive receive and <code>build_bridge.py</code> simultaneously.</p>
+<h2>Signal behavior</h2>
+<p><code>session_enable = user_present AND head_hypothesis_valid AND NOT inhibit_latched</code>.
+<code>yaw_cmd_enable</code> additionally requires NOT <code>e_stop_asserted</code>.
+<code>effective_enable</code> additionally requires configured mapping, good sync, fresh ordered input, receiver latch clear and manual arm. Presence-sensor fault forces absent. The receiver recomputes the map and gates; sender-provided yaw/enable fields are not trusted. All rejected/expired inputs select home-zero. A stop/inhibit stays latched until the local manual reset sequence.</p>
+<p>The one-face rule and default Haar parameters are assumptions, not a detector validity standard. No temporal head tracker, identity association, camera calibration, proximity measurement or real-gym validation is included.</p>
+<p>See <a href="TOOLCHAIN_REPRO.html">reproduce</a> for the tested build commands and <a href="EXECUTIVE_REVIEW.html">assumptions</a>.</p>
+</main></body></html>

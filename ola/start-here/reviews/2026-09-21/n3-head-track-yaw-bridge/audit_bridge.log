@@ -1,0 +1,14 @@
+TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+WARNING: Keyconfig not availabe, skipping MACHIN3tools keymaps
+Registered MACHIN3tools 1.5.0 with 4 tools, 6 pie menus
+DIGITAL ONLY receiver ('127.0.0.1', 18766) latch False
+DIGITAL ONLY receiver ('127.0.0.1', 18766) latch True
+DIGITAL ONLY receiver ('127.0.0.1', 18766) latch True
+MODEL_AND_LIVE_RECEIVER_PASS {'status': 'PASS', 'frames': 144, 'fixed_bag_fill_mast_max_matrix_deviation': 0.0, 'fixed_camera_max_matrix_deviation': 0.0, 'yaw_replay_max_error_deg': 7.765904221912479e-07, 'arm_local_geometry_max_deviation_m': 3.498628001197268e-08, 'A05_max_mm': 8.065247893716368e-05, 'G03_sampled_proxy_min_mm': 48.069148935024785, 'G05_axial_min_mm': 4.999995231628418, 'chambers': 16, 'scope': 'Digital geometric samples only; no loaded clearance, mechanics, sensing performance or impulse qualification.', 'interactive_receiver_udp_latch_restart_reset_watchdog': 'PASS', 'inherited_scenes_unchanged': 5, 'baselines_preserved': 11, 'inherited_scene_signatures': {'AF01B2_EXPOSED_ILLUSTRATIVE_SWELL': '0ee44e091b05643e955223b63f288bf34990b7903566958d542de770264bc274', 'AF01B_EXPOSED_ILLUSTRATIVE_SWELL': '0facd4933bbfc3f6de45df56291693f5d18112de39d6487067ae7b3f88b79321', 'AMENDMENT_B_ILLUSTRATIVE_SWELL': 'a644d2d47113d209fe7c396760be2a4ecf6b046bc80808216485e096649cd5ce', 'N3_PITCH_HEIGHT_PEDAGOGY': 'bae543537cf0ff595c7cc22d613b03b9359018ee4cc36968025909e58dbbb83b', 'N3_REACH_HEIGHT_BODY_ATLAS': '5005587e1af2a0fd884c70e1ff4cd73fc5036a9ffe39d4ecf7ec498dc2b14240'}}
+Unregistered MACHIN3tools 1.5.0.
+Blender 3.6.5 (hash cf1e1ed46b7e built 2023-10-19 01:09:47)
+Read prefs: "C:\Users\mfawe\AppData\Roaming\Blender Foundation\Blender\3.6\config\userpref.blend"
+Read blend: "C:\Users\mfawe\OneDrive\Documents\GitHub\robotic-punching-bag\reviews\2026-09-21\n3-head-track-yaw-bridge\Punching_Bag_N3_Head_Track_Yaw.blend"
+Read blend: "C:\Users\mfawe\OneDrive\Documents\GitHub\robotic-punching-bag\reviews\2026-09-21\n3-b06-pitch-height-pedagogy\Punching_Bag_N3_Pitch_Height_Pedagogy.blend"
+
+Blender quit

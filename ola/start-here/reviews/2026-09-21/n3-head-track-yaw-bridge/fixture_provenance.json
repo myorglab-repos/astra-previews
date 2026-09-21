@@ -1,0 +1,10 @@
+{
+  "source_url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/astronaut.png",
+  "source_documentation": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.astronaut",
+  "credit": "NASA / Eileen Collins; public-domain sample distributed by scikit-image",
+  "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+  "transformation": "Crop, resize and translate still on blank field; no actual human movement. Haar detector runs on decoded video, not prescribed boxes.",
+  "frames": 144,
+  "encoded_fps": 12,
+  "scope": "Synthetic digital integration test, NOT sensing accuracy/FPS/latency evidence. Presence/fault/sync are injected."
+}

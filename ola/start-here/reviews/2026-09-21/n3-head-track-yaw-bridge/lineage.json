@@ -1,0 +1,20 @@
+{
+  "source": "reviews/2026-09-21/n3-b06-pitch-height-pedagogy/Punching_Bag_N3_Pitch_Height_Pedagogy.blend",
+  "source_sha256": "3e7a93ed92dc41ff5871f6b49c8ce720f3189177cfc54e319abb4b348b5f64ab",
+  "successor_sha256": "ebdbf69755eee526da74ba0c43edd759d31e4850eecae9b9cb70279e8be82b03",
+  "blender": "3.6.5",
+  "baselines": {
+    "revision_n\\Punching_Bag_N1_Full_Product_Review.blend": "7a2da9e58991c822c981ecd677c902538389701ec1fe662ab878c2fd2f417e1b",
+    "reviews\\2026-09-19\\n2-track-a\\Punching_Bag_N2_Track_A.blend": "4331bae6efa3573e67425d10591fc5d09f34323ae588879ddb47c0f311c8e1af",
+    "reviews\\2026-09-19\\n3-geometry-delta\\Punching_Bag_N3_Geometry_Delta.blend": "8038388e7d666e749af499bab65202c1a9fbed05647fc321e42c0aaffae161c6",
+    "reviews/2026-09-19/n3-reach-height-body/Punching_Bag_N3_Reach_Height_Body.blend": "c956779e3874b6f9e54a943315174b805fdf4543935bd6571d06eaf35c6b6ea0",
+    "reviews/2026-09-19/n3-standoff-pitch-policy/Punching_Bag_N3_Standoff_Pitch_Policy.blend": "a653d2dd1c6e7e7531ed2379b8e81aa8924d8ff734a8176742664fa9105a782f",
+    "reviews/2026-09-19/n3-airflow-bladder-bend/Punching_Bag_N3_Airflow_Bladder_Bend.blend": "2eff852b5f0ecd3d8f498125d213bb7601164d4801d46e5d57cfc24cd45a44a3",
+    "reviews/2026-09-19/n3-airflow-bladder-bend-B2/Punching_Bag_N3_Airflow_Bladder_Bend.blend": "b8ebfdb134b5a4337ec7f10f7d83f8a4941f0d535c413fe9265b9506a8bcbeeb",
+    "reviews/2026-09-19/n3-af01b-exposed-arm-swell/Punching_Bag_N3_Airflow_Bladder_Bend.blend": "fe9a3134fff559ba6091b4a72af793ccc2cc0259f50929fa3bb1051f7c98ed57",
+    "reviews/2026-09-19/n3-af01b-exposed-arm-swell-2/Punching_Bag_N3_Airflow_Bladder_Bend.blend": "b4626cce4a82a8a5996988168b80fd9c7bce271e36a888714b66631910c01263",
+    "reviews/2026-09-19/n3-rh02-partial-extension/Punching_Bag_N3_Partial_Extension.blend": "8eebb0669a7a5b3092abee51921b8e33a3b7b598db53eaf89abdfd4f062d0564",
+    "reviews/2026-09-21/n3-b06-pitch-height-pedagogy/Punching_Bag_N3_Pitch_Height_Pedagogy.blend": "3e7a93ed92dc41ff5871f6b49c8ce720f3189177cfc54e319abb4b348b5f64ab"
+  },
+  "method": "FULL_COPY of accepted pitch/yaw pedagogy at frame 145; freeze pose, isolated camera and detected UDP yaw keys. Five inherited scenes unchanged."
+}

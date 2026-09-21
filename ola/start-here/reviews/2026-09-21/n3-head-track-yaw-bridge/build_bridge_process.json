@@ -1,0 +1,15 @@
+{
+  "command": [
+    "C:/Program Files/Blender Foundation/Blender 3.6/blender.exe",
+    "-b",
+    "reviews\\2026-09-21\\n3-b06-pitch-height-pedagogy\\Punching_Bag_N3_Pitch_Height_Pedagogy.blend",
+    "-t",
+    "4",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\build_bridge.py"
+  ],
+  "exit_code": 0,
+  "elapsed_s": 25.344940423965454
+}

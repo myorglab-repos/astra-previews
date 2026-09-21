@@ -1,4 +1,4 @@
-﻿> **Ola integrate 2026-09-21: ACCEPTED-A.** Head-track → carrier yaw path approved for twin implementation. Assumptions table is the standing pattern. Queuing Codex NEXT_PROMPT for Blender UDP/JSON→bpy yaw bridge (no invented gains — use Lead TBD placeholders / tunable).
+> **Ola integrate 2026-09-21: ACCEPTED-A.** Head-track → carrier yaw path approved for twin implementation. Assumptions table is the standing pattern. Queuing Codex NEXT_PROMPT for Blender UDP/JSON→bpy yaw bridge (no invented gains — use Lead TBD placeholders / tunable).
 
 # Elias — Head track → carrier yaw (Blender / digital twin path)
 

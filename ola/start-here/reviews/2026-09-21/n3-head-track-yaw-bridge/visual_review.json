@@ -1,0 +1,24 @@
+{
+  "status": "PASS_WITH_LIMITATIONS",
+  "reviewer": "Codex; independent Ola disposition pending",
+  "images_inspected": [
+    "media/head_left.png",
+    "media/qa_contact_sheet.png",
+    "media/decoded_right.png"
+  ],
+  "observations": [
+    "Left/right image centroid and carrier arrow change in matching screen directions",
+    "Filled bag datum stays stationary in paired states",
+    "Absent face-present and invalid-head presence-present select zero yaw",
+    "Presence fault, stale sync, inhibit and simulated E-stop show idle captions",
+    "Synthetic input, simulated presence, assumption labels and no-force demarcation visible",
+    "Decoded H.264 right frame readable; full decode passed"
+  ],
+  "limitations": [
+    "Synthetic translated still, not actual human motion",
+    "No webcam or gym sensing validation",
+    "Conceptual root covers do not qualify B-06",
+    "No physical actuation or strike impulse evidence"
+  ],
+  "independent_ola_acceptance": "PENDING"
+}

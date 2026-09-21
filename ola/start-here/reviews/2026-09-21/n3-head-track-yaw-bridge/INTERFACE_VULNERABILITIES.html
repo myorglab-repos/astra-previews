@@ -1,0 +1,55 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>INTERFACE VULNERABILITIES</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>G — Interface vulnerabilities / DFMEA inputs</h1>
+<p>Design failure mode and effects analysis (DFMEA) inputs only; no invented risk-priority numbers.</p>
+<table>
+<thead>
+<tr>
+  <th>Interface</th>
+  <th>Failure mode / effect</th>
+  <th>Digital mitigation / remaining work</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Haar head prior</td>
+  <td>False face, occlusion, multiple people, image flip → wrong cue</td>
+  <td>Qualitative spot-check opt-in; multiple/zero candidates invalid; real camera dataset and calibration OPEN</td>
+</tr>
+<tr>
+  <td>Presence input</td>
+  <td>Sim flag mistaken for proximity proof</td>
+  <td>Source labeled SIMULATED_BOOL_NOT_HARDWARE; default absent; actual fail-safe wiring OPEN</td>
+</tr>
+<tr>
+  <td>UDP → HEAD_YAW_CARRIER</td>
+  <td>Lost, delayed, duplicate, malformed or reordered input</td>
+  <td>Same-machine monotonic freshness, sequence/stream validation, local watchdog; loopback only; no authenticated hardware protocol</td>
+</tr>
+<tr>
+  <td>Local inhibit</td>
+  <td>Reconnect clears stop or reset starts motion</td>
+  <td>Sticky runtime file; corrupt state latches; local reset plus separate arm; physical stop independence OPEN</td>
+</tr>
+<tr>
+  <td>UI / Blender process</td>
+  <td>Hang prevents home update</td>
+  <td>No hardware outputs; Blender timer is not an independent E-stop; SAF-02 OPEN</td>
+</tr>
+<tr>
+  <td>Home-zero return</td>
+  <td>Sudden virtual pose jump mistaken for physical stop profile</td>
+  <td>Digital-only idle assumption; physical deceleration/limp policy P-05 remains OPEN</td>
+</tr>
+<tr>
+  <td>Carrier/root/bearing/anchor</td>
+  <td>Unqualified load path / pinch / unlock</td>
+  <td>B-06 F-01/F-05/F-08 remain OPEN; no physical movement</td>
+</tr>
+<tr>
+  <td>Distal textile / hose routing</td>
+  <td>Fatigue, leakage, retention or abrasion</td>
+  <td>B-03/RH-03 and Track B coupons remain OPEN</td>
+</tr>
+</tbody>
+</table>
+<p>F-01 pitch lock is not required for this digital yaw demo; F-01/F-05 and full S3 readiness remain required before pressurized strike. No signal here is wired to hardware.</p>
+</main></body></html>

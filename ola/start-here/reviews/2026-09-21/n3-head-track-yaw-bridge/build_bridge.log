@@ -1,0 +1,12 @@
+TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+Blender 3.6.5 (hash cf1e1ed46b7e built 2023-10-19 01:09:47)
+Read prefs: "C:\Users\mfawe\AppData\Roaming\Blender Foundation\Blender\3.6\config\userpref.blend"
+Read blend: "C:\Users\mfawe\OneDrive\Documents\GitHub\robotic-punching-bag\reviews\2026-09-21\n3-b06-pitch-height-pedagogy\Punching_Bag_N3_Pitch_Height_Pedagogy.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+WARNING: Keyconfig not availabe, skipping MACHIN3tools keymaps
+Registered MACHIN3tools 1.5.0 with 4 tools, 6 pie menus
+Info: Saved "Punching_Bag_N3_Head_Track_Yaw.blend"
+BRIDGE_BUILT C:\Users\mfawe\OneDrive\Documents\GitHub\robotic-punching-bag\reviews\2026-09-21\n3-head-track-yaw-bridge\Punching_Bag_N3_Head_Track_Yaw.blend
+Unregistered MACHIN3tools 1.5.0.
+
+Blender quit

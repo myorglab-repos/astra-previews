@@ -1,0 +1,21 @@
+{
+  "status": "PASS_WITH_ENGINEERING_RESIDUALS",
+  "manifest_artifacts": 81,
+  "local_links_checked": 99,
+  "missing_links": [],
+  "baseline_hashes": 11,
+  "inherited_scenes": 5,
+  "received_frames": 144,
+  "film_frames": 144,
+  "key_stills": 8,
+  "source": "synthetic translated-still clip; simulated presence and faults",
+  "independent_ola_acceptance": "PENDING",
+  "open_items": [
+    "Real-camera/proximity bench",
+    "Lead mapping / sign / idle / watchdog freeze",
+    "B-06/C-01 Critical hardware and propulsion",
+    "SAF-02/P-05 physical stop / limp",
+    "Loaded clearance and durability"
+  ],
+  "scope": "Track A does not prove strike impulse."
+}
