@@ -1,0 +1,19 @@
+{
+  "scope": "DIGITAL_TWIN_ONLY",
+  "mapping_freeze": "HY-03-LEAD-FROZEN-2026-09-21",
+  "label": "Lead Track A freeze — NOT measured hardware limits / product bars",
+  "assumptions": "Lead Track A freeze — NOT measured hardware limits / product bars. ASSUMPTION / DESIGN ESTIMATE. This freeze-packet template carries the non-null Lead values. Cite docs/engineering/OLA_INTEGRATE_ELIAS_HY03_2026-09-21.md and docs/engineering/ELIAS_HY03_YAW_MAPPING_SUPPORT.md. Unconfigured nulls still deny chase until a config is filled with these values. Not measured hardware limits or product bars. B-06, C-01, and SAF-02 stay Critical OPEN.",
+  "lead_disposition": "docs/engineering/OLA_INTEGRATE_ELIAS_HY03_2026-09-21.md",
+  "elias_support": "docs/engineering/ELIAS_HY03_YAW_MAPPING_SUPPORT.md",
+  "host": "127.0.0.1",
+  "port": 18766,
+  "normalization": "frame_fraction_0_to_1",
+  "signed_x": "(2*cx-1)",
+  "sign": 1,
+  "sign_convention": "NORMATIVE: positive image x → positive world X via +Z yaw from −Y home",
+  "gain_deg_per_signed_x": 30.0,
+  "clamp_deg": 30.0,
+  "watchdog_s": 2.0,
+  "idle_policy": "home_zero",
+  "performance_claim": "NONE"
+}

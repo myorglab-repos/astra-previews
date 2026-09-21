@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HY-03 yaw mapping freeze</title>
+  <style>
+    body { margin: 0; background: #101c2a; color: #d9e7f2; font: 18px/1.6 system-ui, sans-serif; }
+    main { max-width: 900px; margin: auto; padding: 36px 20px 64px; }
+    a { color: #82e6d0; }
+    h1 { font-size: 36px; line-height: 1.2; }
+    h2 { color: #a9d4ef; margin-top: 2em; }
+    table { border-collapse: collapse; width: 100%; font-size: 16px; }
+    td, th { padding: 10px 12px; border: 1px solid #3e5365; text-align: left; vertical-align: top; }
+    th { background: #243649; }
+    code { background: #203144; padding: 2px 4px; }
+    .notice { padding: 16px 18px; border-left: 4px solid #f2c277; background: #243143; }
+  </style>
+</head>
+<body>
+<main>
+  <p>pass_id <code>n3-hy03-yaw-mapping-freeze</code> · 2026-09-21 · DIGITAL_TWIN_ONLY · $0</p>
+  <h1>HY-03 yaw mapping freeze</h1>
+  <div class="notice">
+    <strong>Lead Track A freeze — NOT measured hardware limits / product bars.</strong>
+    Cite Ola integrate and Elias HY-03 support.
+    NORMATIVE: positive image x → positive world X via +Z yaw from −Y home.
+    sign=+1, gain 30.0, clamp 30.0, idle home_zero, watchdog 2.0.
+    Null configs still deny chase.
+    B-06, C-01, and SAF-02 stay Critical OPEN.
+    Track A does not prove strike impulse.
+  </div>
+
+  <h2>Read</h2>
+  <ul>
+    <li><a href="README.md">README</a></li>
+    <li><a href="READY_FOR_OLA.md">READY_FOR_OLA</a> (glossary included)</li>
+    <li><a href="DEFECT_REGISTER.md">DEFECT_REGISTER</a></li>
+    <li><a href="SOURCE_BRIEF.md">SOURCE_BRIEF</a></li>
+    <li><a href="CRITICAL_OPEN.md">CRITICAL_OPEN</a></li>
+    <li><a href="config_template.json">config_template.json</a> (non-null Lead values)</li>
+    <li><a href="frozen_config.json">frozen_config.json</a></li>
+    <li><a href="config_unconfigured.json">config_unconfigured.json</a> (nulls deny chase)</li>
+    <li><a href="../../../docs/engineering/OLA_INTEGRATE_ELIAS_HY03_2026-09-21.md">Ola integrate</a></li>
+    <li><a href="../../../docs/engineering/ELIAS_HY03_YAW_MAPPING_SUPPORT.md">Elias support</a></li>
+    <li><a href="unit_verification.json">unit_verification.json</a></li>
+    <li><a href="packet_verification.json">packet_verification.json</a></li>
+    <li><a href="camera_probe.json">camera_probe.json</a></li>
+    <li><a href="gym_spotcheck.json">gym_spotcheck.json</a></li>
+    <li><a href="../../../docs/engineering/HY03_YAW_MAPPING_FREEZE_2026-09-21.md">Freeze note</a></li>
+  </ul>
+
+  <h2>Locked map</h2>
+  <table>
+    <tr><th>Item</th><th>Value</th></tr>
+    <tr><td>Signed offset</td><td><code>signed_x = (2*cx - 1)</code> on <code>frame_fraction_0_to_1</code></td></tr>
+    <tr><td>Sign</td><td>+1. NORMATIVE: positive image x → positive world X via +Z yaw from −Y home</td></tr>
+    <tr><td>Gain</td><td>30 deg per signed unit</td></tr>
+    <tr><td>Clamp</td><td>±30 deg</td></tr>
+    <tr><td>Idle</td><td>home_zero</td></tr>
+    <tr><td>Watchdog</td><td>2 s, stale when age is greater than 2</td></tr>
+  </table>
+
+  <h2>Glossary</h2>
+  <table>
+    <tr><th>Term</th><th>Everyday meaning</th></tr>
+    <tr><td>Lead Track A freeze — NOT measured hardware limits / product bars</td><td>Locked for the on-screen twin. Not a lab measurement and not a product limit.</td></tr>
+    <tr><td>home_zero</td><td>Shoulders go straight ahead when chase is off.</td></tr>
+    <tr><td>HY-02</td><td>Real-gym chase. Camera opened; no single face this grab; still open.</td></tr>
+    <tr><td>HY-03</td><td>This mapping lock.</td></tr>
+    <tr><td>B-06 / C-01 / SAF-02</td><td>Root hardware, punch evidence, and the real stop. Still open.</td></tr>
+  </table>
+</main>
+</body>
+</html>

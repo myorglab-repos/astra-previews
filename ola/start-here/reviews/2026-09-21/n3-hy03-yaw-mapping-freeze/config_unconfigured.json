@@ -1,0 +1,17 @@
+{
+  "scope": "DIGITAL_TWIN_ONLY",
+  "mapping_freeze": null,
+  "label": "UNCONFIGURED",
+  "assumptions": "UNCONFIGURED until loaded with Lead Track A freeze. Null values deny chase.",
+  "host": "127.0.0.1",
+  "port": 18766,
+  "normalization": "frame_fraction_0_to_1",
+  "signed_x": "(2*cx-1)",
+  "sign": 1,
+  "sign_convention": "NORMATIVE: positive image x → positive world X via +Z yaw from −Y home",
+  "gain_deg_per_signed_x": null,
+  "clamp_deg": null,
+  "watchdog_s": null,
+  "idle_policy": "home_zero",
+  "performance_claim": "NONE"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PRESENT",
+  "machine": "DESKTOP-P08972I",
+  "opened_index": 0,
+  "attempts": [
+    {
+      "index": 0,
+      "status": "PRESENT",
+      "elapsed_s": 0.313
+    }
+  ],
+  "note": "Office USB webcam opened. It is sufficient for the first qualitative L/R check. Frames below are from this open only."
+}
