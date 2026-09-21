@@ -1,0 +1,15 @@
+{
+  "command": [
+    "C:/Program Files/Blender Foundation/Blender 3.6/blender.exe",
+    "-b",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\Punching_Bag_N3_Head_Track_Yaw.blend",
+    "-t",
+    "4",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-track-yaw-bridge\\audit_bridge.py"
+  ],
+  "exit_code": 0,
+  "elapsed_s": 38.71706676483154
+}

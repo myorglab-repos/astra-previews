@@ -1,0 +1,23 @@
+{
+  "status": "PASS_WITH_ENGINEERING_RESIDUALS",
+  "manifest_artifacts": 91,
+  "local_links_checked": 96,
+  "missing_links": [],
+  "baseline_hashes": 11,
+  "inherited_scenes": 5,
+  "received_frames": 144,
+  "film_frames": 144,
+  "key_stills": 8,
+  "camera_probe": "PRESENT",
+  "gym_spotcheck": "SKIPPED_NO_OPERATOR_APPROVAL",
+  "source": "clip fixture re-integration on inherited ACCEPTED-A successor; USB fail-fast; gym branch recorded separately",
+  "independent_ola_acceptance": "PENDING",
+  "open_items": [
+    "HY-02 residual: real-gym chase not product-closed",
+    "Lead mapping / sign / idle / watchdog freeze (HY-03)",
+    "B-06/C-01 Critical hardware and propulsion",
+    "SAF-02/P-05 physical stop / limp",
+    "Loaded clearance and durability"
+  ],
+  "scope": "Track A does not prove strike impulse. DIGITAL_TWIN_ONLY. Demo mapping remains ASSUMPTION."
+}

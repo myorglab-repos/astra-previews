@@ -1,0 +1,8 @@
+{
+  "scope": "DIGITAL_TWIN_ONLY",
+  "assumptions": "ASSUMPTION - opt-in illustrative demo values ONLY. NOT Lead-approved gains, limits, timing bars, measured performance or physical motion policy. Normative values remain TBD - Lead. Positive image x maps to positive world X via +Z yaw from -Y home.",
+  "host": "127.0.0.1", "port": 18766,
+  "normalization": "frame_fraction_0_to_1", "sign": 1,
+  "gain_deg_per_signed_x": 30.0, "clamp_deg": 30.0, "watchdog_s": 2.0,
+  "idle_policy": "home_zero"
+}

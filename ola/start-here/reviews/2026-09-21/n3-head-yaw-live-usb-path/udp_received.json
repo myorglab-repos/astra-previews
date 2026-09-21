@@ -1,0 +1,2774 @@
+[
+  {
+    "frame": 1,
+    "seq": 0,
+    "stimulus": "center",
+    "head_centroid_x": 0.4921875,
+    "sender_yaw_ignored": -0.46875,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.46875,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.46875
+  },
+  {
+    "frame": 2,
+    "seq": 1,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 3,
+    "seq": 2,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 4,
+    "seq": 3,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 5,
+    "seq": 4,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 6,
+    "seq": 5,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 7,
+    "seq": 6,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 8,
+    "seq": 7,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 9,
+    "seq": 8,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 10,
+    "seq": 9,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 11,
+    "seq": 10,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 12,
+    "seq": 11,
+    "stimulus": "center",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 13,
+    "seq": 12,
+    "stimulus": "left",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 14,
+    "seq": 13,
+    "stimulus": "left",
+    "head_centroid_x": 0.4703125,
+    "sender_yaw_ignored": -1.7812499999999987,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -1.7812499999999987,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -1.7812499999999987
+  },
+  {
+    "frame": 15,
+    "seq": 14,
+    "stimulus": "left",
+    "head_centroid_x": 0.45,
+    "sender_yaw_ignored": -2.999999999999999,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -2.999999999999999,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -2.999999999999999
+  },
+  {
+    "frame": 16,
+    "seq": 15,
+    "stimulus": "left",
+    "head_centroid_x": 0.4296875,
+    "sender_yaw_ignored": -4.21875,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -4.21875,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -4.21875
+  },
+  {
+    "frame": 17,
+    "seq": 16,
+    "stimulus": "left",
+    "head_centroid_x": 0.4078125,
+    "sender_yaw_ignored": -5.531249999999998,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -5.531249999999998,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -5.531249999999998
+  },
+  {
+    "frame": 18,
+    "seq": 17,
+    "stimulus": "left",
+    "head_centroid_x": 0.38828125,
+    "sender_yaw_ignored": -6.703124999999998,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -6.703124999999998,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -6.703124999999998
+  },
+  {
+    "frame": 19,
+    "seq": 18,
+    "stimulus": "left",
+    "head_centroid_x": 0.36796875,
+    "sender_yaw_ignored": -7.921874999999999,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -7.921874999999999,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -7.921874999999999
+  },
+  {
+    "frame": 20,
+    "seq": 19,
+    "stimulus": "left",
+    "head_centroid_x": 0.34453125,
+    "sender_yaw_ignored": -9.328125,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -9.328125,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -9.328125
+  },
+  {
+    "frame": 21,
+    "seq": 20,
+    "stimulus": "left",
+    "head_centroid_x": 0.325,
+    "sender_yaw_ignored": -10.5,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -10.5,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -10.5
+  },
+  {
+    "frame": 22,
+    "seq": 21,
+    "stimulus": "left",
+    "head_centroid_x": 0.30390625,
+    "sender_yaw_ignored": -11.765625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -11.765625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -11.765625
+  },
+  {
+    "frame": 23,
+    "seq": 22,
+    "stimulus": "left",
+    "head_centroid_x": 0.28359375,
+    "sender_yaw_ignored": -12.984375000000002,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -12.984375000000002,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -12.984375000000002
+  },
+  {
+    "frame": 24,
+    "seq": 23,
+    "stimulus": "left",
+    "head_centroid_x": 0.2625,
+    "sender_yaw_ignored": -14.25,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -14.25,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -14.25
+  },
+  {
+    "frame": 25,
+    "seq": 24,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 26,
+    "seq": 25,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 27,
+    "seq": 26,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 28,
+    "seq": 27,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 29,
+    "seq": 28,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 30,
+    "seq": 29,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 31,
+    "seq": 30,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 32,
+    "seq": 31,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 33,
+    "seq": 32,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 34,
+    "seq": 33,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 35,
+    "seq": 34,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 36,
+    "seq": 35,
+    "stimulus": "left",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 37,
+    "seq": 36,
+    "stimulus": "right",
+    "head_centroid_x": 0.24140625,
+    "sender_yaw_ignored": -15.515625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -15.515625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -15.515625
+  },
+  {
+    "frame": 38,
+    "seq": 37,
+    "stimulus": "right",
+    "head_centroid_x": 0.2625,
+    "sender_yaw_ignored": -14.25,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -14.25,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -14.25
+  },
+  {
+    "frame": 39,
+    "seq": 38,
+    "stimulus": "right",
+    "head_centroid_x": 0.28359375,
+    "sender_yaw_ignored": -12.984375000000002,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -12.984375000000002,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -12.984375000000002
+  },
+  {
+    "frame": 40,
+    "seq": 39,
+    "stimulus": "right",
+    "head_centroid_x": 0.30390625,
+    "sender_yaw_ignored": -11.765625,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -11.765625,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -11.765625
+  },
+  {
+    "frame": 41,
+    "seq": 40,
+    "stimulus": "right",
+    "head_centroid_x": 0.325,
+    "sender_yaw_ignored": -10.5,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -10.5,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -10.5
+  },
+  {
+    "frame": 42,
+    "seq": 41,
+    "stimulus": "right",
+    "head_centroid_x": 0.34453125,
+    "sender_yaw_ignored": -9.328125,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -9.328125,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -9.328125
+  },
+  {
+    "frame": 43,
+    "seq": 42,
+    "stimulus": "right",
+    "head_centroid_x": 0.36796875,
+    "sender_yaw_ignored": -7.921874999999999,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -7.921874999999999,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -7.921874999999999
+  },
+  {
+    "frame": 44,
+    "seq": 43,
+    "stimulus": "right",
+    "head_centroid_x": 0.38828125,
+    "sender_yaw_ignored": -6.703124999999998,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -6.703124999999998,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -6.703124999999998
+  },
+  {
+    "frame": 45,
+    "seq": 44,
+    "stimulus": "right",
+    "head_centroid_x": 0.4078125,
+    "sender_yaw_ignored": -5.531249999999998,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -5.531249999999998,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -5.531249999999998
+  },
+  {
+    "frame": 46,
+    "seq": 45,
+    "stimulus": "right",
+    "head_centroid_x": 0.4296875,
+    "sender_yaw_ignored": -4.21875,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -4.21875,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -4.21875
+  },
+  {
+    "frame": 47,
+    "seq": 46,
+    "stimulus": "right",
+    "head_centroid_x": 0.45,
+    "sender_yaw_ignored": -2.999999999999999,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -2.999999999999999,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -2.999999999999999
+  },
+  {
+    "frame": 48,
+    "seq": 47,
+    "stimulus": "right",
+    "head_centroid_x": 0.4703125,
+    "sender_yaw_ignored": -1.7812499999999987,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -1.7812499999999987,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -1.7812499999999987
+  },
+  {
+    "frame": 49,
+    "seq": 48,
+    "stimulus": "right",
+    "head_centroid_x": 0.49296875,
+    "sender_yaw_ignored": -0.42187499999999933,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": -0.42187499999999933,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": -0.42187499999999933
+  },
+  {
+    "frame": 50,
+    "seq": 49,
+    "stimulus": "right",
+    "head_centroid_x": 0.5125,
+    "sender_yaw_ignored": 0.7499999999999973,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 0.7499999999999973,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.7499999999999973
+  },
+  {
+    "frame": 51,
+    "seq": 50,
+    "stimulus": "right",
+    "head_centroid_x": 0.5328125,
+    "sender_yaw_ignored": 1.9687500000000013,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 1.9687500000000013,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 1.9687500000000013
+  },
+  {
+    "frame": 52,
+    "seq": 51,
+    "stimulus": "right",
+    "head_centroid_x": 0.5546875,
+    "sender_yaw_ignored": 3.28125,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 3.28125,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 3.28125
+  },
+  {
+    "frame": 53,
+    "seq": 52,
+    "stimulus": "right",
+    "head_centroid_x": 0.57578125,
+    "sender_yaw_ignored": 4.546875000000002,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 4.546875000000002,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 4.546875000000002
+  },
+  {
+    "frame": 54,
+    "seq": 53,
+    "stimulus": "right",
+    "head_centroid_x": 0.59453125,
+    "sender_yaw_ignored": 5.671874999999997,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 5.671874999999997,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 5.671874999999997
+  },
+  {
+    "frame": 55,
+    "seq": 54,
+    "stimulus": "right",
+    "head_centroid_x": 0.61640625,
+    "sender_yaw_ignored": 6.984375000000003,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 6.984375000000003,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 6.984375000000003
+  },
+  {
+    "frame": 56,
+    "seq": 55,
+    "stimulus": "right",
+    "head_centroid_x": 0.6390625,
+    "sender_yaw_ignored": 8.343749999999998,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 8.343749999999998,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 8.343749999999998
+  },
+  {
+    "frame": 57,
+    "seq": 56,
+    "stimulus": "right",
+    "head_centroid_x": 0.65625,
+    "sender_yaw_ignored": 9.375,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 9.375,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 9.375
+  },
+  {
+    "frame": 58,
+    "seq": 57,
+    "stimulus": "right",
+    "head_centroid_x": 0.68125,
+    "sender_yaw_ignored": 10.875000000000002,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 10.875000000000002,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 10.875000000000002
+  },
+  {
+    "frame": 59,
+    "seq": 58,
+    "stimulus": "right",
+    "head_centroid_x": 0.70078125,
+    "sender_yaw_ignored": 12.046875000000002,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 12.046875000000002,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 12.046875000000002
+  },
+  {
+    "frame": 60,
+    "seq": 59,
+    "stimulus": "right",
+    "head_centroid_x": 0.7203125,
+    "sender_yaw_ignored": 13.218750000000002,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 13.218750000000002,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 13.218750000000002
+  },
+  {
+    "frame": 61,
+    "seq": 60,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 62,
+    "seq": 61,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 63,
+    "seq": 62,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 64,
+    "seq": 63,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 65,
+    "seq": 64,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 66,
+    "seq": 65,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 67,
+    "seq": 66,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 68,
+    "seq": 67,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 69,
+    "seq": 68,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 70,
+    "seq": 69,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 71,
+    "seq": 70,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 72,
+    "seq": 71,
+    "stimulus": "right",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 14.484375000000004,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": true,
+      "yaw_cmd": 14.484375000000004,
+      "yaw_units": "degrees",
+      "quality_flags": [],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 14.484375000000004
+  },
+  {
+    "frame": 73,
+    "seq": 72,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 74,
+    "seq": 73,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 75,
+    "seq": 74,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 76,
+    "seq": 75,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 77,
+    "seq": 76,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 78,
+    "seq": 77,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 79,
+    "seq": 78,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 80,
+    "seq": 79,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 81,
+    "seq": 80,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 82,
+    "seq": 81,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 83,
+    "seq": 82,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 84,
+    "seq": 83,
+    "stimulus": "absent_with_face",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 85,
+    "seq": 84,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 86,
+    "seq": 85,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 87,
+    "seq": 86,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 88,
+    "seq": 87,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 89,
+    "seq": 88,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 90,
+    "seq": 89,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 91,
+    "seq": 90,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 92,
+    "seq": 91,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 93,
+    "seq": 92,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 94,
+    "seq": 93,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 95,
+    "seq": 94,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 96,
+    "seq": 95,
+    "stimulus": "invalid_head_present",
+    "head_centroid_x": null,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "head_invalid_or_unchecked"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 97,
+    "seq": 96,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 98,
+    "seq": 97,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 99,
+    "seq": 98,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 100,
+    "seq": 99,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 101,
+    "seq": 100,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 102,
+    "seq": 101,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 103,
+    "seq": 102,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 104,
+    "seq": 103,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 105,
+    "seq": 104,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 106,
+    "seq": 105,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 107,
+    "seq": 106,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 108,
+    "seq": 107,
+    "stimulus": "presence_fault",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": false,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "absent",
+        "presence_sensor_fault"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 109,
+    "seq": 108,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 110,
+    "seq": 109,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 111,
+    "seq": 110,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 112,
+    "seq": 111,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 113,
+    "seq": 112,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 114,
+    "seq": 113,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 115,
+    "seq": 114,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 116,
+    "seq": 115,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 117,
+    "seq": 116,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 118,
+    "seq": 117,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 119,
+    "seq": 118,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 120,
+    "seq": 119,
+    "stimulus": "stale_sync",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": true,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "sync_stale"
+      ],
+      "receiver_latched": false
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 121,
+    "seq": 120,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 122,
+    "seq": 121,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 123,
+    "seq": 122,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 124,
+    "seq": 123,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 125,
+    "seq": 124,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 126,
+    "seq": 125,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 127,
+    "seq": 126,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 128,
+    "seq": 127,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 129,
+    "seq": 128,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 130,
+    "seq": 129,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 131,
+    "seq": 130,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 132,
+    "seq": 131,
+    "stimulus": "inhibit",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": false,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "inhibit",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 133,
+    "seq": 132,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 134,
+    "seq": 133,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 135,
+    "seq": 134,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 136,
+    "seq": 135,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 137,
+    "seq": 136,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 138,
+    "seq": 137,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 139,
+    "seq": 138,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 140,
+    "seq": 139,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 141,
+    "seq": 140,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 142,
+    "seq": 141,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 143,
+    "seq": 142,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  },
+  {
+    "frame": 144,
+    "seq": 143,
+    "stimulus": "e_stop",
+    "head_centroid_x": 0.74140625,
+    "sender_yaw_ignored": 0.0,
+    "output": {
+      "user_present": true,
+      "session_enable": true,
+      "yaw_cmd_enable": false,
+      "effective_enable": false,
+      "yaw_cmd": 0.0,
+      "yaw_units": "degrees",
+      "quality_flags": [
+        "e_stop_sim",
+        "receiver_latched"
+      ],
+      "receiver_latched": true
+    },
+    "carrier_yaw_deg": 0.0
+  }
+]

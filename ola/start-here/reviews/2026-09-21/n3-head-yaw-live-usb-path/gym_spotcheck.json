@@ -1,0 +1,7 @@
+{
+  "status": "SKIPPED_NO_OPERATOR_APPROVAL",
+  "stills": [],
+  "film": null,
+  "opened_index": 0,
+  "note": "Camera present but --head-spotcheck-approved/--run-gym not both set. No invented L/R gym media."
+}

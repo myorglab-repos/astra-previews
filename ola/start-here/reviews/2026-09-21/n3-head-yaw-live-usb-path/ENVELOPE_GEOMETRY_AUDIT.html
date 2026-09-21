@@ -1,0 +1,51 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ENVELOPE GEOMETRY AUDIT</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>F — Saved-model geometry audit</h1>
+<p>Inherited ACCEPTED-A audit. Independent audit opened the saved successor; this pass did not remake it.</p>
+<table>
+<thead>
+<tr>
+  <th>Digital quantity</th>
+  <th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Bag/fill/mast matrix maximum deviation</td>
+  <td>0.0</td>
+</tr>
+<tr>
+  <td>Camera matrix maximum deviation</td>
+  <td>0.0</td>
+</tr>
+<tr>
+  <td>Replay yaw maximum numerical error</td>
+  <td>0.000000777 degrees</td>
+</tr>
+<tr>
+  <td>Arm geometry maximum drift in carrier coordinates</td>
+  <td>0.0000000350 m</td>
+</tr>
+<tr>
+  <td>A-05 wrist/glove maximum drift</td>
+  <td>0.000081 mm</td>
+</tr>
+<tr>
+  <td>G-03 sampled 71-mm radial arm-envelope proxy minimum</td>
+  <td>48.069149 mm</td>
+</tr>
+<tr>
+  <td>G-05 cover/carrier axial gap minimum</td>
+  <td>4.999995 mm</td>
+</tr>
+<tr>
+  <td>Chamber object count</td>
+  <td>16, eight per arm</td>
+</tr>
+<tr>
+  <td>Inherited scene signatures / ancestor hashes</td>
+  <td>5 unchanged / 11 preserved</td>
+</tr>
+</tbody>
+</table>
+<p>See <a href="model_verification.json">raw model verification</a>. This pass does not claim a new physical verification.</p>
+<p><strong>Track A does not prove strike impulse.</strong> B-06 root hardware and C-01 pressure-to-motion-to-impact measurements remain Critical OPEN. No physical actuation, measured sensing accuracy, detector FPS, latency, durability or safety qualification is claimed. DIGITAL_TWIN_ONLY.</p>
+</main></body></html>

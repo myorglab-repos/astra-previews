@@ -1,0 +1,15 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TOOLCHAIN REPRO</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>I — Toolchain and reproducibility</h1>
+<p>Observed runtime is recorded in <code>runtime.json</code> after this pass's commands. No claim of newest supported versions. The OpenCV bundled <code>haarcascade_frontalface_default.xml</code> model is used with default detection parameters (ASSUMPTION prior).</p>
+<p>From this packet folder, after dependencies are present. <strong>Do not remake the successor</strong> unless the inherited blend hash is broken:</p>
+<pre><code class="language-powershell">python make_fixture.py
+python test_bridge.py
+python test_usb_path.py
+python run_clip_integration.py
+python probe_usb.py
+python build_packet.py
+python verify_packet.py
+</code></pre>
+<p><code>run_blender.py build_bridge</code> remakes the ACCEPTED-A successor and is <strong>out of scope</strong> for this USB-path delta. Interactive receive still uses <code>blender_receiver.py</code> + <code>demo_config.json</code>.</p>
+<p><code>render_frames/</code> and <code>composed_frames/</code> are reproducible intermediates excluded from Git. <code>packet_manifest.json</code> includes deliverable hashes. Use Git LFS to fetch actual blends, images and video (<code>git lfs pull</code>) after cloning.</p>
+<p>The supplied source still is attributed to NASA / Eileen Collins, via scikit-image's public-domain sample. Fixture bytes are in fixture_provenance.json.</p>
+</main></body></html>

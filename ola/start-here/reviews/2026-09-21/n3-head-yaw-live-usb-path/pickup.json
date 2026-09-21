@@ -1,0 +1,8 @@
+{
+  "brief_sha256": "5dc7273a7b64976616af3be1ae74edbdbebd6bcdab71d0c7ef373efec9b4b64c",
+  "resumed_at": "2026-09-21T09:49:10.492896-04:00",
+  "state": "consumed ready_for_astra brief",
+  "source": "chats/NEXT_PROMPT.md",
+  "pass_id": "n3-head-yaw-live-usb-path",
+  "parent_packet": "reviews/2026-09-21/n3-head-track-yaw-bridge"
+}

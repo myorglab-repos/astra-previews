@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PUNCH PATH CHECKLIST</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>A — Punch path and palm conventions</h1>
+<p>No new punch is commanded. This pass does not remake the ACCEPTED-A yaw scene. Inherited mid-height guard pose and palm conventions stand. U/F/T teaching intent remains qualitative.</p>
+<table>
+<thead>
+<tr>
+  <th>Item</th>
+  <th>Result</th>
+  <th>Evidence / defect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Saved inherited strike scenes</td>
+  <td>PASS, unchanged (inherited ACCEPTED-A)</td>
+  <td>model_verification.json; lineage.json</td>
+</tr>
+<tr>
+  <td>Clip L/R → yaw (software path re-run)</td>
+  <td>PASS on synthetic clip</td>
+  <td>udp_received.json frames 30 / 68</td>
+</tr>
+<tr>
+  <td>Absent/invalid/fault/sync/inhibit/E-stop → idle</td>
+  <td>PASS digital samples / tests</td>
+  <td>unit_verification.json; integration idle chapters</td>
+</tr>
+<tr>
+  <td>USB fail-fast / clip CI</td>
+  <td>PASS</td>
+  <td>usb_path_verification.json; camera_probe.json</td>
+</tr>
+<tr>
+  <td>Gym qualitative L/R</td>
+  <td>See gym_spotcheck.json (SKIPPED is not FAIL)</td>
+  <td>gym_spotcheck.json</td>
+</tr>
+<tr>
+  <td>Wrist–glove alignment</td>
+  <td>PASS sampled inherited scene</td>
+  <td>A-05; ENVELOPE_GEOMETRY_AUDIT</td>
+</tr>
+<tr>
+  <td>Strike propulsion / impact</td>
+  <td>OPEN</td>
+  <td>C-01; Track A does not prove strike impulse</td>
+</tr>
+</tbody>
+</table>
+<p>RH-02 inherited policy remains. No head-tracking result upgrades those reach claims.</p>
+</main></body></html>

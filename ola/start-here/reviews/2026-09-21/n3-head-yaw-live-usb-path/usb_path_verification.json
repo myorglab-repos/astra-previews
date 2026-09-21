@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "test_methods": 4,
+  "failures": 0,
+  "errors": 0,
+  "notes": "Invalid index 99 must fail fast. Clip fixture must open. No camera required.",
+  "performance_claim": "NONE"
+}

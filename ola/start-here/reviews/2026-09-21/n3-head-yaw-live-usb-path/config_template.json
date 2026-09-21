@@ -1,0 +1,8 @@
+{
+  "scope": "DIGITAL_TWIN_ONLY",
+  "assumptions": "UNCONFIGURED. Gain, clamp and watchdog are TBD - Lead. Null values deny chase. All conventions are implementation proposals, not a hardware freeze.",
+  "host": "127.0.0.1", "port": 18766,
+  "normalization": "frame_fraction_0_to_1", "sign": 1,
+  "gain_deg_per_signed_x": null, "clamp_deg": null, "watchdog_s": null,
+  "idle_policy": "home_zero"
+}
