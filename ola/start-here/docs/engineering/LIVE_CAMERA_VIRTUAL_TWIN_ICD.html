@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Live camera → virtual bag twin ICD</title>
+<style>
+body{margin:0;background:#efede8;color:#252725;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:900px;margin:auto;padding:28px 24px}
+a{color:#9b2630}
+h1{font-size:28px;line-height:1.2}
+h2{font-size:20px;margin-top:28px}
+table{width:100%;border-collapse:collapse;background:#faf9f5;font-size:14px;margin:12px 0}
+th,td{padding:10px;border-bottom:1px solid #d4d7cf;text-align:left;vertical-align:top}
+th{background:#e3e6de}
+.notice{padding:14px 16px;background:#fff8e9;border-left:4px solid #ad782b;margin:16px 0}
+.nav{font-size:13px;margin-bottom:18px}
+code{font:12px/1.5 ui-monospace,Consolas,monospace}
+pre{background:#faf9f5;padding:14px;overflow:auto;border:1px solid #d4d7cf}
+</style>
+</head>
+<body>
+<main>
+<p class="nav"><a href="../../index.html">&larr; Back to START_HERE</a> &middot; <a href="LIVE_CAMERA_VIRTUAL_TWIN_ICD.md">Markdown source</a></p>
+<div class="notice"><strong>INTERFACE PLAN</strong> Not a CV research paper. Specialists own model training. Track A Blender films are not live vision proof. Physical actuation only after safety + C-01 gates.</div>
+<p>﻿# Live camera → virtual bag twin (training / test ICD)</p>
+<p><strong>Owner draft:</strong> Ola  </p>
+<p><strong>Date:</strong> 2026-09-21  </p>
+<p><strong>Status:</strong> INTERFACE PLAN — not a CV research paper; specialists own model training  </p>
+<p><strong>Related:</strong> Track A Blender SoR; C-01 Track B; production-readiness checklist on START_HERE</p>
+<h2>Plain language</h2>
+<p>Later we want a <strong>real camera</strong> watching a person (or a physical bag) and driving or labeling the <strong>virtual punching-bag model</strong>, so we can train and test AI models. This note freezes how engineering should plug that in — without pretending the Blender films are real CV today.</p>
+<h2>Goals</h2>
+<ol><li><strong>Train</strong> — capture synchronized video + twin state (or human labels) for perception / trainer models.  </li><li><strong>Test</strong> — replay or live-feed camera into the twin; score detection / pose / strike events against acceptance tests.  </li><li><strong>Control (later)</strong> — optional closed loop: perception output commands soft-arm setpoints (only after safety + C-01 gates).</li></ol>
+<h2>Non-goals (now)</h2>
+<ul><li>Freelancing SOTA CV papers or claiming product tracking works.  </li><li>Using Track A prescribed films as proof of real vision.  </li><li>Hitting a user with air-powered arms from unverified perception.</li></ul>
+<h2>Architecture (streams in parallel)</h2>
+<pre><code>
+Camera(s) → Capture PC → Perception service → Event / pose bus → Twin adapter → Blender/digital twin
+                              ↓
+                         Dataset lake (Snowflake / object store) ← labels, sync metadata
+</pre>
+<table>
+<tr><th>Block</th><th>Responsibility</th><th>Owner seat</th></tr>
+<tr><td>Cameras / lighting / mounts</td><td>Protected cameras on product; lab rig first</td><td>Mech + CV</td></tr>
+<tr><td>Capture PC</td><td>Time sync, recording, privacy</td><td>Platform / Ibrahim</td></tr>
+<tr><td>Perception service</td><td>Pose, glove, strike events (black box ICD)</td><td><strong>CV specialist hire</strong></td></tr>
+<tr><td>Twin adapter</td><td>Map events → twin DOF / overlays / logging</td><td>Ola + controls</td></tr>
+<tr><td>Dataset</td><td>Versioned clips + labels in warehouse</td><td>Snowflake ingest (Eta/Ibrahim)</td></tr>
+<tr><td>Safety gate</td><td>Inhibit physical actuation unless perception confidence + interlocks OK</td><td>Safety + controls</td></tr>
+</table>
+<h2>Twin adapter ICD (minimum)</h2>
+<p><strong>Inputs (from perception, versioned schema):</strong></p>
+<ul><li><code>t_sync</code> (UTC or PTP)  </li><li><code>user_pose</code> / <code>glove_bbox</code> / <code>strike_hypothesis</code> (type, side, confidence)  </li><li>Optional: depth / skeleton keypoints  </li></ul>
+<p><strong>Outputs (to twin / trainer):</strong></p>
+<ul><li>Overlay markers on twin  </li><li>Commanded height preset ID (short/mid/tall) — <strong>not</strong> inventing pitch hardware ratings  </li><li>Logged episode for dataset  </li></ul>
+<p><strong>Acceptance tests (examples — specialists refine):</strong></p>
+<ul><li>Latency budget TBD measured end-to-end (capture → twin overlay)  </li><li>Sync error &lt; declared ms bound on clapboard / LED flash fixture  </li><li>False-positive strike rate on still scene below threshold  </li><li>No physical arm motion unless <code>safe_to_actuate==true</code></li></ul>
+<h2>Staging</h2>
+<table>
+<tr><th>Stage</th><th>What we run</th></tr>
+<tr><td>S0</td><td>Dataset + offline train/test on recorded video only</td></tr>
+<tr><td>S1</td><td>Live camera → twin <strong>overlay only</strong> (no arm motion)</td></tr>
+<tr><td>S2</td><td>Live camera → twin + <strong>simulated</strong> continuum commands</td></tr>
+<tr><td>S3</td><td>Live camera → physical soft arms (after C-01, B-06, safety)</td></tr>
+</table>
+<h2>Hiring implication</h2>
+<p>CV / perception contractor or FTE is a first-wave seat for S0–S1. Courtland shortlists only after Michael + Stephen approve spend. Eta/Art advising platforms.</p>
+<h2>Snowflake</h2>
+<p>Use warehouse for <strong>versioned training artifacts metadata</strong> (paths, hashes, label schemas) — not as a substitute for video object storage. Ingest procedures stay with Eta/Platform write MCP; Ola consumes via <code>search_documents</code> / linked SoR paths.</p>
+<h2>Track A demarcation</h2>
+<p>Prescribed Blender punches remain teaching aids. Live-camera work is a <strong>separate stream</strong> with its own READY packets and never closes C-01 by itself.</p>
+</main>
+</body>
+</html>
