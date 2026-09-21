@@ -1,0 +1,66 @@
+{
+  "pass_id": "p8-logotrue-extrude-full",
+  "sizes_bytes": {
+    "hero-logotrue-extrude-full.blend": 3085216,
+    "hero-logotrue-extrude-full.glb": 823240,
+    "hero-logotrue-extrude-full.web.glb": 203188,
+    "poster.webp": 91244,
+    "spin-preview.mp4": 329931,
+    "spin-preview.webm": 333376
+  },
+  "source_sha256": {
+    "LogoFull.png": "b0590e461eabd74b735a3a022c54bae4c8ff4102912ab4171f78ddf208f4f7e7",
+    "Logo.png": "a71acbc82c2542641b3bd087fd87933a198d779ac33681c36025740896a7673b"
+  },
+  "source_copies_match_originals": true,
+  "web_silhouette_iou_percent": {
+    "full": 100.0,
+    "mark": 100.0,
+    "wordmark": 100.0
+  },
+  "films": {
+    "mp4": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 540,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "6.200000"
+      }
+    },
+    "webm": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "vp9",
+          "width": 1280,
+          "height": 540,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "6.200000"
+      }
+    }
+  },
+  "http_status": {
+    "": 200,
+    "poster.webp": 200,
+    "hero-logotrue-extrude-full.web.glb": 200,
+    "spin-preview.mp4": 200,
+    "qa/comparison.png": 200
+  },
+  "hold_frames_identical": true,
+  "gifs": 0,
+  "auto_open": "Attempt rejected by automatic approval review: blocked by policy",
+  "pages": "Not published. Prepared for Ibrahim at lilian/hero-logotrue-extrude-full/"
+}

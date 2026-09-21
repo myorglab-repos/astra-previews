@@ -1,0 +1,71 @@
+{
+  "method": "Pixel-aligned source RGB artwork mask vs rendered alpha >127; no resizing, normalization or registration. Source alpha itself is opaque white canvas.",
+  "full": {
+    "iou_percent": 99.99429795106374,
+    "source_pixels": 157838,
+    "render_pixels": 157829,
+    "different_pixels": 9
+  },
+  "mark": {
+    "iou_percent": 100.0,
+    "source_pixels": 95723,
+    "render_pixels": 95723,
+    "different_pixels": 0
+  },
+  "wordmark": {
+    "iou_percent": 99.98551074619657,
+    "source_pixels": 62115,
+    "render_pixels": 62106,
+    "different_pixels": 9
+  },
+  "letters": {
+    "M": {
+      "iou_percent": 99.98034011599331,
+      "source_pixels": 10173,
+      "render_pixels": 10171,
+      "different_pixels": 2
+    },
+    "Y": {
+      "iou_percent": 99.9639899171768,
+      "source_pixels": 5554,
+      "render_pixels": 5552,
+      "different_pixels": 2
+    },
+    "O": {
+      "iou_percent": 99.98848324311874,
+      "source_pixels": 8683,
+      "render_pixels": 8682,
+      "different_pixels": 1
+    },
+    "R": {
+      "iou_percent": 100.0,
+      "source_pixels": 8671,
+      "render_pixels": 8671,
+      "different_pixels": 0
+    },
+    "G": {
+      "iou_percent": 99.97466751108297,
+      "source_pixels": 7895,
+      "render_pixels": 7893,
+      "different_pixels": 2
+    },
+    "L": {
+      "iou_percent": 99.95815024063612,
+      "source_pixels": 4779,
+      "render_pixels": 4777,
+      "different_pixels": 2
+    },
+    "A": {
+      "iou_percent": 99.98614190687361,
+      "source_pixels": 7216,
+      "render_pixels": 7215,
+      "different_pixels": 1
+    },
+    "B": {
+      "iou_percent": 100.0,
+      "source_pixels": 9387,
+      "render_pixels": 9387,
+      "different_pixels": 0
+    }
+  }
+}
