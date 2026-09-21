@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "decoded_frames": 144,
+  "encoded_fps": "12/1",
+  "duration_s": "12.000000",
+  "resolution": [
+    1500,
+    900
+  ],
+  "stills": {
+    "30": "head_left",
+    "68": "head_right",
+    "78": "absent",
+    "90": "invalid_head",
+    "102": "presence_fault",
+    "114": "stale_sync",
+    "126": "inhibit",
+    "138": "e_stop"
+  },
+  "disclaimer": "Encoded media properties only, NOT detector throughput or latency. Synthetic clip, not live camera performance."
+}

@@ -1,0 +1,1298 @@
+[
+  {
+    "frame": 1,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 2,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 3,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 4,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 5,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 6,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 7,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 8,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 9,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 10,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 11,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 12,
+    "case": "center",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 13,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 14,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 15,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 16,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 17,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 18,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 19,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 20,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 21,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 22,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 23,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 24,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 25,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 26,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 27,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 28,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 29,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 30,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 31,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 32,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 33,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 34,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 35,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 36,
+    "case": "left",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 37,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 38,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 39,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 40,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 41,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 42,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 43,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 44,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 45,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 46,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 47,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 48,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 49,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 50,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 51,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 52,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 53,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 54,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 55,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 56,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 57,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 58,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 59,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 60,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 61,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 62,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 63,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 64,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 65,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 66,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 67,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 68,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 69,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 70,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 71,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 72,
+    "case": "right",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 73,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 74,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 75,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 76,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 77,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 78,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 79,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 80,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 81,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 82,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 83,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 84,
+    "case": "absent_with_face",
+    "user_present": false,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 85,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 86,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 87,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 88,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 89,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 90,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 91,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 92,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 93,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 94,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 95,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 96,
+    "case": "invalid_head_present",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 97,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 98,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 99,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 100,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 101,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 102,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 103,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 104,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 105,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 106,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 107,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 108,
+    "case": "presence_fault",
+    "user_present": true,
+    "presence_sensor_fault": true,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 109,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 110,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 111,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 112,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 113,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 114,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 115,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 116,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 117,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 118,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 119,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 120,
+    "case": "stale_sync",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "stale",
+    "inhibit_latched": false,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 121,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 122,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 123,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 124,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 125,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 126,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 127,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 128,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 129,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 130,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 131,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 132,
+    "case": "inhibit",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": true,
+    "e_stop_asserted": false
+  },
+  {
+    "frame": 133,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 134,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 135,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 136,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 137,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 138,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 139,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 140,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 141,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 142,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 143,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  },
+  {
+    "frame": 144,
+    "case": "e_stop",
+    "user_present": true,
+    "presence_sensor_fault": false,
+    "sync_quality": "ok",
+    "inhibit_latched": false,
+    "e_stop_asserted": true
+  }
+]

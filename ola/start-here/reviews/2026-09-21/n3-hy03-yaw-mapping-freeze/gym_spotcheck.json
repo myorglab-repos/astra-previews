@@ -1,0 +1,18 @@
+{
+  "status": "CAMERA_PRESENT_NO_SINGLE_FACE",
+  "authority": "Michael 2026-09-21 head-spotcheck-approved; office USB webcam sufficient per Ola integrate",
+  "lead_disposition": "docs/engineering/OLA_INTEGRATE_ELIAS_HY03_2026-09-21.md",
+  "elias_support": "docs/engineering/ELIAS_HY03_YAW_MAPPING_SUPPORT.md",
+  "office_usb_webcam_sufficient": true,
+  "head_spotcheck_approved": true,
+  "sim_presence": "SIMULATED_BOOL_NOT_HARDWARE",
+  "frames_grabbed": 24,
+  "single_face_frames": 0,
+  "left_frames": 0,
+  "right_frames": 0,
+  "stills": [],
+  "film": null,
+  "note": "Camera opened and --head-spotcheck-approved was authorized, but this grab did not see exactly one face. No L/R stills invented. HY-02 stays OPEN.",
+  "performance_claim": "NONE",
+  "mapping_label": "Lead Track A freeze \u2014 NOT measured hardware limits / product bars"
+}

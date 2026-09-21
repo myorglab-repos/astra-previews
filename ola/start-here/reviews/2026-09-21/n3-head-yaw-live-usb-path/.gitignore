@@ -1,0 +1,5 @@
+render_frames/
+composed_frames/
+detection_preflight.jsonl
+receiver_latch_state.tmp
+gym_raw/

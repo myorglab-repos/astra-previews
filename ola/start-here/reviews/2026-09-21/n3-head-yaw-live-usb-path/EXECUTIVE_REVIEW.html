@@ -1,0 +1,168 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>EXECUTIVE REVIEW</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>Live-USB-capable head → N3 carrier yaw</h1>
+<p>This pass extends the <strong>ACCEPTED-A</strong> digital Track A bridge (<code>n3-head-track-yaw-bridge</code>, 2026-09-21) with a <strong>live-USB-capable</strong> sender path. Protocol <code>head-yaw-v1</code> is unchanged. <code>bridge_core.py</code> and <code>blender_receiver.py</code> are reused without a second schema. The Blender successor and 12-second synthetic film are <strong>inherited, not remade</strong>. Normative interface language is Elias <code>ELIAS_LIVE_USB_CAMERA_TWIN_ICD_INTERFACES.md</code> as integrated by Ola (<code>OLA_INTEGRATE_ELIAS_PRESENCE_LIVE_USB_2026-09-21.md</code>): <code>SKIPPED_NO_CAMERA</code> is not a software FAIL; <code>presence_source = SIMULATED_BOOL_NOT_HARDWARE</code> until hardware; Haar + one-face + <code>--head-spotcheck-approved</code>; digital idle <code>home_zero</code> + clean-exit stop packet; HY-02 gym qualitative stays OPEN even if the software path PASSes.</p>
+<p><code>--camera N</code> now fails fast with <code>CAMERA_OPEN_FAILED</code> when the index cannot open (no hang). <code>--clip</code> remains the CI / packet path. <code>--head-spotcheck-approved</code> and <code>--sim-present</code> are documented operator flags. The receiver still <strong>re-derives</strong> enable/yaw and never trusts sender-computed fields.</p>
+<p><strong>Verified this pass (cite JSON only):</strong> unit 32/32 gate combinations, 0 failures (<code>unit_verification.json</code> PASS); clip integration 144 actual UDP packets, receiver_rederived=True (<code>integration_verification.json</code> PASS); USB fail-fast 4 methods, 0 failures (<code>usb_path_verification.json</code> PASS); camera probe <strong>PRESENT</strong>; gym qualitative <strong>SKIPPED_NO_OPERATOR_APPROVAL</strong>. Inherited model audit: bag/camera matrix deviation 0.0; yaw replay max error ~7.8e-07°; 5 inherited scenes / 11 ancestor hashes.</p>
+<p><strong>Disposition requested:</strong> Accept the software USB path + clip CI as a delta on ACCEPTED-A. HY-02 remains OPEN (not product-closed). Do not freeze demo gain/clamp/sign. B-06 / C-01 / SAF-02 remain Critical OPEN.</p>
+<p>Eight soft continuum chambers per arm: U1–U3, F1–F3, T1–T2; textile strain limiting, vent plus elastic return and no exposed distal metal. Bag/fill/mast stay fixed; only the shoulder carrier yaws. Protected-root cover remains an illustrative envelope.</p>
+<p><strong>Track A does not prove strike impulse.</strong> B-06 root hardware and C-01 pressure-to-motion-to-impact measurements remain Critical OPEN. No physical actuation, measured sensing accuracy, detector FPS, latency, durability or safety qualification is claimed. DIGITAL_TWIN_ONLY.</p>
+<h2>Assumptions and Lead decisions</h2>
+<table>
+<thead>
+<tr>
+  <th>Item</th>
+  <th>Implementation proposal / demo value</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Detector</td>
+  <td>OpenCV bundled frontal-face Haar; default detector parameters; exactly one candidate</td>
+  <td>ASSUMPTION; face is a head prior, no confidence/accuracy bar</td>
+</tr>
+<tr>
+  <td>Qualitative validity</td>
+  <td>Candidate accepted only with explicit <code>--head-spotcheck-approved</code></td>
+  <td>ASSUMPTION; fixture visually checked; live scene needs its own operator check</td>
+</tr>
+<tr>
+  <td>Normalization / units / sign</td>
+  <td>Frame fraction [0,1]; degrees; signed offset = 2x−1; positive yaw turns -Y home toward +X</td>
+  <td>ASSUMPTION; camera mirroring/mount calibration TBD—Lead</td>
+</tr>
+<tr>
+  <td>Gain / clamp</td>
+  <td>Production template null; opt-in demo 30 degrees per signed unit, ±30-degree clamp</td>
+  <td>ASSUMPTION demo only, not an approved motion range; normative mapping TBD—Lead</td>
+</tr>
+<tr>
+  <td>Idle</td>
+  <td>Immediate digital home-zero; no tween or hold-last</td>
+  <td>ASSUMPTION; physical return policy TBD—Lead</td>
+</tr>
+<tr>
+  <td>Watchdog / poll</td>
+  <td>Demo 2-second freshness window; 0.02-second requested UI poll</td>
+  <td>ASSUMPTION software settings, not achieved latency/FPS or safety bars; Lead TBD</td>
+</tr>
+<tr>
+  <td>Transport</td>
+  <td>Loopback-only UDP/JSON <code>head-yaw-v1</code>; sender monotonic time on same machine; ordered single stream</td>
+  <td>ASSUMPTION; no second schema; no network clock synchronization</td>
+</tr>
+<tr>
+  <td>Presence</td>
+  <td>Explicit <code>--sim-present</code> or timeline; default absent</td>
+  <td>ASSUMPTION stub; real thresholds, debounce and wiring TBD—Lead</td>
+</tr>
+<tr>
+  <td>Sync</td>
+  <td>Injected ok/stale/unknown; non-ok blocks effective chase</td>
+  <td>ASSUMPTION for digital replay; physical fusion tolerance TBD—Lead</td>
+</tr>
+<tr>
+  <td>Timing</td>
+  <td>Inherited film encoded at 12 frames/s; acknowledged offline UDP replay</td>
+  <td>Media construction choices, NOT processing rate or latency evidence</td>
+</tr>
+<tr>
+  <td>Source clip</td>
+  <td>Translated public-domain NASA still; no actual person movement</td>
+  <td>Synthetic fixture, not recorded gym/webcam validation</td>
+</tr>
+<tr>
+  <td>USB open</td>
+  <td>DirectShow on Windows + hard timeout (default 5 s); clear CAMERA_OPEN_FAILED</td>
+  <td>Fail-fast software behavior; not a camera quality bar</td>
+</tr>
+</tbody>
+</table>
+<h2>Plain-language glossary</h2>
+<table>
+<thead>
+<tr>
+  <th>Term</th>
+  <th>Everyday meaning</th>
+  <th>Why it matters in this pass</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>live USB path</td>
+  <td>Code that can open a real webcam when one is plugged in.</td>
+  <td>This pass hardens <code>--camera N</code> so a missing device fails clearly instead of hanging.</td>
+</tr>
+<tr>
+  <td>SKIPPED_NO_CAMERA</td>
+  <td>Gym check not run because no camera — not a software failure.</td>
+  <td>CI / packet proof uses the clip fixture and still PASSes.</td>
+</tr>
+<tr>
+  <td>SKIPPED_NO_OPERATOR_APPROVAL</td>
+  <td>Camera opened, but no person attested a one-face gym prior.</td>
+  <td>Device-present is not gym L/R evidence; no invented stills/film.</td>
+</tr>
+<tr>
+  <td>ROI / bbox / centroid</td>
+  <td>Image region / rectangle around a detected face / its center.</td>
+  <td>Horizontal center supplies the yaw cue; no identity is inferred.</td>
+</tr>
+<tr>
+  <td>Head hypothesis</td>
+  <td>A tentative face detection.</td>
+  <td>One-face plus operator spot-check is a demo prior, not qualified sensing.</td>
+</tr>
+<tr>
+  <td>Carrier yaw</td>
+  <td>Shoulders turning around the mast.</td>
+  <td>The filled bag must remain stationary.</td>
+</tr>
+<tr>
+  <td>UDP / replay</td>
+  <td>Local message transport / playing saved inputs again.</td>
+  <td>Actual detector packets drive the receiver; the film is inherited ACCEPTED-A evidence.</td>
+</tr>
+<tr>
+  <td>Presence stub</td>
+  <td>An injected yes/no signal (<code>--sim-present</code> or timeline).</td>
+  <td>This pass has no ToF/PIR/mat hardware.</td>
+</tr>
+<tr>
+  <td>Inhibit latch / watchdog</td>
+  <td>A stop that stays set / a check for missing fresh data.</td>
+  <td>Chase stops on a fault; manual reset and arm are separate local actions.</td>
+</tr>
+<tr>
+  <td>ASSUMPTION / TBD—Lead</td>
+  <td>A working demo choice / a decision still owned by Ola.</td>
+  <td>Demo angles and timeouts are not hardware limits or performance targets.</td>
+</tr>
+<tr>
+  <td>HY-02</td>
+  <td>Open item: real camera chase not yet product-closed.</td>
+  <td>Software path + optional gym qualitative only; not done product.</td>
+</tr>
+<tr>
+  <td>A-05 / A-03</td>
+  <td>Wrist alignment / chamber-group teaching cues.</td>
+  <td>Alignment is audited; accepted U/F/T cues stay preserved.</td>
+</tr>
+<tr>
+  <td>G-03 / G-05</td>
+  <td>Arm-to-bag proxy gap / carrier-to-cover axial gap.</td>
+  <td>Sampled digital geometry does not qualify loaded clearances.</td>
+</tr>
+<tr>
+  <td>B-06 / C-01</td>
+  <td>Unqualified root hardware / missing propulsion and impact measurements.</td>
+  <td>Both remain Critical OPEN regardless of this USB path.</td>
+</tr>
+<tr>
+  <td>Track A / Track D</td>
+  <td>Digital visualization / perception-action engineering.</td>
+  <td>This packet proves clip CI + USB fail-fast, not real-world CV performance.</td>
+</tr>
+</tbody>
+</table>
+<p>What changed / what is still not proven: the same shoulder-follow demo can open a USB camera without hanging, and still proves itself from a file clip when no camera is present. Real-gym chase, physical stops, root structure and punch power remain unproven.</p>
+</main></body></html>

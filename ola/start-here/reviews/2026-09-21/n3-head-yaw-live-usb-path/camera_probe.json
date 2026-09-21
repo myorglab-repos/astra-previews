@@ -1,0 +1,13 @@
+{
+  "status": "PRESENT",
+  "machine": "DESKTOP-P08972I",
+  "opened_index": 0,
+  "attempts": [
+    {
+      "index": 0,
+      "status": "PRESENT",
+      "elapsed_s": 0.469
+    }
+  ],
+  "note": "Device opened. Qualitative one-face gym still requires operator approval."
+}

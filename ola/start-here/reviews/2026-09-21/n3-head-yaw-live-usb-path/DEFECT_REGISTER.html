@@ -1,0 +1,78 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DEFECT REGISTER</title><style>body{margin:0;background:#101c2a;color:#d9e7f2;font:18px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:36px}a{color:#82e6d0}h1{font-size:42px;line-height:1.15}h2{color:#a9d4ef;margin-top:2em}table{border-collapse:collapse;width:100%;font-size:16px}td,th{padding:12px;border:1px solid #3e5365;text-align:left;vertical-align:top}th{background:#243649}pre{overflow:auto;padding:20px;background:#07111c}code{background:#203144;padding:2px 4px}img,video{max-width:100%;border-radius:8px}nav{font-size:15px;display:flex;gap:24px}.notice{padding:18px;border-left:4px solid #f2c277;background:#243143}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}button{padding:10px;margin:5px;background:#274753;color:white;border:1px solid #628a93;border-radius:5px;cursor:pointer}small{color:#9ab3c9}@media(max-width:700px){main{padding:18px}.gallery{display:block}h1{font-size:32px}}</style></head><body><main><nav><a href="INDEX.html">Review index</a><a href="README.html">Run the bridge</a><a href="EXECUTIVE_REVIEW.html">Engineering review</a></nav><h1>B — Defect register</h1>
+<table>
+<thead>
+<tr>
+  <th>ID</th>
+  <th>Severity</th>
+  <th>Observation / interpretation</th>
+  <th>Fix or disposition</th>
+  <th>Files</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>HY-01</td>
+  <td>Integration</td>
+  <td>Camera-head cue had no running N3 carrier adapter</td>
+  <td>CLOSED-A on parent digital pass; protocol reused here</td>
+  <td>capture_head.py; blender_receiver.py</td>
+</tr>
+<tr>
+  <td>HY-02</td>
+  <td>High residual</td>
+  <td>Real-gym chase not product-closed</td>
+  <td><strong>OPEN residual (Lead 2026-09-21).</strong> Software path may PASS; gym qualitative stays OPEN. SKIPPED_NO_CAMERA / SKIPPED_NO_OPERATOR_APPROVAL are not FAIL.</td>
+  <td>camera_probe.json; gym_spotcheck.json; usb_path_verification.json</td>
+</tr>
+<tr>
+  <td>HY-03</td>
+  <td>High residual</td>
+  <td>Gain, sign/calibration, clamp, idle and timeouts not frozen</td>
+  <td>OPEN Lead; null template plus explicitly labeled demo config</td>
+  <td>config_template.json; demo_config.json</td>
+</tr>
+<tr>
+  <td>HY-04</td>
+  <td>Digital fault behavior</td>
+  <td>Missing/invalid/old packets or sticky inhibit could leave chase enabled</td>
+  <td>CLOSED-A (software) on parent; re-exercised by unit + clip integration</td>
+  <td>unit_verification.json; integration_verification.json</td>
+</tr>
+<tr>
+  <td>A-05</td>
+  <td>High baseline</td>
+  <td>Wrist–glove junction drift</td>
+  <td>Inherited sampled alignment PASS</td>
+  <td>model_verification.json</td>
+</tr>
+<tr>
+  <td>A-03</td>
+  <td>High baseline</td>
+  <td>Distinct U/F/T intent</td>
+  <td>Inherited airflow scenes unchanged</td>
+  <td>lineage.json</td>
+</tr>
+<tr>
+  <td>G-03 / G-05</td>
+  <td>High baseline</td>
+  <td>Arm/bag and axial envelope proxies</td>
+  <td>Inherited sampled digital gaps positive; physical loaded gaps OPEN</td>
+  <td>model_verification.json</td>
+</tr>
+<tr>
+  <td>B-06 / C-01</td>
+  <td>Critical</td>
+  <td>Root structure / pneumatic propulsion-contact evidence missing</td>
+  <td><strong>OPEN; not closed by this software pass</strong></td>
+  <td>EXECUTIVE_REVIEW.md</td>
+</tr>
+<tr>
+  <td>SAF-02 / P-05</td>
+  <td>Critical residual</td>
+  <td>Physical stop and limp behavior unqualified</td>
+  <td><strong>OPEN; GUI home-zero is not a hardware stop or vent policy</strong></td>
+  <td>INTERFACE_VULNERABILITIES.md</td>
+</tr>
+</tbody>
+</table>
+</main></body></html>

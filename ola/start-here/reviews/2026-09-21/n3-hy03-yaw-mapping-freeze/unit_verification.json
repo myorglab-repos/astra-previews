@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "pass_id": "n3-hy03-yaw-mapping-freeze",
+  "test_methods": 6,
+  "gate_combinations": 32,
+  "failures": 0,
+  "errors": 0,
+  "label": "Lead Track A freeze \u2014 NOT measured hardware limits / product bars",
+  "freeze_id": "HY-03-LEAD-FROZEN-2026-09-21",
+  "covered": [
+    "sign",
+    "clamp",
+    "idle_home_zero",
+    "watchdog_stale"
+  ],
+  "performance_claim": "NONE"
+}

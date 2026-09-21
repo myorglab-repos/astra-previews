@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "test_methods": 5,
+  "gate_combinations": 32,
+  "failures": 0,
+  "errors": 0
+}
