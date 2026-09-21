@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Live camera → virtual bag twin ICD</title>
+<title>Live camera → virtual bag twin ICD (MVP)</title>
 <style>
 body{margin:0;background:#efede8;color:#252725;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}
 main{max-width:900px;margin:auto;padding:28px 24px}
@@ -22,54 +22,64 @@ pre{background:#faf9f5;padding:14px;overflow:auto;border:1px solid #d4d7cf}
 <body>
 <main>
 <p class="nav"><a href="../../index.html">&larr; Back to START_HERE</a> &middot; <a href="LIVE_CAMERA_VIRTUAL_TWIN_ICD.md">Markdown source</a></p>
-<div class="notice"><strong>INTERFACE PLAN</strong> Not a CV research paper. Specialists own model training. Track A Blender films are not live vision proof. Physical actuation only after safety + C-01 gates.</div>
+<div class="notice"><strong>MVP (Michael)</strong> Head/human camera ROI + near-bag presence sensor. Not full pose / glove CV. No physical arms without presence + safety + C-01.</div>
 <p>﻿# Live camera → virtual bag twin (training / test ICD)</p>
 <p><strong>Owner draft:</strong> Ola  </p>
-<p><strong>Date:</strong> 2026-09-21  </p>
-<p><strong>Status:</strong> INTERFACE PLAN — not a CV research paper; specialists own model training  </p>
-<p><strong>Related:</strong> Track A Blender SoR; C-01 Track B; production-readiness checklist on START_HERE</p>
+<p><strong>Date:</strong> 2026-09-21 (MVP simplified per Michael)  </p>
+<p><strong>Status:</strong> INTERFACE PLAN — MVP is simple; not a SOTA CV research program  </p>
+<p><strong>Related:</strong> Track A Blender SoR; C-01 Track B; START_HERE readiness checklist; proposed CV→twin agent desk</p>
 <h2>Plain language</h2>
-<p>Later we want a <strong>real camera</strong> watching a person (or a physical bag) and driving or labeling the <strong>virtual punching-bag model</strong>, so we can train and test AI models. This note freezes how engineering should plug that in — without pretending the Blender films are real CV today.</p>
+<p><strong>MVP (Michael):</strong> the camera mainly watches a <strong>human / head section</strong>. What we need to *trigger* trainer behavior is basically <strong>body tracking / presence</strong> — pair that with a <strong>sensor that detects a body close to the bag</strong>, and we’re good. Keep it simple. Full skeleton / glove CV can come later.</p>
+<h2>MVP sensing stack (preferred)</h2>
+<table>
+<tr><th>Channel</th><th>What it does</th><th>Why</th></tr>
+<tr><td><strong>Camera — head / human ROI</strong></td><td>Sees the person’s head (and upper body crop) for aim / height / facing cues and for training clips</td><td>Matches product camera placement; bounded problem</td></tr>
+<tr><td><strong>Near-bag body presence sensor</strong></td><td>Detects that someone is in the work envelope next to the bag</td><td>Simple, robust “user present / in range” gate — does not need fancy pose</td></tr>
+<tr><td>Twin adapter</td><td>Maps <code>user_present</code> + head cues → twin overlays / height preset hints / logging</td><td>Ola + controls</td></tr>
+</table>
+<p><strong>MVP trigger logic (intent):</strong>  </p>
+<p><code>user_present</code> (proximity) AND camera sees a valid human/head hypothesis → enable trainer session / twin logging.  </p>
+<p>No presence → idle / safe (no arm play toward empty space).</p>
 <h2>Goals</h2>
-<ol><li><strong>Train</strong> — capture synchronized video + twin state (or human labels) for perception / trainer models.  </li><li><strong>Test</strong> — replay or live-feed camera into the twin; score detection / pose / strike events against acceptance tests.  </li><li><strong>Control (later)</strong> — optional closed loop: perception output commands soft-arm setpoints (only after safety + C-01 gates).</li></ol>
-<h2>Non-goals (now)</h2>
-<ul><li>Freelancing SOTA CV papers or claiming product tracking works.  </li><li>Using Track A prescribed films as proof of real vision.  </li><li>Hitting a user with air-powered arms from unverified perception.</li></ul>
-<h2>Architecture (streams in parallel)</h2>
+<ol><li>1. <strong>Train/test</strong> — record head-ROI video + presence timestamps + twin state for simple models.  </li><li>2. <strong>Live overlay</strong> — camera + presence drive the virtual bag without claiming full athletic CV.  </li><li>3. <strong>Control (later)</strong> — only after safety + C-01; presence remains a hard interlock forever.</li></ol>
+<h2>Non-goals (MVP)</h2>
+<ul><li>Full-body multi-joint pose as a product requirement  </li><li>Glove tracking / punch-type classification as day-one blockers  </li><li>Using Track A scripted films as proof of real vision  </li><li>Actuating soft arms from unverified perception  </li></ul>
+<h2>Architecture</h2>
 <pre><code>
-Camera(s) → Capture PC → Perception service → Event / pose bus → Twin adapter → Blender/digital twin
-                              ↓
-                         Dataset lake (Snowflake / object store) ← labels, sync metadata
+Protected camera (head/human ROI) ──┐
+                                    ├──→ Capture / sync → Twin adapter → Blender twin + logs
+Near-bag presence sensor ───────────┘         ↓
+                                         Dataset (clips + presence flags → Snowflake metadata later)
 </pre>
 <table>
-<tr><th>Block</th><th>Responsibility</th><th>Owner seat</th></tr>
-<tr><td>Cameras / lighting / mounts</td><td>Protected cameras on product; lab rig first</td><td>Mech + CV</td></tr>
-<tr><td>Capture PC</td><td>Time sync, recording, privacy</td><td>Platform / Ibrahim</td></tr>
-<tr><td>Perception service</td><td>Pose, glove, strike events (black box ICD)</td><td><strong>CV specialist hire</strong></td></tr>
-<tr><td>Twin adapter</td><td>Map events → twin DOF / overlays / logging</td><td>Ola + controls</td></tr>
-<tr><td>Dataset</td><td>Versioned clips + labels in warehouse</td><td>Snowflake ingest (Eta/Ibrahim)</td></tr>
-<tr><td>Safety gate</td><td>Inhibit physical actuation unless perception confidence + interlocks OK</td><td>Safety + controls</td></tr>
+<tr><th>Block</th><th>MVP responsibility</th><th>Owner</th></tr>
+<tr><td>Camera mount / cover</td><td>Head-height ROI, protected</td><td>Mech</td></tr>
+<tr><td>Presence sensor</td><td>ToF / PIR / ultrasonic / mat — TBD; fail-safe “absent”</td><td>Mech + controls</td></tr>
+<tr><td>Light perception</td><td>Head/human detect in ROI (confidence + bbox)</td><td>CV→twin agent / specialist</td></tr>
+<tr><td>Twin adapter</td><td><code>user_present</code>, <code>head_bbox</code>, optional facing</td><td>Ola + controls</td></tr>
+<tr><td>Safety</td><td>No physical strike unless presence + safe_to_actuate</td><td>Safety</td></tr>
 </table>
-<h2>Twin adapter ICD (minimum)</h2>
-<p><strong>Inputs (from perception, versioned schema):</strong></p>
-<ul><li><code>t_sync</code> (UTC or PTP)  </li><li><code>user_pose</code> / <code>glove_bbox</code> / <code>strike_hypothesis</code> (type, side, confidence)  </li><li>Optional: depth / skeleton keypoints  </li></ul>
-<p><strong>Outputs (to twin / trainer):</strong></p>
-<ul><li>Overlay markers on twin  </li><li>Commanded height preset ID (short/mid/tall) — <strong>not</strong> inventing pitch hardware ratings  </li><li>Logged episode for dataset  </li></ul>
-<p><strong>Acceptance tests (examples — specialists refine):</strong></p>
-<ul><li>Latency budget TBD measured end-to-end (capture → twin overlay)  </li><li>Sync error &lt; declared ms bound on clapboard / LED flash fixture  </li><li>False-positive strike rate on still scene below threshold  </li><li>No physical arm motion unless <code>safe_to_actuate==true</code></li></ul>
+<h2>Twin adapter ICD (MVP minimum)</h2>
+<p><strong>Inputs:</strong></p>
+<ul><li><code>t_sync</code>  </li><li><code>user_present</code> (bool) — from proximity sensor (authoritative for “someone at the bag”)  </li><li><code>head_hypothesis</code> — bbox + confidence in camera ROI (optional facing later)  </li></ul>
+<p><strong>Outputs:</strong></p>
+<ul><li>Twin overlay (head marker / presence lamp)  </li><li>Session enable / inhibit  </li><li>Logged episode for training  </li></ul>
+<p><strong>Acceptance tests (simple):</strong></p>
+<ul><li>Walk into envelope → <code>user_present</code> true within declared latency  </li><li>Walk away → false; twin goes idle  </li><li>Empty bag, no false presence under normal gym lighting  </li><li>Camera head ROI detects a person when present (spot-check); does not need Olympic pose accuracy  </li></ul>
 <h2>Staging</h2>
 <table>
-<tr><th>Stage</th><th>What we run</th></tr>
-<tr><td>S0</td><td>Dataset + offline train/test on recorded video only</td></tr>
-<tr><td>S1</td><td>Live camera → twin <strong>overlay only</strong> (no arm motion)</td></tr>
-<tr><td>S2</td><td>Live camera → twin + <strong>simulated</strong> continuum commands</td></tr>
-<tr><td>S3</td><td>Live camera → physical soft arms (after C-01, B-06, safety)</td></tr>
+<tr><th>Stage</th><th>Scope</th></tr>
+<tr><td>S0</td><td>Record head-ROI + presence flags offline</td></tr>
+<tr><td>S1</td><td>Live presence + head overlay on twin (no arm motion)</td></tr>
+<tr><td>S2</td><td>Twin commands simulated continuum from simple cues</td></tr>
+<tr><td>S3</td><td>Physical arms — only with presence interlock + C-01 + B-06 + safety</td></tr>
 </table>
-<h2>Hiring implication</h2>
-<p>CV / perception contractor or FTE is a first-wave seat for S0–S1. Courtland shortlists only after Michael + Stephen approve spend. Eta/Art advising platforms.</p>
+<h2>Agent desk implication</h2>
+<p>CV→twin agent focuses on <strong>head ROI + presence fusion</strong>, not a research pose stack. Human CV hire still Stephen-gated; bot desk can paper the ICD and twin hooks now.</p>
 <h2>Snowflake</h2>
-<p>Use warehouse for <strong>versioned training artifacts metadata</strong> (paths, hashes, label schemas) — not as a substitute for video object storage. Ingest procedures stay with Eta/Platform write MCP; Ola consumes via <code>search_documents</code> / linked SoR paths.</p>
+<p>Later: metadata for clips + <code>user_present</code> timelines — not inventing a corpus today.</p>
 <h2>Track A demarcation</h2>
-<p>Prescribed Blender punches remain teaching aids. Live-camera work is a <strong>separate stream</strong> with its own READY packets and never closes C-01 by itself.</p>
+<p>Prescribed Blender punches remain teaching aids. Presence + head camera is the <strong>first real sensing path</strong>.</p>
 </main>
 </body>
 </html>
