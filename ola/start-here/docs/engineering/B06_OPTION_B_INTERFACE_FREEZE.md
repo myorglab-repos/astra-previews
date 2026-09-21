@@ -15,7 +15,7 @@ For the first hardware path we freeze **manual pinned height presets** (short / 
 | Height set | Discrete **short / mid / tall** (Track A teaching angles are drawing aids, not hardware ratings) |
 | Soft termination | Textile eye / harness into **recessed boot**; last exposed distal metal forbidden |
 | Services through pitch | MVP **flex hose loop** (finite yaw); rotary union only if continuous spin later |
-| Lock bit (controls) | Pin/flag engaged → `pitch_locked` for S3 strike inhibit (see CONTROLS_INHIBIT ICD) |
+| Lock bit (controls) | Pin/flag engaged → `pitch_lock_engaged` for S3 strike inhibit (see CONTROLS_INHIBIT ICD) |
 | Stand-off | **Option A** reach policy — no continuum lengthening |
 
 ## Interface stack (outboard)

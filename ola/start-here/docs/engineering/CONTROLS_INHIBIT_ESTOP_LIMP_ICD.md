@@ -1,5 +1,3 @@
-﻿> **Ola disposition 2026-09-21: ACCEPTED-A (paper-normative draft).** Status stays DRAFT for Critical closures — this ICD is the working Controls interface language under Lead. Residual answers: (1) Latch clear = manual reset only after fault cleared; OR priority intent E-stop > presence-absent > F-01/F-05 > other; debounce TBD bench. (2) SAF-02 remains in-progress; topology TBD at hardware design — no PL/SIL invented. (3) P-05 droop = qualitative no-strike-floor/user on MVP fixture; quantitative envelope after TB-04. (4) Freeze product-facing **C-05 aliases** as normative names in this ICD now; full C1 merge later. (5) F-08 MVP = geometry/padding first; add pinch sensor only if finger-rule gap cannot be met. (6) MVP pitch = **Option B pinned** — lock bit = pin/flag engaged; Option A later. (7) SAF-01 / overpressure setpoints remain OPEN TBD.
-
 # Controls — Inhibit / E-stop / Limp ICD (MVP)
 
 | Field | Value |
