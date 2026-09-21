@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>B-06 — Root / pitch hardware sketch</title>
+<style>
+body{margin:0;background:#efede8;color:#252725;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:900px;margin:auto;padding:28px 24px}
+a{color:#9b2630}
+h1{font-size:28px;line-height:1.2}
+h2{font-size:20px;margin-top:28px}
+table{width:100%;border-collapse:collapse;background:#faf9f5;font-size:14px;margin:12px 0}
+th,td{padding:10px;border-bottom:1px solid #d4d7cf;text-align:left;vertical-align:top}
+th{background:#e3e6de}
+.notice{padding:14px 16px;background:#fff8e9;border-left:4px solid #ad782b;margin:16px 0}
+.nav{font-size:13px;margin-bottom:18px}
+code{font:12px/1.5 ui-monospace,Consolas,monospace}
+</style>
+</head>
+<body>
+<main>
+<p class="nav"><a href="../../index.html">&larr; Back to START_HERE</a> &middot; <a href="B06_ROOT_PITCH_HARDWARE_SKETCH.md">Markdown source</a></p>
+<div class="notice"><strong>CONCEPT SKETCH</strong> Not fab release. Critical B-06 remains OPEN. No invented N&middot;m / MPa ratings. Pitch/height pedagogy films (<code>n3-b06-pitch-height-pedagogy</code>) are queued separately and are not READY.</div>
+<h1>B-06 — Protected root / shoulder pitch / hub load-path sketch</h1>
+<p><strong>Owner draft:</strong> Ola</p>
+<p><strong>Date:</strong> 2026-09-19</p>
+<p><strong>Status:</strong> CONCEPT SKETCH — not fab release; Critical B-06 remains OPEN until designed + analyzed</p>
+<p><strong>Related:</strong> Stage 0 amendment (carrier yaw + shoulder pitch); Track A visualizes pitch as protected-root attitude</p>
+<h2>Plain language</h2>
+<p>The soft arms tip up and down for tall/short fighters by rotating at the shoulder root — still behind padding, not as exposed metal in the arm. This note sketches what that root must eventually be as hardware.</p>
+<h2>Degrees of freedom (protected)</h2>
+<table><thead><tr><th>DOF</th><th>Function</th><th>Notes</th></tr></thead><tbody>
+<tr><td>Yaw</td><td>Face opponent</td><td>Existing rotating shoulder carrier about mast</td></tr>
+<tr><td>Pitch</td><td>Height preset</td><td>Vertical aim of outbound arm axis; Michael: &quot;vertical angle of shoulder outbound&quot;</td></tr>
+<tr><td>Distal continuum</td><td>Punch shape + extension</td><td>Soft; no exposed distal metal</td></tr>
+</tbody></table>
+<h2>Proposed mechanical concept (to detail in CAD later)</h2>
+<p>1. <strong>Fixed hub</strong> on mast — axial retention per bearing practice (shoulders/retainers, not slip-fit only).</p>
+<p>2. <strong>Yaw rotor</strong> — existing cartridge intent (sleeve, saddles, yoke); serviceable flange to arm.</p>
+<p>3. <strong>Pitch stage</strong> between rotor and soft-arm termination — limited range (Track A used review caps ~0..57 deg illustrative; <strong>hardware range TBD</strong>, not that number as rating). Options:</p>
+<p>   - A: Actuated pitch (motor/gear or pneumatic rotary) with hard stops + position sense</p>
+<p>   - B: Manual preset plates / pinned angles for MVP, upgrade to A later</p>
+<p>4. <strong>Soft-arm termination</strong> — textile eye / harness into recessed boot; metal ends here.</p>
+<p>5. <strong>Services</strong> — pneumatic branches + optional electrical through pitch joint (rotary union / flex loop TBD).</p>
+<h2>Load path (intent)</h2>
+<p>Glove → soft wrist → continuum textiles/bladders → shoulder retention → pitch stage → yaw rotor → bearings → hub → mast → base → anchors → slab.</p>
+<p>Bag body impacts are a <strong>separate</strong> path through fill/liners — do not assign bag hits solely to the arm chain.</p>
+<h2>Failure modes to feed DFMEA (no fake RPN)</h2>
+<ul><li>Pitch stage unlock / free fall under glove mass</li><li>Bearing axial walk-out</li><li>Soft termination peel under repeated punches</li><li>Hose pinch at pitch hinge</li><li>Loss of yaw encoder → mis-aimed strike (control ICD)</li></ul>
+<h2>Track A vs hardware</h2>
+<p>Track A pitch keys are <strong>attitude storytelling</strong>. They do not size shafts, welds, or motors. B-06 closure needs: envelope drawing, BOM candidates, static/fatigue load cases, and prototype fixture plan — then Stephen for any spend.</p>
+<h2>Immediate paper next (no spend)</h2>
+<ul><li>One-page interface drawing: mast / hub / yaw / pitch / textile eye</li><li>Decide MVP: pinned presets (B) vs actuated (A)</li><li>List open dimensions: bearing ID/OD, pitch travel, boot keep-out</li></ul>
+<h2>Non-claims</h2>
+<p>No rated loads, no cycle life, no supplier selection.</p>
+</main>
+</body>
+</html>

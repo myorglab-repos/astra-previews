@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Soft pneumatic boxing trainer &middot; Feasibility front door &middot; 19 Sep 2026</title>
+<title>Soft pneumatic boxing trainer &middot; Feasibility front door &middot; 21 Sep 2026</title>
 <style>
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -26,6 +26,7 @@ h3{font-size:18px;margin:22px 0 10px}
 p,li{max-width:100ch}
 .notice{padding:16px 18px;background:#fff8e9;border-left:4px solid #ad782b;margin:16px 0}
 .notice.critical{background:#f9e9e7;border-left-color:#a63035}
+.notice.queued{background:#eef4fa;border-left-color:#2f5f8a}
 .notice strong{display:block;margin-bottom:4px}
 .tablewrap{overflow:auto;margin:16px 0}
 table{width:100%;border-collapse:collapse;background:#faf9f5;font-size:14px}
@@ -60,7 +61,7 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
 <header>
   <div class="eyebrow">Soft pneumatic boxing trainer &middot; Feasibility front door</div>
   <h1>Everyday review home</h1>
-  <p>Sole everyday front door for Michael. Current baseline = <strong>n3-standoff-pitch-policy</strong> (RH-01) + <strong>n3-af01b-exposed-arm-swell-2</strong> (AF-01b) + <strong>n3-rh02-partial-extension</strong> (RH-02). Date: <strong>20 Sep 2026</strong>.</p>
+  <p>Sole everyday front door for Michael. Current baseline = <strong>n3-standoff-pitch-policy</strong> (RH-01) + <strong>n3-af01b-exposed-arm-swell-2</strong> (AF-01b) + <strong>n3-rh02-partial-extension</strong> (RH-02). Date: <strong>21 Sep 2026</strong>. In flight: <strong>n3-b06-pitch-height-pedagogy</strong> films queued (not READY).</p>
   <div class="toplinks">
     <a href="reviews/2026-09-19/n3-standoff-pitch-policy/INDEX.html">Standoff INDEX</a>
     <a href="reviews/2026-09-19/n3-standoff-pitch-policy/REACH_POLICY.html">REACH_POLICY</a>
@@ -69,6 +70,7 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
     <a href="reviews/2026-09-19/n3-af01b-exposed-arm-swell-2/INDEX.html">AF-01b-2 INDEX</a>
     <a href="reviews/2026-09-19/n3-af01b-exposed-arm-swell-2/media/exposed_blind_review.mp4">Exposed blind film</a>
     <a href="START_HERE_N1_PRODUCT_DOSSIER.html">N1 dossier archive</a>
+    <a href="docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.html">B-06 sketch</a>
   </div>
 </header>
 
@@ -92,6 +94,10 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
   <div class="notice critical">
     <strong>Track A &ne; strike impulse</strong>
     This page is digital-twin / visualization V&amp;V only. No invented force, pressure, impulse, joule, MPa, or cycle-life numbers. Prescribed motion and illustrative air cues are not measured propulsion or contact qualification.
+  </div>
+  <div class="notice queued">
+    <strong>Pitch / height pedagogy films &mdash; QUEUED (not READY)</strong>
+    Pass <code>n3-b06-pitch-height-pedagogy</code> is in flight via Astra/Codex. Films are <strong>queued / in progress</strong> &mdash; do not treat this page as film-READY for that pass. Paper sketch remains open: <a href="docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.html">B-06 root / pitch hardware sketch</a> (<a href="docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.md">.md</a>).
   </div>
 </section>
 
@@ -230,7 +236,7 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
 
 <section id="status">
   <h2>05 &mdash; Status table</h2>
-  <p class="small">Disposition for Michael's everyday home. NEXT_PROMPT is <code>awaiting_michael</code> (RH-02 closed; pick Track B / B-06 / RH-03).</p>
+  <p class="small">Disposition for Michael's everyday home. RH-02 CLOSED-A. Pitch/height pedagogy pass <code>n3-b06-pitch-height-pedagogy</code> is <strong>queued</strong> (films not READY). Critical B-06 hardware remains OPEN.</p>
   <div class="tablewrap">
   <table>
     <thead><tr><th>ID</th><th>Status</th><th>Plain meaning</th></tr></thead>
@@ -252,8 +258,13 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
       </tr>
       <tr>
         <td><strong>RH-02</strong></td>
+        <td><span class="status closed">CLOSED-A</span></td>
+        <td>Partial-stroke aim sheets accepted for Track A (scoped). 50% head capability remains unavailable.</td>
+      </tr>
+      <tr>
+        <td><strong>n3-b06-pitch-height-pedagogy</strong></td>
         <td><span class="status open">queued</span></td>
-        <td>Partial-stroke aim residual — live NEXT_PROMPT <code>n3-rh02-partial-extension</code>.</td>
+        <td>Pitch / height pedagogy films kicked via Astra/Codex &mdash; <strong>in progress, not READY</strong>. Does not close Critical B-06 hardware.</td>
       </tr>
       <tr>
         <td><strong>C-01</strong></td>
@@ -341,7 +352,7 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
 </section>
 
 <footer>
-  Soft pneumatic boxing trainer &middot; Feasibility front door &middot; 19 Sep 2026 &middot; Track A does not prove strike impulse.
+  Soft pneumatic boxing trainer &middot; Feasibility front door &middot; 21 Sep 2026 &middot; Track A does not prove strike impulse.
 </footer>
 
 <section id="paper-plans">
@@ -350,7 +361,7 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
 <p>Docs-only plans on disk (no lab spend yet):</p>
 <ul>
 <li><a href="docs/engineering/TRACK_B_SYSTEM_ID_PLAN.md">Track B System ID plan</a></li>
-<li><a href="docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.md">B-06 root / pitch hardware sketch</a></li>
+<li><a href="docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.html">B-06 root / pitch hardware sketch</a> (<a href="docs/engineering/B06_ROOT_PITCH_HARDWARE_SKETCH.md">.md</a>)</li>
 <li><a href="docs/engineering/RH02_PARTIAL_EXTENSION_STAGED.md">RH-02 partial-extension (CLOSED-A)</a></li>
 </ul>
 </section>
