@@ -19,7 +19,7 @@ This folder reuses the accepted `head-yaw-v1` bridge. **Digital twin only.** Pyt
 
 ## Watch or inspect
 
-Open [review index](INDEX.html) or the inherited [film](media/head_yaw_review.mp4). Open `Punching_Bag_N3_Head_Track_Yaw.blend` in Blender 3.6.5 and select `N3_HEAD_TRACK_YAW_BRIDGE`. The saved animation is the ACCEPTED-A replay; it does not run a detector on opening.
+Open [review index](INDEX.html) or the inherited [film](media/head_yaw_review_black_collars.mp4). Open `Punching_Bag_N3_Head_Track_Yaw.blend` in Blender 3.6.5 and select `N3_HEAD_TRACK_YAW_BRIDGE`. The saved animation is the ACCEPTED-A replay; it does not run a detector on opening.
 
 ## Start the interactive receiver
 

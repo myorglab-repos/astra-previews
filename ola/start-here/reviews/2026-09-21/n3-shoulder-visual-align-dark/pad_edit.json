@@ -1,0 +1,140 @@
+{
+  "pitch": [
+    {
+      "name": "PEDAGOGY_L_CONCEPT_PADDED_ROOT",
+      "before": {
+        "scale": [
+          0.125,
+          0.18000000715255737,
+          0.15000000596046448
+        ],
+        "dims": [
+          0.24999991059303284,
+          0.35999998450279236,
+          0.30000001192092896
+        ],
+        "mat": "PEDAGOGY_CONCEPT_SOFT_BOOT"
+      },
+      "measured": {
+        "radius": 0.062,
+        "y_med": 0.04,
+        "samples": 0,
+        "side": "PEDAGOGY_L_CONCEPT_PADDED_ROOT",
+        "fallback": true
+      },
+      "outer_m": 0.076,
+      "shift_y": -0.005,
+      "after_dims": [
+        0.152,
+        0.11,
+        0.152
+      ]
+    },
+    {
+      "name": "PEDAGOGY_R_CONCEPT_PADDED_ROOT",
+      "before": {
+        "scale": [
+          0.125,
+          0.18000000715255737,
+          0.15000000596046448
+        ],
+        "dims": [
+          0.24999991059303284,
+          0.35999998450279236,
+          0.30000001192092896
+        ],
+        "mat": "PEDAGOGY_CONCEPT_SOFT_BOOT"
+      },
+      "measured": {
+        "radius": 0.062,
+        "y_med": 0.04,
+        "samples": 0,
+        "side": "PEDAGOGY_R_CONCEPT_PADDED_ROOT",
+        "fallback": true
+      },
+      "outer_m": 0.076,
+      "shift_y": -0.005,
+      "after_dims": [
+        0.152,
+        0.11,
+        0.152
+      ]
+    }
+  ],
+  "yaw": [
+    {
+      "name": "PEDAGOGY_L_CONCEPT_PADDED_ROOT.001",
+      "before": {
+        "scale": [
+          0.125,
+          0.18000000715255737,
+          0.15000000596046448
+        ],
+        "dims": [
+          0.24999991059303284,
+          0.35999998450279236,
+          0.30000001192092896
+        ],
+        "mat": "PEDAGOGY_CONCEPT_SOFT_BOOT.001"
+      },
+      "measured": {
+        "radius": 0.062,
+        "y_med": 0.04,
+        "samples": 0,
+        "side": "PEDAGOGY_L_CONCEPT_PADDED_ROOT.001",
+        "fallback": true
+      },
+      "outer_m": 0.076,
+      "shift_y": -0.005,
+      "after_dims": [
+        0.152,
+        0.11,
+        0.152
+      ]
+    },
+    {
+      "name": "PEDAGOGY_R_CONCEPT_PADDED_ROOT.001",
+      "before": {
+        "scale": [
+          0.125,
+          0.18000000715255737,
+          0.15000000596046448
+        ],
+        "dims": [
+          0.24999991059303284,
+          0.35999998450279236,
+          0.30000001192092896
+        ],
+        "mat": "PEDAGOGY_CONCEPT_SOFT_BOOT.002"
+      },
+      "measured": {
+        "radius": 0.062,
+        "y_med": 0.04,
+        "samples": 0,
+        "side": "PEDAGOGY_R_CONCEPT_PADDED_ROOT.001",
+        "fallback": true
+      },
+      "outer_m": 0.076,
+      "shift_y": -0.005,
+      "after_dims": [
+        0.152,
+        0.11,
+        0.152
+      ]
+    }
+  ],
+  "color": {
+    "assumption": "Pad mesh uses existing I1_bag_black, unmodified.",
+    "workbench_diffuse_rgb": [
+      0.014,
+      0.016,
+      0.018
+    ],
+    "principled_base_rgb": [
+      0.006,
+      0.007,
+      0.008
+    ],
+    "cover": "Thin collar: measured foam-sleeve radius + 0.014 m, 0.090 m long, 0.010 m edge round. Replaces the 0.25 x 0.36 x 0.30 m teaching sphere."
+  }
+}
