@@ -1,0 +1,122 @@
+{
+  "pass_id": "n3-viz-pack-rh02-dfmea-readiness-hy02",
+  "fps_note": "12 fps authored review clock. Not a measured camera, detector, or machine rate.",
+  "criticals": "B-06, C-01, SAF-02, P-05 stay OPEN. HY-02 stays OPEN. No spend. No PO.",
+  "films": {
+    "A_rh02": {
+      "path": "reviews/2026-09-21/n3-viz-pack-rh02-dfmea-readiness-hy02/media/rh02_partial_extension_staging_review.mp4",
+      "decoded_frames": 162,
+      "encoded_fps": "12/1",
+      "duration_s": "13.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "rh02_title.png",
+        "rh02_stages.png",
+        "rh02_half.png",
+        "rh02_seventy.png",
+        "rh02_stills.png"
+      ],
+      "label": "ASSUMPTION teaching of RH-02 policy. Not measured reach. Does not close Criticals."
+    },
+    "B_dfmea": {
+      "path": "reviews/2026-09-21/n3-viz-pack-rh02-dfmea-readiness-hy02/media/b06_option_b_dfmea_storyboard_review.mp4",
+      "decoded_frames": 174,
+      "encoded_fps": "12/1",
+      "duration_s": "14.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "dfmea_title.png",
+        "dfmea_pinch.png",
+        "dfmea_chafe.png",
+        "dfmea_lock.png",
+        "dfmea_boot.png",
+        "dfmea_open.png"
+      ],
+      "label": "DFMEA teaching cards. No RPN. B-06 stays Critical OPEN."
+    },
+    "C_stage_gate": {
+      "path": "reviews/2026-09-21/n3-viz-pack-rh02-dfmea-readiness-hy02/media/stage_gate_readiness_review.mp4",
+      "decoded_frames": 180,
+      "encoded_fps": "12/1",
+      "duration_s": "15.000000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "gate_title.png",
+        "gate_five.png",
+        "gate_feasibility.png",
+        "gate_prototype_ev.png",
+        "gate_prod_pilot.png",
+        "gate_split.png"
+      ],
+      "label": "Readiness illustration. CLOSED-A digital vs Critical OPEN. Not a release."
+    },
+    "D_stephen": {
+      "path": "reviews/2026-09-21/n3-viz-pack-rh02-dfmea-readiness-hy02/media/stephen_vs_digital_open_items_review.mp4",
+      "decoded_frames": 126,
+      "encoded_fps": "12/1",
+      "duration_s": "10.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "stephen_title.png",
+        "stephen_board.png",
+        "stephen_wait.png",
+        "stephen_criticals.png"
+      ],
+      "label": "Stephen vs digital board. No PO. C-01 and B-06 stay OPEN."
+    },
+    "E_hy02": {
+      "path": "reviews/2026-09-21/n3-viz-pack-rh02-dfmea-readiness-hy02/media/hy02_office_usb_lr_checklist_review.mp4",
+      "decoded_frames": 156,
+      "encoded_fps": "12/1",
+      "duration_s": "13.000000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "hy02_title.png",
+        "hy02_steps_1.png",
+        "hy02_steps_2.png",
+        "hy02_skipped.png",
+        "hy02_tokens.png"
+      ],
+      "label": "HY-02 checklist film. SKIPPED_NO_OPERATOR_APPROVAL. No invented L/R."
+    },
+    "F_icd": {
+      "path": "reviews/2026-09-21/n3-viz-pack-rh02-dfmea-readiness-hy02/media/live_camera_twin_icd_review.mp4",
+      "decoded_frames": 150,
+      "encoded_fps": "12/1",
+      "duration_s": "12.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "icd_title.png",
+        "icd_flow.png",
+        "icd_session.png",
+        "icd_freeze.png",
+        "icd_stages.png"
+      ],
+      "label": "ICD illustration. ASSUMPTION. Not accuracy. Not System ID. S3 not authorized."
+    }
+  }
+}
