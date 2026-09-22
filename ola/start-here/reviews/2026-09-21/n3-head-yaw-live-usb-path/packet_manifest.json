@@ -218,8 +218,13 @@
     },
     {
       "path": "media/head_yaw_review.mp4",
-      "bytes": 358366,
-      "sha256": "57349c825c6d7fc56d49a24b3d51eca5885b02ca64f8699e573ba6a4ff260aec"
+      "bytes": 365446,
+      "sha256": "9eb85a5b5f809f1fd574943dd965d408841c9f5175b48f9d0b7ab12e571df874"
+    },
+    {
+      "path": "media/head_yaw_review_black_collars.mp4",
+      "bytes": 365446,
+      "sha256": "9eb85a5b5f809f1fd574943dd965d408841c9f5175b48f9d0b7ab12e571df874"
     },
     {
       "path": "media/inhibit.png",
