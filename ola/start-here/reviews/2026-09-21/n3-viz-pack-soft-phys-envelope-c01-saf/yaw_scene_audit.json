@@ -1,0 +1,43 @@
+{
+  "scene": "N3_HEAD_TRACK_YAW_BRIDGE",
+  "engine": "BLENDER_WORKBENCH",
+  "resolution": [
+    790,
+    650
+  ],
+  "frame_start": 1,
+  "frame_end": 144,
+  "I1_bag_black_diffuse_rgb": [
+    0.014,
+    0.016,
+    0.018
+  ],
+  "pads": [
+    {
+      "name": "PEDAGOGY_L_CONCEPT_PADDED_ROOT.001",
+      "materials": [
+        "I1_bag_black"
+      ],
+      "uses_I1_bag_black": true,
+      "dimensions_m_ASSUMPTION_visual": [
+        0.152,
+        0.11,
+        0.152
+      ]
+    },
+    {
+      "name": "PEDAGOGY_R_CONCEPT_PADDED_ROOT.001",
+      "materials": [
+        "I1_bag_black"
+      ],
+      "uses_I1_bag_black": true,
+      "dimensions_m_ASSUMPTION_visual": [
+        0.152,
+        0.11,
+        0.152
+      ]
+    }
+  ],
+  "soft_boot_mesh_names": [],
+  "note": "Dimensions are the twin silhouette. Not a measured section. Not hardware."
+}

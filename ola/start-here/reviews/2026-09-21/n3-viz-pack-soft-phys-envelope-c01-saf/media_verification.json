@@ -1,0 +1,94 @@
+{
+  "saf": {
+    "path": "reviews/2026-09-21/n3-viz-pack-soft-phys-envelope-c01-saf/media/saf02_presence_inhibit_hil_review.mp4",
+    "decoded_frames": 108,
+    "encoded_fps": "12/1",
+    "duration_s": "9.000000",
+    "resolution": [
+      1500,
+      900
+    ],
+    "fps_note": "Authored review rate only. Not a measured camera, detector, or machine rate.",
+    "stills": [
+      "saf_equation.png",
+      "saf_happy.png",
+      "saf_absent.png",
+      "saf_fault.png",
+      "saf_limp.png",
+      "saf_reset.png"
+    ],
+    "label": "Illustration only. SIMULATED_BOOL_NOT_HARDWARE. SAF-02 and P-05 stay OPEN."
+  },
+  "cue": {
+    "path": "reviews/2026-09-21/n3-viz-pack-soft-phys-envelope-c01-saf/media/soft_phys_cues_review.mp4",
+    "decoded_frames": 126,
+    "encoded_fps": "12/1",
+    "duration_s": "10.500000",
+    "resolution": [
+      1500,
+      900
+    ],
+    "fps_note": "Authored review rate only. Not a measured camera, detector, or machine rate.",
+    "stills": [
+      "cue_rest.png",
+      "cue_swell.png",
+      "cue_bend.png",
+      "cue_twist.png",
+      "cue_return.png",
+      "cue_contact_sheet.png"
+    ],
+    "label": "ASSUMPTION / DESIGN ESTIMATE / HYPOTHESIS. Not measured pressure, strain, force, or cycle life."
+  },
+  "yaw": {
+    "path": "reviews/2026-09-21/n3-viz-pack-soft-phys-envelope-c01-saf/media/head_yaw_review_slim_root.mp4",
+    "decoded_frames": 144,
+    "encoded_fps": "12/1",
+    "duration_s": "12.000000",
+    "resolution": [
+      1500,
+      900
+    ],
+    "fps_note": "Authored review rate only. Not a measured camera, detector, or machine rate.",
+    "yaw_packet_copy": "reviews/2026-09-21/n3-head-yaw-live-usb-path/media/head_yaw_review_slim_root.mp4",
+    "bright_cyan_pixels_frames_30_and_68": {
+      "30": 0,
+      "68": 0
+    },
+    "cyan_rule": "G>180, B>180, R<100, G+B-2R>200 on the twin render, not the composite.",
+    "label": "ASSUMPTION visual. I1_bag_black. Cyan pads retired. Not a measured section."
+  },
+  "b06": {
+    "path": "reviews/2026-09-21/n3-viz-pack-soft-phys-envelope-c01-saf/media/b06_envelope_keepout_review.mp4",
+    "decoded_frames": 96,
+    "encoded_fps": "12/1",
+    "duration_s": "8.000000",
+    "resolution": [
+      1500,
+      900
+    ],
+    "fps_note": "Authored review rate only. Not a measured camera, detector, or machine rate.",
+    "stills": [
+      "b06_stack.png",
+      "b06_pitch_lock.png",
+      "b06_flex_loops.png",
+      "b06_pinch.png"
+    ]
+  },
+  "c01": {
+    "path": "reviews/2026-09-21/n3-viz-pack-soft-phys-envelope-c01-saf/media/c01_coupon_geometry_review.mp4",
+    "decoded_frames": 96,
+    "encoded_fps": "12/1",
+    "duration_s": "8.000000",
+    "resolution": [
+      1500,
+      900
+    ],
+    "fps_note": "Authored review rate only. Not a measured camera, detector, or machine rate.",
+    "stills": [
+      "c01_tb01.png",
+      "c01_tb02u.png",
+      "c01_tb02f.png",
+      "c01_later.png"
+    ]
+  }
+}
