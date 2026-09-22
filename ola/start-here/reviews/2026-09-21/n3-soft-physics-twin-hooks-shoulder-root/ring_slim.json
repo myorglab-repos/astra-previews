@@ -1,0 +1,117 @@
+{
+  "assumption": "Left root tube cross-section scaled toward the thin collar. Centerline kept. ASSUMPTION, not a measured diameter.",
+  "active_rings": 43,
+  "factor_root": 0.52,
+  "objects": [
+    {
+      "name": "N1_WHOLE__M1_L_U1__sealed_flexible_bladder.005",
+      "n1": "M1_L_U1__sealed_flexible_bladder",
+      "writes": 1489
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U1__programmed_knit_sleeve.005",
+      "n1": "M1_L_U1__programmed_knit_sleeve",
+      "writes": 1487
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U1__integral_soft_pigtail.005",
+      "n1": "M1_L_U1__integral_soft_pigtail",
+      "writes": 120
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__sealed_flexible_bladder.005",
+      "n1": "M1_L_U2__sealed_flexible_bladder",
+      "writes": 1592
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__programmed_knit_sleeve.005",
+      "n1": "M1_L_U2__programmed_knit_sleeve",
+      "writes": 1592
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__integral_soft_pigtail.005",
+      "n1": "M1_L_U2__integral_soft_pigtail",
+      "writes": 120
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__sealed_flexible_bladder.005",
+      "n1": "M1_L_U3__sealed_flexible_bladder",
+      "writes": 1775
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__programmed_knit_sleeve.005",
+      "n1": "M1_L_U3__programmed_knit_sleeve",
+      "writes": 1773
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__integral_soft_pigtail.005",
+      "n1": "M1_L_U3__integral_soft_pigtail",
+      "writes": 115
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__proximal_textile_saddle.005",
+      "n1": "M1_L_U__proximal_textile_saddle",
+      "writes": 2160
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__distal_textile_saddle.005",
+      "n1": "M1_L_U__distal_textile_saddle",
+      "writes": 35
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__elastic_return_1.005",
+      "n1": "M1_L_U__elastic_return_1",
+      "writes": 379
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__elastic_return_2.005",
+      "n1": "M1_L_U__elastic_return_2",
+      "writes": 422
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__foam_and_contact_sleeve.005",
+      "n1": "M1_L_U__foam_and_contact_sleeve",
+      "writes": 4572
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__red_cover_seam_-1.005",
+      "n1": "M1_L_U__red_cover_seam_-1",
+      "writes": 661
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__red_cover_seam_1.005",
+      "n1": "M1_L_U__red_cover_seam_1",
+      "writes": 566
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F1__integral_soft_pigtail.005",
+      "n1": "M1_L_F1__integral_soft_pigtail",
+      "writes": 319
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F2__integral_soft_pigtail.005",
+      "n1": "M1_L_F2__integral_soft_pigtail",
+      "writes": 329
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F3__integral_soft_pigtail.005",
+      "n1": "M1_L_F3__integral_soft_pigtail",
+      "writes": 332
+    },
+    {
+      "name": "N1_WHOLE__M1_L__continuous_retention_webbing.005",
+      "n1": "M1_L__continuous_retention_webbing",
+      "writes": 925
+    },
+    {
+      "name": "N1_WHOLE__M1_L_T1__integral_soft_feed.005",
+      "n1": "M1_L_T1__integral_soft_feed",
+      "writes": 288
+    },
+    {
+      "name": "N1_WHOLE__M1_L_T2__integral_soft_feed.005",
+      "n1": "M1_L_T2__integral_soft_feed",
+      "writes": 309
+    }
+  ]
+}

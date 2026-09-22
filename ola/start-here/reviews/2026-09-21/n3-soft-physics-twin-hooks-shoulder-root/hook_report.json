@@ -1,0 +1,221 @@
+{
+  "assumption": "ASSUMPTION / DESIGN ESTIMATE. Twin cue is not System ID. Not measured pressure, strain, force, or cycle life. Recalibrate at TB-01..04. B-06 and C-01 stay OPEN.",
+  "bag_before": {
+    "diffuse": [
+      0.014,
+      0.016,
+      0.018
+    ],
+    "pads": [
+      {
+        "name": "PEDAGOGY_L_CONCEPT_PADDED_ROOT.001",
+        "mat": "I1_bag_black",
+        "same": true,
+        "dims": [
+          0.152,
+          0.11,
+          0.152
+        ]
+      },
+      {
+        "name": "PEDAGOGY_R_CONCEPT_PADDED_ROOT.001",
+        "mat": "I1_bag_black",
+        "same": true,
+        "dims": [
+          0.152,
+          0.11,
+          0.152
+        ]
+      }
+    ],
+    "soft_boot_users": []
+  },
+  "root_chord_before": {
+    "30_L": {
+      "median": 46,
+      "max": 48,
+      "n": 91
+    },
+    "30_R": {
+      "median": 83,
+      "max": 85,
+      "n": 95
+    },
+    "68_L": {
+      "median": 80,
+      "max": 82,
+      "n": 95
+    },
+    "68_R": {
+      "median": 42,
+      "max": 44,
+      "n": 91
+    }
+  },
+  "slim": [
+    {
+      "name": "N1_WHOLE__M1_L_U1__sealed_flexible_bladder.005",
+      "n1": "M1_L_U1__sealed_flexible_bladder",
+      "verts_written": 1488,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U1__programmed_knit_sleeve.005",
+      "n1": "M1_L_U1__programmed_knit_sleeve",
+      "verts_written": 1478,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__sealed_flexible_bladder.005",
+      "n1": "M1_L_U2__sealed_flexible_bladder",
+      "verts_written": 1575,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__programmed_knit_sleeve.005",
+      "n1": "M1_L_U2__programmed_knit_sleeve",
+      "verts_written": 1607,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__sealed_flexible_bladder.005",
+      "n1": "M1_L_U3__sealed_flexible_bladder",
+      "verts_written": 1598,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__programmed_knit_sleeve.005",
+      "n1": "M1_L_U3__programmed_knit_sleeve",
+      "verts_written": 1608,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__proximal_textile_saddle.005",
+      "n1": "M1_L_U__proximal_textile_saddle",
+      "verts_written": 2158,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__elastic_return_1.005",
+      "n1": "M1_L_U__elastic_return_1",
+      "verts_written": 97,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__elastic_return_2.005",
+      "n1": "M1_L_U__elastic_return_2",
+      "verts_written": 105,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__foam_and_contact_sleeve.005",
+      "n1": "M1_L_U__foam_and_contact_sleeve",
+      "verts_written": 4914,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__red_cover_seam_-1.005",
+      "n1": "M1_L_U__red_cover_seam_-1",
+      "verts_written": 252,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__red_cover_seam_1.005",
+      "n1": "M1_L_U__red_cover_seam_1",
+      "verts_written": 204,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__continuous_retention_webbing.005",
+      "n1": "M1_L__continuous_retention_webbing",
+      "verts_written": 630,
+      "users": 1
+    }
+  ],
+  "hooks": [
+    "L-F1",
+    "L-F2",
+    "L-F3",
+    "L-T1",
+    "L-T2",
+    "L-U1",
+    "L-U2",
+    "L-U3",
+    "R-F1",
+    "R-F2",
+    "R-F3",
+    "R-T1",
+    "R-T2",
+    "R-U1",
+    "R-U2",
+    "R-U3"
+  ],
+  "cues": [
+    "L_F",
+    "L_T",
+    "L_U",
+    "R_F",
+    "R_T",
+    "R_U"
+  ],
+  "cue_panels": {
+    "rest": "reviews/2026-09-21/n3-soft-physics-twin-hooks-shoulder-root/cues/rest.png",
+    "swell": "reviews/2026-09-21/n3-soft-physics-twin-hooks-shoulder-root/cues/swell.png",
+    "bend": "reviews/2026-09-21/n3-soft-physics-twin-hooks-shoulder-root/cues/bend.png",
+    "twist": "reviews/2026-09-21/n3-soft-physics-twin-hooks-shoulder-root/cues/twist.png",
+    "return_rest": "reviews/2026-09-21/n3-soft-physics-twin-hooks-shoulder-root/cues/return_rest.png"
+  },
+  "root_chord_after": {
+    "30_L": {
+      "median": 45,
+      "max": 48,
+      "n": 91
+    },
+    "30_R": {
+      "median": 83,
+      "max": 85,
+      "n": 95
+    },
+    "68_L": {
+      "median": 80,
+      "max": 82,
+      "n": 95
+    },
+    "68_R": {
+      "median": 42,
+      "max": 44,
+      "n": 91
+    }
+  },
+  "bag_after": {
+    "diffuse": [
+      0.014,
+      0.016,
+      0.018
+    ],
+    "pads": [
+      {
+        "name": "PEDAGOGY_L_CONCEPT_PADDED_ROOT.001",
+        "mat": "I1_bag_black",
+        "same": true,
+        "dims": [
+          0.152,
+          0.11,
+          0.152
+        ]
+      },
+      {
+        "name": "PEDAGOGY_R_CONCEPT_PADDED_ROOT.001",
+        "mat": "I1_bag_black",
+        "same": true,
+        "dims": [
+          0.152,
+          0.11,
+          0.152
+        ]
+      }
+    ],
+    "soft_boot_users": []
+  },
+  "blend": "C:\\Users\\mfawe\\OneDrive\\Documents\\GitHub\\robotic-punching-bag\\reviews\\2026-09-21\\n3-head-yaw-live-usb-path\\Punching_Bag_N3_Head_Track_Yaw.blend"
+}
