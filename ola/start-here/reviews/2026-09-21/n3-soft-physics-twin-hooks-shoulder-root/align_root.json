@@ -1,0 +1,15 @@
+{
+  "assumption": "Left root centerline pulled toward the collar axis. ASSUMPTION visual. Not a measured path.",
+  "pull_at_collar": 0.82,
+  "glove_before": [
+    -0.209,
+    -0.3898,
+    1.5003
+  ],
+  "glove_after": [
+    -0.209,
+    -0.3898,
+    1.5003
+  ],
+  "objects": 34
+}

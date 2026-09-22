@@ -1,0 +1,544 @@
+{
+  "rows": [
+    {
+      "name": "N1_WHOLE__M1_L_U1__sealed_flexible_bladder.005",
+      "n1": "M1_L_U1__sealed_flexible_bladder",
+      "dims": [
+        0.0928,
+        0.2353,
+        0.2832
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U1__programmed_knit_sleeve.005",
+      "n1": "M1_L_U1__programmed_knit_sleeve",
+      "dims": [
+        0.0947,
+        0.236,
+        0.2831
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U1__integral_soft_pigtail.005",
+      "n1": "M1_L_U1__integral_soft_pigtail",
+      "dims": [
+        0.007,
+        0.0981,
+        0.109
+      ],
+      "verts": 24,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__sealed_flexible_bladder.005",
+      "n1": "M1_L_U2__sealed_flexible_bladder",
+      "dims": [
+        0.0928,
+        0.2599,
+        0.295
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__programmed_knit_sleeve.005",
+      "n1": "M1_L_U2__programmed_knit_sleeve",
+      "dims": [
+        0.0939,
+        0.2605,
+        0.2957
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U2__integral_soft_pigtail.005",
+      "n1": "M1_L_U2__integral_soft_pigtail",
+      "dims": [
+        0.0334,
+        0.0709,
+        0.1022
+      ],
+      "verts": 24,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__sealed_flexible_bladder.005",
+      "n1": "M1_L_U3__sealed_flexible_bladder",
+      "dims": [
+        0.0921,
+        0.2599,
+        0.2968
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__programmed_knit_sleeve.005",
+      "n1": "M1_L_U3__programmed_knit_sleeve",
+      "dims": [
+        0.0939,
+        0.2605,
+        0.2978
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U3__integral_soft_pigtail.005",
+      "n1": "M1_L_U3__integral_soft_pigtail",
+      "dims": [
+        0.0236,
+        0.0661,
+        0.1134
+      ],
+      "verts": 24,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__proximal_textile_saddle.005",
+      "n1": "M1_L_U__proximal_textile_saddle",
+      "dims": [
+        0.0471,
+        0.0794,
+        0.071
+      ],
+      "verts": 432,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__distal_textile_saddle.005",
+      "n1": "M1_L_U__distal_textile_saddle",
+      "dims": [
+        0.0991,
+        0.0342,
+        0.0896
+      ],
+      "verts": 432,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__elastic_return_1.005",
+      "n1": "M1_L_U__elastic_return_1",
+      "dims": [
+        0.0835,
+        0.254,
+        0.2928
+      ],
+      "verts": 198,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__elastic_return_2.005",
+      "n1": "M1_L_U__elastic_return_2",
+      "dims": [
+        0.0824,
+        0.2749,
+        0.3013
+      ],
+      "verts": 198,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__foam_and_contact_sleeve.005",
+      "n1": "M1_L_U__foam_and_contact_sleeve",
+      "dims": [
+        0.1711,
+        0.3066,
+        0.3515
+      ],
+      "verts": 2072,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__red_cover_seam_-1.005",
+      "n1": "M1_L_U__red_cover_seam_-1",
+      "dims": [
+        0.0729,
+        0.2733,
+        0.2962
+      ],
+      "verts": 246,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_U__red_cover_seam_1.005",
+      "n1": "M1_L_U__red_cover_seam_1",
+      "dims": [
+        0.0743,
+        0.2496,
+        0.2869
+      ],
+      "verts": 246,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F1__sealed_flexible_bladder.005",
+      "n1": "M1_L_F1__sealed_flexible_bladder",
+      "dims": [
+        0.1202,
+        0.16,
+        0.1629
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F1__programmed_knit_sleeve.005",
+      "n1": "M1_L_F1__programmed_knit_sleeve",
+      "dims": [
+        0.1221,
+        0.1606,
+        0.164
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F1__integral_soft_pigtail.005",
+      "n1": "M1_L_F1__integral_soft_pigtail",
+      "dims": [
+        0.0792,
+        0.3398,
+        0.2911
+      ],
+      "verts": 138,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F2__sealed_flexible_bladder.005",
+      "n1": "M1_L_F2__sealed_flexible_bladder",
+      "dims": [
+        0.1236,
+        0.1857,
+        0.1732
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F2__programmed_knit_sleeve.005",
+      "n1": "M1_L_F2__programmed_knit_sleeve",
+      "dims": [
+        0.1255,
+        0.1863,
+        0.1743
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F2__integral_soft_pigtail.005",
+      "n1": "M1_L_F2__integral_soft_pigtail",
+      "dims": [
+        0.0981,
+        0.3435,
+        0.303
+      ],
+      "verts": 138,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F3__sealed_flexible_bladder.005",
+      "n1": "M1_L_F3__sealed_flexible_bladder",
+      "dims": [
+        0.1236,
+        0.1857,
+        0.1732
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F3__programmed_knit_sleeve.005",
+      "n1": "M1_L_F3__programmed_knit_sleeve",
+      "dims": [
+        0.1255,
+        0.1863,
+        0.1743
+      ],
+      "verts": 696,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F3__integral_soft_pigtail.005",
+      "n1": "M1_L_F3__integral_soft_pigtail",
+      "dims": [
+        0.0789,
+        0.339,
+        0.305
+      ],
+      "verts": 138,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__proximal_textile_saddle.005",
+      "n1": "M1_L_F__proximal_textile_saddle",
+      "dims": [
+        0.0988,
+        0.0246,
+        0.0884
+      ],
+      "verts": 432,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__distal_textile_saddle.005",
+      "n1": "M1_L_F__distal_textile_saddle",
+      "dims": [
+        0.1031,
+        0.0703,
+        0.0725
+      ],
+      "verts": 432,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__elastic_return_1.005",
+      "n1": "M1_L_F__elastic_return_1",
+      "dims": [
+        0.1139,
+        0.1742,
+        0.1655
+      ],
+      "verts": 198,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__elastic_return_2.005",
+      "n1": "M1_L_F__elastic_return_2",
+      "dims": [
+        0.1169,
+        0.1958,
+        0.173
+      ],
+      "verts": 198,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__foam_and_contact_sleeve.005",
+      "n1": "M1_L_F__foam_and_contact_sleeve",
+      "dims": [
+        0.2138,
+        0.2225,
+        0.25
+      ],
+      "verts": 2072,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__red_cover_seam_-1.005",
+      "n1": "M1_L_F__red_cover_seam_-1",
+      "dims": [
+        0.1099,
+        0.1944,
+        0.1682
+      ],
+      "verts": 246,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_F__red_cover_seam_1.005",
+      "n1": "M1_L_F__red_cover_seam_1",
+      "dims": [
+        0.1063,
+        0.1699,
+        0.1594
+      ],
+      "verts": 246,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__continuous_retention_webbing.005",
+      "n1": "M1_L__continuous_retention_webbing",
+      "dims": [
+        0.152,
+        0.4849,
+        0.3152
+      ],
+      "verts": 426,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_T1__opposed_soft_torsion_cell.005",
+      "n1": "M1_L_T1__opposed_soft_torsion_cell",
+      "dims": [
+        0.0611,
+        0.0998,
+        0.0595
+      ],
+      "verts": 294,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_T1__integral_soft_feed.005",
+      "n1": "M1_L_T1__integral_soft_feed",
+      "dims": [
+        0.1122,
+        0.5129,
+        0.2908
+      ],
+      "verts": 264,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_T2__opposed_soft_torsion_cell.005",
+      "n1": "M1_L_T2__opposed_soft_torsion_cell",
+      "dims": [
+        0.0931,
+        0.1084,
+        0.0981
+      ],
+      "verts": 294,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L_T2__integral_soft_feed.005",
+      "n1": "M1_L_T2__integral_soft_feed",
+      "dims": [
+        0.1154,
+        0.5286,
+        0.2986
+      ],
+      "verts": 264,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__soft_wrist_cover.005",
+      "n1": "M1_L__soft_wrist_cover",
+      "dims": [
+        0.1227,
+        0.1554,
+        0.155
+      ],
+      "verts": 1064,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__soft_wrist_shear_core.005",
+      "n1": "M1_L__soft_wrist_shear_core",
+      "dims": [
+        0.034,
+        0.0945,
+        0.0873
+      ],
+      "verts": 456,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__proximal_soft_wrist_cuff.005",
+      "n1": "M1_L__proximal_soft_wrist_cuff",
+      "dims": [
+        0.0968,
+        0.0748,
+        0.0815
+      ],
+      "verts": 576,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__distal_soft_wrist_cuff.005",
+      "n1": "M1_L__distal_soft_wrist_cuff",
+      "dims": [
+        0.0968,
+        0.0748,
+        0.0815
+      ],
+      "verts": 576,
+      "sk": 5,
+      "users": 1
+    },
+    {
+      "name": "N1_WHOLE__M1_L__foam_textile_glove.005",
+      "n1": "M1_L__foam_textile_glove",
+      "dims": [
+        0.1486,
+        0.2387,
+        0.1611
+      ],
+      "verts": 1237,
+      "sk": 0,
+      "users": 1
+    }
+  ],
+  "hooks": [
+    "SOFT_PHYS_CARD",
+    "SOFT_PHYS_CUE_CAM",
+    "SOFT_PHYS_CUE_L_F",
+    "SOFT_PHYS_CUE_L_T",
+    "SOFT_PHYS_CUE_L_U",
+    "SOFT_PHYS_CUE_LIGHT",
+    "SOFT_PHYS_CUE_R_F",
+    "SOFT_PHYS_CUE_R_T",
+    "SOFT_PHYS_CUE_R_U",
+    "SOFT_PHYS_L_F1",
+    "SOFT_PHYS_L_F2",
+    "SOFT_PHYS_L_F3",
+    "SOFT_PHYS_L_T1",
+    "SOFT_PHYS_L_T2",
+    "SOFT_PHYS_L_U1",
+    "SOFT_PHYS_L_U2",
+    "SOFT_PHYS_L_U3",
+    "SOFT_PHYS_R_F1",
+    "SOFT_PHYS_R_F2",
+    "SOFT_PHYS_R_F3",
+    "SOFT_PHYS_R_T1",
+    "SOFT_PHYS_R_T2",
+    "SOFT_PHYS_R_U1",
+    "SOFT_PHYS_R_U2",
+    "SOFT_PHYS_R_U3"
+  ],
+  "scenes": [
+    "AF01B2_EXPOSED_ILLUSTRATIVE_SWELL",
+    "AF01B_EXPOSED_ILLUSTRATIVE_SWELL",
+    "AMENDMENT_B_ILLUSTRATIVE_SWELL",
+    "N3_HEAD_TRACK_YAW_BRIDGE",
+    "N3_PITCH_HEIGHT_PEDAGOGY",
+    "N3_REACH_HEIGHT_BODY_ATLAS",
+    "SOFT_PHYS_CUE_SHEET"
+  ]
+}
