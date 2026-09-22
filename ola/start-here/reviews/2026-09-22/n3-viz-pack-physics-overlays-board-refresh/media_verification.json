@@ -1,0 +1,103 @@
+{
+  "pass_id": "n3-viz-pack-physics-overlays-board-refresh",
+  "fps_note": "12 fps authored review clock. Not a measured camera, detector, or machine rate.",
+  "criticals": "B-06, C-01, SAF-02, P-05 stay OPEN. HY-02 stays OPEN. paper only / Critical OPEN.",
+  "films": {
+    "A_soft_phys": {
+      "path": "reviews/2026-09-22/n3-viz-pack-physics-overlays-board-refresh/media/soft_phys_neohook_overlay_review.mp4",
+      "decoded_frames": 198,
+      "encoded_fps": "12/1",
+      "duration_s": "16.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "soft_phys_title.png",
+        "soft_phys_mu.png",
+        "soft_phys_swell.png",
+        "soft_phys_bend.png",
+        "soft_phys_drivers.png",
+        "soft_phys_clamp.png"
+      ],
+      "label": "Cue-sheet HUD. Neo-Hookean mu and p_norm to bend. Not System ID."
+    },
+    "B_vent": {
+      "path": "reviews/2026-09-22/n3-viz-pack-physics-overlays-board-refresh/media/vent_vs_elastic_return_review.mp4",
+      "decoded_frames": 174,
+      "encoded_fps": "12/1",
+      "duration_s": "14.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "vent_title.png",
+        "vent_timeline.png",
+        "vent_beats.png",
+        "vent_numbers.png",
+        "vent_takeaway.png"
+      ],
+      "label": "Vent versus elastic return time-order. Not cycle life."
+    },
+    "C_c01": {
+      "path": "reviews/2026-09-22/n3-viz-pack-physics-overlays-board-refresh/media/c01_coupon_sizing_observables_review.mp4",
+      "decoded_frames": 168,
+      "encoded_fps": "12/1",
+      "duration_s": "14.000000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "c01_size_title.png",
+        "c01_size_mass.png",
+        "c01_size_observables.png",
+        "c01_size_sequence.png",
+        "c01_size_open.png"
+      ],
+      "label": "Coupon sizing and predicted observables. C-01 stays OPEN."
+    },
+    "D_gate": {
+      "path": "reviews/2026-09-22/n3-viz-pack-physics-overlays-board-refresh/media/stage_gate_digital_done_refresh_review.mp4",
+      "decoded_frames": 156,
+      "encoded_fps": "12/1",
+      "duration_s": "13.000000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "gate_refresh_title.png",
+        "gate_refresh_five.png",
+        "gate_refresh_soft.png",
+        "gate_refresh_controls.png",
+        "gate_refresh_split.png"
+      ],
+      "label": "Stage-gate refresh. CLOSED-A papers are paper only. Criticals stay OPEN."
+    },
+    "E_pinch": {
+      "path": "reviews/2026-09-22/n3-viz-pack-physics-overlays-board-refresh/media/pinch_measure_on_mock_review.mp4",
+      "decoded_frames": 174,
+      "encoded_fps": "12/1",
+      "duration_s": "14.500000",
+      "resolution": [
+        1500,
+        900
+      ],
+      "fps_note": "Authored review clock only. Not a measured camera, detector, or machine rate.",
+      "stills": [
+        "pinch_title.png",
+        "pinch_keepout.png",
+        "pinch_gaps_a.png",
+        "pinch_gaps_b.png",
+        "pinch_open.png"
+      ],
+      "label": "Pinch measure-on-mock plan. No invented mm. No PL. SAF-02 stays OPEN."
+    }
+  }
+}
