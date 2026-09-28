@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Model B &middot; Bag add-on kit &middot; Feasibility front door &middot; 27 Sep 2026</title>
+<title>Model B &middot; Bag add-on kit &middot; Feasibility front door &middot; 28 Sep 2026 &middot; v1</title>
 <style>
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -55,51 +55,68 @@ code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
 </style></head><body>
 <nav class="modeltabs"><a href="../start-here/">Model A &middot; Integrated trainer</a><a class="on" href="./">Model B &middot; Bag add-on kit</a></nav>
 <header>
-<div class="eyebrow">Soft pneumatic boxing trainer &middot; Model B &middot; Feasibility front door</div>
+<div class="eyebrow">Soft pneumatic boxing trainer &middot; Model B &middot; Feasibility front door &middot; v1</div>
 <h1>Model B: bag add-on kit</h1>
-<p>A retrofit kit that turns a customer's existing chain-hung heavy bag into an interactive trainer. It shares the Model A app, handheld and soft-arm family. Stage: <strong>Feasibility</strong>. All work so far is $0 paper and digital. Every number marked ASSUMPTION is unverified.</p>
-<div class="toplinks"><a href="docs/MODEL_B_SPEC_v0.md">Spec v0</a><a href="docs/MODEL_B_BAG_SURVEY_v0.md">Bag survey</a><a href="docs/MODEL_B_ESTIMATES_v0.md">Estimates</a><a href="docs/MODEL_B_SAFETY_v0.md">Safety</a><a href="docs/MODEL_B_TEST_PLAN_v0.md">Test plan</a><a href="../start-here/">Model A front door</a></div>
+<p>A kit that turns a customer's chain-hung heavy bag into an interactive trainer, using the same app, handheld and soft arms as Model A. Shape locked 28 Sep 2026. Stage: <strong>Feasibility</strong>. All work is $0 paper and digital. Every number marked ASSUMPTION is unverified.</p>
+<div class="toplinks"><a href="docs/MODEL_B_SPEC_v1.md">Spec v1</a><a href="docs/MODEL_B_SOFT_ICD_v1.md">Soft arm interface</a><a href="docs/MODEL_B_ESTIMATES_v1.md">Estimates</a><a href="docs/MODEL_B_SAFETY_v1.md">Safety</a><a href="docs/MODEL_B_TEST_PLAN_v1.md">Test plan</a><a href="../start-here/">Model A front door</a></div>
 </header>
-<div class="layout"><aside><a href='#s01'><span>01</span>Notice</a><a href='#s02'><span>02</span>What Model B is</a><a href='#s03'><span>03</span>Compatibility rule</a><a href='#s04'><span>04</span>Visual review</a><a href='#s05'><span>05</span>Status table</a><a href='#s06'><span>06</span>Readiness checklist</a><a href='#s07'><span>07</span>Estimates</a><a href='#s08'><span>08</span>Deep links</a><a href='#s09'><span>09</span>Decisions log</a></aside><main>
-<section id="s01"><h2>01 &mdash; Notice</h2><div class="notice critical"><strong>No test results exist for Model B.</strong>The figures on this page are paper estimates with labeled assumptions, and published manufacturer specs for the bag survey. Soft-arm contact behaviour, collar grip and tracking on a swinging bag need physical validation. Hardware tests are parked until spend is approved.</div></section>
-<section id="s02"><h2>02 &mdash; What Model B is</h2>
-<p>Everything mounts on the bag. Nothing is separate or away from it.</p><ul>
-<li><strong>Clamp collar</strong> at the top third of the bag, with a segmented ratchet band and a high-grip liner. It carries the rotating shoulder ring and the two soft arms.</li>
-<li><strong>All-in-one pack</strong> between the arm roots, holding the compressor, small air tank, valves, board, motion sensor, cameras and the removable battery dock.</li>
-<li><strong>Removable rechargeable battery</strong> (18/20 V power-tool class) with a desktop charger, plus a dual dock for hot-swap.</li>
-<li><strong>3 to 4 load straps</strong> clipped to the bag's own chain top ring or swivel. They carry the kit's weight, so the collar only has to stop it from turning.</li>
+<div class="layout"><aside><a href='#s01'><span>01</span>Notice</a><a href='#s02'><span>02</span>What Model B is</a><a href='#s03'><span>03</span>Compatibility rule</a><a href='#s04'><span>04</span>Visual review</a><a href='#s05'><span>05</span>Arm clearance</a><a href='#s06'><span>06</span>Status table</a><a href='#s07'><span>07</span>Estimates</a><a href='#s08'><span>08</span>Deep links</a><a href='#s09'><span>09</span>Decisions log</a></aside><main>
+<section id="s01"><h2>01 &mdash; Notice</h2><div class="notice critical"><strong>No test results exist for Model B.</strong>Figures here are paper estimates with labeled assumptions, geometry measured in the Blender model, and published maker specs. Soft-arm contact behaviour, strap grip and tracking on a swinging bag need physical validation. Hardware tests are parked until spend is approved.</div></section>
+<section id="s02"><h2>02 &mdash; What Model B is</h2><ul>
+<li><strong>Rear padded saddle</strong> wrapping about 170&deg; of the back of the bag, carrying the arm roots and pack.</li>
+<li><strong>Two parallel 38 mm canvas straps</strong>, 120 mm apart, each with a crank ratchet. The ratchets sit on the rear saddle beside the pack (about 31&deg; either side of back center). No hardware on the front.</li>
+<li><strong>Two soft arms copied 1:1 from Model A</strong> (N1). Same bladders, sleeves, foam, wrist and glove. Only the root mount is new: fixed at back &plusmn;56&deg;, no rotating ring.</li>
+<li><strong>Narrow rear pack</strong> with compressor, tank, valves, board and sensors, plus a slide-in removable battery.</li>
+<li><strong>Vertical tether</strong> to the chain ring as secondary retention.</li>
 <li><strong>Same app and handheld</strong> as Model A.</li></ul>
-<p>Estimated kit mass is 25 lb (ASSUMPTION), with a hard ceiling of 30 lb.</p></section>
+<p>All rigid parts (arm flanges, carrier tubes, manifolds, ratchets) are at the rear, behind padding. Estimated kit mass 23.5 lb (ASSUMPTION; arms not yet weighed), ceiling 30 lb.</p></section>
 <section id="s03"><h2>03 &mdash; Compatibility rule</h2><div class="tablewrap"><table><tr><th>Requirement</th><th>Value</th><th>Basis</th></tr>
-<tr><td>Hanging</td><td>Chain-hung with top ring or swivel</td><td>Decision 27 Sep. Freestanding comes later</td></tr>
-<tr><td>Diameter</td><td>13 to 19 in, two collar sizes (13&ndash;15, 16&ndash;19)</td><td>Bag survey of published maker specs</td></tr>
-<tr><td>Weight</td><td>80 lb minimum, 100 lb+ recommended</td><td>Tilt estimate + survey. 80 lb floor is an ASSUMPTION</td></tr>
-<tr><td>Length</td><td>42 in minimum</td><td>ASSUMPTION pending layout</td></tr>
-<tr><td>Shape</td><td>Cylindrical only. No water or shaped bags</td><td>Bag survey</td></tr></table></div></section>
-<section id="s04"><h2>04 &mdash; Visual review</h2><p class="small">Concept v0 renders from the Blender build script (<a href="blender/build_model_b.py">build_model_b.py</a>). The geometry is representative, not final design. Physics films (tilt, swing, arm reaction) come in the next pass.</p><div class="grid"><figure><img src='renders/model_b_front_34.jpg' alt='Front three-quarter: collar and ring at the top third, two soft arms, cameras by the arm roots'><figcaption>Front three-quarter: collar and ring at the top third, two soft arms, cameras by the arm roots</figcaption></figure><figure><img src='renders/model_b_back_pack.jpg' alt='Back: all-in-one pack between the arm roots, red removable battery, straps up to the swivel'><figcaption>Back: all-in-one pack between the arm roots, red removable battery, straps up to the swivel</figcaption></figure><figure><img src='renders/model_b_collar_closeup.jpg' alt='Collar close-up: segmented ratchet band, rotating ring, arm roots'><figcaption>Collar close-up: segmented ratchet band, rotating ring, arm roots</figcaption></figure><figure><img src='renders/model_b_side_full.jpg' alt='Side: the whole kit hangs from the bag's own chain and swivel. No pole, no floor unit'><figcaption>Side: the whole kit hangs from the bag's own chain and swivel. No pole, no floor unit</figcaption></figure></div></section>
-<section id="s05"><h2>05 &mdash; Status table</h2><div class="tablewrap"><table><tr><th>ID</th><th>Item</th><th>Severity</th><th>Status</th><th>Evidence / path to close</th></tr><tr><td><strong>MB-01</strong></td><td>Collar turning or slipping under punch torque and arm reaction</td><td><span class='status crit'>High</span></td><td><span class='status open'>OPEN</span></td><td>Paper margin about 11x (E1). Bench test T-01</td></tr><tr><td><strong>MB-02</strong></td><td>Tilt and balance</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>About 1.1 to 1.9 deg on paper (E2). Trim with strap adjusters</td></tr><tr><td><strong>MB-03</strong></td><td>Camera tracking on a swinging bag</td><td><span class='status crit'>High</span></td><td><span class='status open'>OPEN</span></td><td>Swing 10 to 17 cm from arm push (E3). Controls spec CB-01</td></tr><tr><td><strong>MB-04</strong></td><td>Runtime per battery pack</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>1.0 to 2.4 h on paper (E5). Bench T-08</td></tr><tr><td><strong>MB-05</strong></td><td>Pack survives impacts, vibration isolation</td><td><span class='status crit'>High</span></td><td><span class='status open'>OPEN</span></td><td>Design + T-07</td></tr><tr><td><strong>MB-06</strong></td><td>Strap and clip loads</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>25 lb peak per strap, 125 lb+ rated (E4). T-06</td></tr><tr><td><strong>MB-07</strong></td><td>Bag cover wear from collar</td><td><span class='status open'>Low</span></td><td><span class='status open'>OPEN</span></td><td>T-09</td></tr></table></div></section>
-<section id="s06"><h2>06 &mdash; Readiness checklist</h2><div class="tablewrap"><table><tr><th>Deliverable (parity with Model A)</th><th>Status</th></tr>
-<tr><td>Architecture &amp; requirements</td><td><span class="status accept">DRAFT v0</span></td></tr>
-<tr><td>Bag compatibility survey</td><td><span class="status accept">DRAFT v0</span></td></tr>
-<tr><td>Paper estimates (grip, tilt, swing, straps, runtime)</td><td><span class="status accept">DRAFT v0</span></td></tr>
-<tr><td>Soft arm interface</td><td><span class="status open">DRAFT, awaiting Soft desk review</span></td></tr>
-<tr><td>Controls &amp; perception spec</td><td><span class="status open">DRAFT, awaiting Controls desk review</span></td></tr>
-<tr><td>Safety review</td><td><span class="status accept">DRAFT v0</span></td></tr>
-<tr><td>BOM / DFM (no prices)</td><td><span class="status accept">DRAFT v0</span></td></tr>
-<tr><td>Test plan</td><td><span class="status open">DRAFT, all tests parked</span></td></tr>
-<tr><td>Concept renders</td><td><span class="status accept">v0</span></td></tr>
-<tr><td>Physics films</td><td><span class="status open">NOT STARTED</span></td></tr>
-<tr><td>Costing</td><td><span class="status open">Not started, goes through Stephen</span></td></tr></table></div></section>
+<tr><td>Hanging</td><td>Chain-hung with top ring or swivel</td><td>Decision 27 Sep. Freestanding later</td></tr>
+<tr><td>Diameter</td><td>16 to 19 in at launch; 19 in design point</td><td>Bag survey: 19 in is the widest standard cylindrical bag</td></tr>
+<tr><td>13 to 15 in bags</td><td>Later, with a root spacer</td><td>ASSUMPTION</td></tr>
+<tr><td>Weight</td><td>80 lb minimum, 100 lb+ recommended</td><td>Tilt estimate + survey</td></tr>
+<tr><td>Length</td><td>42 in minimum</td><td>ASSUMPTION</td></tr>
+<tr><td>Shape</td><td>Cylindrical only</td><td>Bag survey</td></tr></table></div></section>
+<section id="s04"><h2>04 &mdash; Visual review (v5 model)</h2><p class="small">Renders from <a href="blender/build_model_b_v5.py">build_model_b_v5.py</a>. Arms are the actual Model A N1 objects; bag is 19 in.</p><div class="grid">
+<figure><img src='renders/v5_front_34.jpg' alt='Front three-quarter'><figcaption>Front three-quarter at guard. Two parallel straps, no front hardware.</figcaption></figure>
+<figure><img src='renders/v5_front.jpg' alt='Front'><figcaption>Front view.</figcaption></figure>
+<figure><img src='renders/v5_back.jpg' alt='Back'><figcaption>Back: pack, battery, ratchets beside the pack, D-ring anchors.</figcaption></figure>
+<figure><img src='renders/v5_ratchet_detail.jpg' alt='Ratchet close-up'><figcaption>Lower ratchet close-up on the rear saddle.</figcaption></figure></div>
+<h3>Model A strike frames on Model B</h3><figure><img src='renders/v5_strike_poses_front.jpg' alt='Eight strike frames, front three-quarter'><figcaption>Eight peak frames from the Model A strike animation, front three-quarter.</figcaption></figure><figure><img src='renders/v5_strike_poses_top.jpg' alt='Same frames from above'><figcaption>Same frames from above.</figcaption></figure></section>
+<section id="s05"><h2>05 &mdash; Arm clearance</h2><p>Every 8th frame of the full Model A strike animation (1&ndash;1920) was checked against a rigid 19 in cylinder. At the first mounting distance the arms cut into the bag by 8&ndash;13 mm at guard and up to 28 mm in strikes, so the roots were moved out 46.5 mm (root center about 150 mm off the bag surface). Result: <strong>minimum 14.1 mm (left, frame 1081) and 16.4 mm (right, frame 1273)</strong>, against about 4 mm in Model A. Arm geometry, stroke and reach are unchanged. Not covered: cover bulge under strap tension, bag deformation and motion scatter (T-10). Data: <a href="docs/clearance_v5.json">clearance_v5.json</a>.</p></section>
+<section id="s06"><h2>06 &mdash; Status table</h2><div class="tablewrap"><table><tr><th>ID</th><th>Item</th><th>Severity</th><th>Status</th><th>Path to close</th></tr>
+<tr><td><strong>MB-01</strong></td><td>Saddle turning under arm reaction</td><td><span class='status crit'>High</span></td><td><span class='status open'>OPEN</span></td><td>Paper margin about 23x (E1). T-01</td></tr>
+<tr><td><strong>MB-02</strong></td><td>Tilt and balance</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>1.2&ndash;2.2&deg; on paper (E2). T-02</td></tr>
+<tr><td><strong>MB-03</strong></td><td>Tracking on a swinging bag</td><td><span class='status crit'>High</span></td><td><span class='status open'>OPEN</span></td><td>Controls spec. T-03</td></tr>
+<tr><td><strong>MB-04</strong></td><td>Runtime per pack</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>1.0&ndash;2.4 h on paper. T-08</td></tr>
+<tr><td><strong>MB-05</strong></td><td>Pack impact and vibration</td><td><span class='status crit'>High</span></td><td><span class='status open'>OPEN</span></td><td>T-07</td></tr>
+<tr><td><strong>MB-06</strong></td><td>Strap, ratchet and tether loads</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>T-06</td></tr>
+<tr><td><strong>MB-07</strong></td><td>Cover wear</td><td><span class='status open'>Low</span></td><td><span class='status open'>OPEN</span></td><td>T-09</td></tr>
+<tr><td><strong>MB-08</strong></td><td>Arm clearance to bag</td><td><span class='status crit'>High</span></td><td><span class='status closed'>CLOSED IN MODEL</span></td><td>14 mm minimum. Physical T-10</td></tr>
+<tr><td><strong>MB-09</strong></td><td>Root standoff bending (150 mm)</td><td><span class='status open'>Medium</span></td><td><span class='status open'>OPEN</span></td><td>E5 + T-12</td></tr></table></div></section>
 <section id="s07"><h2>07 &mdash; Estimates (ASSUMPTION inputs)</h2><ul>
-<li>Collar grip against turning: about 560&ndash;750 N&middot;m against 50 N&middot;m of arm torque, so about 11x on paper. Wet or sweaty covers are the risk.</li>
-<li>Tilt from the off-center pack: 1.9&deg; at 80 lb, 1.6&deg; at 100 lb, 1.1&deg; at 150 lb.</li>
-<li>Swing from one arm push: 10&ndash;17 cm. Tracking target is 30 cm movement and 10&deg; tilt.</li>
-<li>Straps: 25 lb peak each. Rated hardware 125 lb+ each, plus secondary retention.</li>
+<li>Saddle grip: about 1500 N&middot;m from two straps against 65 N&middot;m of arm reaction, about 23x on paper. Wet covers are the risk.</li>
+<li>Tilt: 2.2&deg; at 80 lb, 1.8&deg; at 100 lb, 1.2&deg; at 150 lb, trimmed with adjusters.</li>
+<li>Swing from one arm push: 10&ndash;17 cm. Tracking target 30 cm and 10&deg;.</li>
+<li>Root bracket: about 65 N&middot;m per root at 100 N glove load.</li>
 <li>Runtime: 1.0&ndash;2.4 h per 90 Wh pack.</li></ul></section>
-<section id="s08"><h2>08 &mdash; Deep links</h2><ul class="files"><li><a href='docs/MODEL_B_SPEC_v0.md'>MODEL_B_SPEC_v0.md</a> &middot; Architecture and requirements</li><li><a href='docs/MODEL_B_BAG_SURVEY_v0.md'>MODEL_B_BAG_SURVEY_v0.md</a> &middot; Bag compatibility survey (published maker specs)</li><li><a href='docs/MODEL_B_ESTIMATES_v0.md'>MODEL_B_ESTIMATES_v0.md</a> &middot; Paper estimates: grip, tilt, swing, straps, runtime</li><li><a href='docs/MODEL_B_SOFT_ICD_v0.md'>MODEL_B_SOFT_ICD_v0.md</a> &middot; Soft arm interface (for Soft desk review)</li><li><a href='docs/MODEL_B_CONTROLS_v0.md'>MODEL_B_CONTROLS_v0.md</a> &middot; Controls and perception (for Controls desk review)</li><li><a href='docs/MODEL_B_SAFETY_v0.md'>MODEL_B_SAFETY_v0.md</a> &middot; Safety hazard review</li><li><a href='docs/MODEL_B_BOM_DFM_v0.md'>MODEL_B_BOM_DFM_v0.md</a> &middot; Preliminary BOM and DFM notes (no prices)</li><li><a href='docs/MODEL_B_TEST_PLAN_v0.md'>MODEL_B_TEST_PLAN_v0.md</a> &middot; Test plan (parked, spend needs approval)</li></ul></section>
+<section id="s08"><h2>08 &mdash; Deep links</h2><ul class="files">
+<li><a href='docs/MODEL_B_SPEC_v1.md'>MODEL_B_SPEC_v1.md</a> &middot; Architecture and requirements</li>
+<li><a href='docs/MODEL_B_SOFT_ICD_v1.md'>MODEL_B_SOFT_ICD_v1.md</a> &middot; Soft arm interface (for Soft review)</li>
+<li><a href='docs/MODEL_B_ESTIMATES_v1.md'>MODEL_B_ESTIMATES_v1.md</a> &middot; Paper estimates</li>
+<li><a href='docs/MODEL_B_SAFETY_v1.md'>MODEL_B_SAFETY_v1.md</a> &middot; Safety hazard review</li>
+<li><a href='docs/MODEL_B_BOM_DFM_v1.md'>MODEL_B_BOM_DFM_v1.md</a> &middot; BOM and DFM (no prices)</li>
+<li><a href='docs/MODEL_B_TEST_PLAN_v1.md'>MODEL_B_TEST_PLAN_v1.md</a> &middot; Test plan (parked)</li>
+<li><a href='docs/MODEL_B_BAG_SURVEY_v0.md'>MODEL_B_BAG_SURVEY_v0.md</a> &middot; Bag survey (published maker specs)</li>
+<li><a href='docs/MODEL_B_CONTROLS_v0.md'>MODEL_B_CONTROLS_v0.md</a> &middot; Controls and perception</li>
+<li><a href='docs/MODEL_B_CHANGE_NOTES.md'>MODEL_B_CHANGE_NOTES.md</a> &middot; Design change history v0 to v5</li>
+<li><a href='docs/MODEL_B_SPEC_v0.md'>MODEL_B_SPEC_v0.md</a> &middot; Superseded v0 spec (collar and ring)</li></ul></section>
 <section id="s09"><h2>09 &mdash; Decisions log</h2><ul>
-<li>27 Sep: GO on Model B as a second product. No pole, no floor module, no hanger plate. Pack between the shoulders. Removable rechargeable battery.</li>
-<li>27 Sep: Name is &ldquo;Model B&rdquo;. Shares the Model A app.</li>
-<li>27 Sep: Hanging bags only at launch. Freestanding comes later.</li></ul></section>
-<footer>Owner: Ola (Robotics). Model B v0 &middot; 27 Sep 2026.</footer>
+<li>27 Sep: GO on Model B as a second product. Shares the Model A app. Hanging bags only at launch.</li>
+<li>28 Sep: Arms are the actual Model A arms, copied, never remodeled. No shrinking without proof of no performance loss.</li>
+<li>28 Sep: 19 in bag design point; 16&ndash;19 in fit rule at launch.</li>
+<li>28 Sep: Two parallel canvas straps with ratchets at the rear beside the pack.</li>
+<li>28 Sep: Arm roots moved out 46.5 mm for 14 mm minimum bag clearance.</li>
+<li>28 Sep: v5 shape locked.</li></ul></section>
+<footer>Owner: Ola (Robotics). Model B v1 &middot; 28 Sep 2026.</footer>
 </main></div></body></html>
