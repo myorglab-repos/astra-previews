@@ -2,6 +2,8 @@
 Status: DRAFT v1 · 2026-09-28 · Owner: Ola · Stage: Feasibility · $0 digital only
 Replaces v0. Shape locked by Michael on 2026-09-28 (v5 renders). ASSUMPTION marks unverified numbers. No test results exist yet.
 
+Public pages (Oct 2026): this kit is Model A, the universal bag. The original integrated trainer is Model B. This file is not renamed. In the sections below, "Model B" means this kit and "Model A" means the original integrated trainer. IDs such as MB-08 are unchanged.
+
 ## 1. What it is
 A bag add-on kit that turns a customer's chain-hung heavy bag into an interactive trainer. It has no pole, no floor unit and no rotating ring. It uses the same app and handheld as Model A.
 
