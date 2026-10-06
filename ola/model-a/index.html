@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Model A &middot; Universal bag kit &middot; v9 LOCKED &middot; 6 Oct 2026</title>
+<style>
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:#efede8;color:#252725;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:#9b2630}
+header{padding:36px max(24px,calc((100vw - 1460px)/2));background:#202422;color:#f9f5ef;border-bottom:4px solid #a63035}
+header h1{max-width:980px;font-size:clamp(28px,3.6vw,48px);line-height:1.1;margin:12px 0 10px}
+header p{max-width:900px;color:#d0d5cf;margin:8px 0}
+.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.14em;color:#e29c9f;font-weight:700}
+.toplinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.toplinks a{color:#fff;border:1px solid #7b8580;text-decoration:none;padding:7px 12px;font-size:13px}
+.layout{max-width:1460px;margin:auto;display:grid;grid-template-columns:220px minmax(0,1fr);gap:40px;padding:28px 24px}
+aside{position:sticky;top:20px;height:max-content;font-size:13px}
+aside a{display:flex;gap:12px;text-decoration:none;color:#434844;padding:9px 0;border-bottom:1px solid #d2d5ce}
+aside span{color:#a3363e;font-variant-numeric:tabular-nums;min-width:1.4em}
+main{min-width:0}
+section{padding:14px 0 36px;border-bottom:1px solid #cbcfc7;scroll-margin-top:16px}
+h2{font-size:28px;line-height:1.2;margin:8px 0 18px}
+h3{font-size:18px;margin:22px 0 10px}
+p,li{max-width:100ch}
+.notice{padding:16px 18px;background:#fff8e9;border-left:4px solid #ad782b;margin:16px 0}
+.notice.critical{background:#f9e9e7;border-left-color:#a63035}
+.notice strong{display:block;margin-bottom:4px}
+.tablewrap{overflow:auto;margin:16px 0}
+table{width:100%;border-collapse:collapse;background:#faf9f5;font-size:14px}
+th,td{padding:12px;text-align:left;vertical-align:top;border-bottom:1px solid #d4d7cf}
+th{background:#e3e6de}
+.status{display:inline-block;padding:2px 7px;background:#e2e6df;font-size:11px;font-weight:700;border-radius:2px}
+.closed{background:#dce9dc;color:#1f5a2a}
+.open{background:#f4dfc1;color:#694612}
+.crit{background:#f3d0cd;color:#7a1f24}
+.accept{background:#d5e4f5;color:#1a3f66}
+figure{margin:18px 0}
+img,video{display:block;width:100%;height:auto;border-radius:5px;background:#353535}
+video{aspect-ratio:4/3}
+figcaption,.small{font-size:13px;color:#5a625b;margin:8px 0}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.playtools{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin:12px 0;font-size:13px}
+button,select{font:inherit;border:1px solid #b8c1b6;border-radius:3px;padding:7px 11px;background:#fff;color:#262b25;cursor:pointer}
+button:hover,button:focus{border-color:#a3363e;background:#f9e9e7}
+ul.files{columns:2;gap:28px;padding-left:18px}
+ul.files li{break-inside:avoid;margin:6px 0}
+footer{padding:28px 0 48px;color:#667061;font-size:13px}
+code{font:12px/1.5 ui-monospace,Consolas,monospace;overflow-wrap:anywhere}
+@media(max-width:1000px){.layout{grid-template-columns:1fr}aside{position:static;display:grid;grid-template-columns:1fr 1fr;gap:0 16px}.grid3,.grid4{grid-template-columns:1fr 1fr}}
+@media(max-width:650px){.grid,.grid3,.grid4,ul.files{grid-template-columns:1fr;columns:1}.layout{padding:18px 14px}header{padding:24px 16px}h2{font-size:24px}}
+@media print{aside,video,.playtools{display:none}.layout{display:block}header{background:#fff;color:#000;border-bottom:2px solid #a63035}}
+
+
+.modeltabs{display:flex;gap:0;background:#151816;padding:0 max(24px,calc((100vw - 1460px)/2));overflow-x:auto}.modeltabs a{color:#cfd4ce;text-decoration:none;padding:12px 18px;font-size:14px;font-weight:600;border-bottom:3px solid transparent;white-space:nowrap}.modeltabs a.on{color:#fff;border-bottom-color:#a63035;background:#202422}
+.lockbar{background:#16301f;color:#eaf5ec;padding:14px max(24px,calc((100vw - 1460px)/2));border-bottom:1px solid #2d5a3a;font-size:15px}
+.lockbar .badge{display:inline-block;background:#2f8a4a;color:#fff;font-weight:800;letter-spacing:.14em;font-size:13px;padding:3px 10px;border-radius:3px;margin-right:10px;vertical-align:1px}
+header p.summary{font-size:18px;color:#eef0ea;max-width:820px}
+video{aspect-ratio:16/9}
+.pending{margin:18px 0}
+.pending .slot{aspect-ratio:16/9;border:2px dashed #b29a68;border-radius:5px;background:#f8f2e4;color:#6b5a35;display:flex;align-items:center;justify-content:center;text-align:center;padding:18px;font-size:15px}
+.pending .slot strong{display:block;font-size:12px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:6px}
+figure a.full{display:block}
+figcaption em{font-style:normal;color:#7a2a2f;font-weight:600}
+ul.plain li{margin:6px 0}
+@media(max-width:650px){header p.summary{font-size:16px}.lockbar{padding:12px 16px;font-size:14px}.modeltabs{padding:0}.modeltabs a{flex:1;white-space:normal;text-align:center;padding:10px 8px;font-size:13px;line-height:1.3}}
+</style></head><body>
+<nav class="modeltabs"><a class="on" href="../start-here/">Model A &middot; Universal bag kit</a><a href="../start-here/START_HERE.html">Model B &middot; Original integrated trainer</a></nav>
+<header>
+<div class="eyebrow">Soft pneumatic boxing trainer &middot; Model A &middot; Universal bag kit &middot; Main product &middot; v9 locked</div>
+<h1>Model A: universal bag kit</h1>
+<p class="summary">Model A turns a punching bag you already own into a sparring partner. A slim padded shell straps onto the back of a hanging bag, and two soft air-powered arms, the same arms as Model B, reach around to the front. It is drawn to fit bags from 14 to 19 inches across. So far it exists only as a computer model: nothing has been built or tested.</p>
+<div class="toplinks"><a href="../start-here/">Start Here</a><a href="v9-locked/docs/MODEL_A_LOCKED_SPEC.html">Locked spec</a><a href="v9-locked/docs/EXECUTIVE_REVIEW.html">Executive review</a><a href="#s06">Not in the model yet</a><a href="../start-here/START_HERE.html">Model B</a></div>
+</header>
+<div class="lockbar"><span class="badge">LOCKED</span><strong>Design v9, locked by Michael on 6 Oct 2026 at 12:39 pm ET.</strong> $0, digital only. All numbers are CAD assumptions. Fit is untested.</div>
+<div class="layout"><aside><a href='#s01'><span>01</span>At a glance</a><a href='#s02'><span>02</span>Videos</a><a href='#s03'><span>03</span>See inside</a><a href='#s04'><span>04</span>Pictures</a><a href='#s05'><span>05</span>What is under the padding</a><a href='#s06'><span>06</span>Not in the model yet</a><a href='#s07'><span>07</span>Engineering numbers</a><a href='#s08'><span>08</span>What this does not prove</a><a href='#s09'><span>09</span>Design history v1 to v9</a><a href='#s10'><span>10</span>Spec and papers</a></aside><main>
+<section id="s01"><h2>01 &mdash; At a glance</h2><ul class="plain">
+<li>Straps onto the back of a chain-hung punching bag the customer already owns.</li>
+<li>Drawn to fit bags from <strong>14 in to 19 in</strong> across (356 to 483 mm). Assumed, not tested.</li>
+<li>A <strong>slim back shell</strong> about 78 mm (about 3 in) off the bag.</li>
+<li><strong>Arms identical to Model B's arms.</strong></li>
+<li><strong>Narrow, smooth, plain black shoulder covers</strong> with no red. The gloves stay red.</li>
+<li>Shoulders stick out <strong>82 mm or less</strong> behind the shell.</li>
+<li>Spend so far: <strong>$0</strong>. Digital only.</li></ul>
+<div class="notice"><strong>These are computer pictures, not a built product.</strong>All numbers are CAD assumptions. Fit is untested. Only the camera moves in the videos; the arms hold their guard pose. Prescribed motion, not measured force. Fit assumed.</div></section>
+<section id="s02"><h2>02 &mdash; Videos</h2><div class="grid"><figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/padded_483_rear_three_quarter.jpg"><source src="v9-locked/films/turntable_padded_483.mp4" type="video/mp4"></video><figcaption><strong>Padded, 19 in bag (483 mm).</strong> The kit turns all the way around. Only the camera moves. 10 s. <a href="v9-locked/films/turntable_padded_483.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure><figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/padded_356_rear_three_quarter.jpg"><source src="v9-locked/films/turntable_padded_356.mp4" type="video/mp4"></video><figcaption><strong>Padded, 14 in bag (356 mm).</strong> Same kit on the smallest bag it is drawn for. 10 s. <a href="v9-locked/films/turntable_padded_356.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure></div></section>
+<section id="s03"><h2>03 &mdash; See inside</h2><p class="small">Padding hidden, or shell and bag made see-through. No part is moved or reshaped.</p><div class="grid"><figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/exposed_483_rear_three_quarter.jpg"><source src="v9-locked/films/turntable_no_padding_483.mp4" type="video/mp4"></video><figcaption><strong>See inside: padding removed, 19 in bag.</strong> Shoulder and arm padding hidden. Soft air cells, knit sleeves and short air feeds stay in view. 10 s. <a href="v9-locked/films/turntable_no_padding_483.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure><figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/poster_turntable_no_padding_356.jpg"><source src="v9-locked/films/turntable_no_padding_356.mp4" type="video/mp4"></video><figcaption><strong>See inside: padding removed, 14 in bag.</strong> Same view on the 14 in bag. 10 s. <a href="v9-locked/films/turntable_no_padding_356.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure><figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/xray_483_rear_three_quarter.jpg"><source src="v9-locked/films/turntable_no_padding_xray_483.mp4" type="video/mp4"></video><figcaption><strong>See inside: x-ray, 19 in bag.</strong> Padding removed, and the back shell and bag made see-through. The battery placeholder shows. Pump, tank and control board are not in the model. 10 s. <a href="v9-locked/films/turntable_no_padding_xray_483.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/poster_orbit_shoulder_no_padding_closeup.jpg"><source src="v9-locked/films/orbit_shoulder_no_padding_closeup.mp4" type="video/mp4"></video><figcaption><strong>See inside: shoulder orbit, padding off.</strong> Camera circles the bag with the arm padding off, so you can see the frame, joints and air lines. 10 s.<br>Known gap: the wrist joint still overlaps the glove in the source model; a real wrist connection is a later design step. <a href="v9-locked/films/orbit_shoulder_no_padding_closeup.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure><figure><video controls playsinline muted loop preload="metadata" poster="v9-locked/renders/poster_padding_off_transition.jpg"><source src="v9-locked/films/padding_off_transition.mp4" type="video/mp4"></video><figcaption><strong>See inside: padding fades away, 19 in bag.</strong> The padding fades away to show the structure underneath. 10 s.<br>Known gap: the wrist joint still overlaps the glove in the source model; a real wrist connection is a later design step. <a href="v9-locked/films/padding_off_transition.mp4">Open MP4</a><br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+</div></section>
+<section id="s04"><h2>04 &mdash; Pictures</h2><p class="small">Tap a picture for the full-size image (1920&times;1080 PNG).</p>
+<h3>Padded</h3><div class="grid3">
+<figure><a class="full" href="v9-locked/renders/full/padded_483_front.png"><img loading="lazy" src="v9-locked/renders/padded_483_front.jpg" alt="Front, 19 in bag." width="1920" height="1080"></a><figcaption>Front, 19 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/padded_483_side.png"><img loading="lazy" src="v9-locked/renders/padded_483_side.jpg" alt="Side, 19 in bag." width="1920" height="1080"></a><figcaption>Side, 19 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/padded_483_rear_three_quarter.png"><img loading="lazy" src="v9-locked/renders/padded_483_rear_three_quarter.jpg" alt="Back three-quarter, 19 in bag." width="1920" height="1080"></a><figcaption>Back three-quarter, 19 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/padded_483_top.png"><img loading="lazy" src="v9-locked/renders/padded_483_top.jpg" alt="Top, 19 in bag." width="1920" height="1080"></a><figcaption>Top, 19 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/padded_483_back_closeup.png"><img loading="lazy" src="v9-locked/renders/padded_483_back_closeup.jpg" alt="Back close-up, 19 in bag. Slim back shell and narrow black shoulder covers." width="1920" height="1080"></a><figcaption>Back close-up, 19 in bag. Slim back shell and narrow black shoulder covers.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/padded_356_rear_three_quarter.png"><img loading="lazy" src="v9-locked/renders/padded_356_rear_three_quarter.jpg" alt="Back three-quarter, 14 in bag." width="1920" height="1080"></a><figcaption>Back three-quarter, 14 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+</div>
+<h3>Padding removed</h3><div class="grid3">
+<figure><a class="full" href="v9-locked/renders/full/exposed_483_front.png"><img loading="lazy" src="v9-locked/renders/exposed_483_front.jpg" alt="Front, 19 in bag, padding removed." width="1920" height="1080"></a><figcaption>Front, 19 in bag, padding removed.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/exposed_483_side.png"><img loading="lazy" src="v9-locked/renders/exposed_483_side.jpg" alt="Side, 19 in bag, padding removed." width="1920" height="1080"></a><figcaption>Side, 19 in bag, padding removed.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/exposed_483_rear_three_quarter.png"><img loading="lazy" src="v9-locked/renders/exposed_483_rear_three_quarter.jpg" alt="Back three-quarter, 19 in bag, padding removed." width="1920" height="1080"></a><figcaption>Back three-quarter, 19 in bag, padding removed.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/exposed_483_top.png"><img loading="lazy" src="v9-locked/renders/exposed_483_top.jpg" alt="Top, 19 in bag, padding removed." width="1920" height="1080"></a><figcaption>Top, 19 in bag, padding removed.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/exposed_483_shoulder_closeup.png"><img loading="lazy" src="v9-locked/renders/exposed_483_shoulder_closeup.jpg" alt="Shoulder close-up, padding removed. Bare root metal is a look-inside view only, not how the kit would be used." width="1920" height="1080"></a><figcaption>Shoulder close-up, padding removed. Bare root metal is a look-inside view only, not how the kit would be used.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+</div>
+<h3>X-ray (shell and bag see-through)</h3><div class="grid3">
+<figure><a class="full" href="v9-locked/renders/full/xray_483_rear_three_quarter.png"><img loading="lazy" src="v9-locked/renders/xray_483_rear_three_quarter.jpg" alt="Back three-quarter, x-ray, 19 in bag." width="1920" height="1080"></a><figcaption>Back three-quarter, x-ray, 19 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/xray_483_side.png"><img loading="lazy" src="v9-locked/renders/xray_483_side.jpg" alt="Side, x-ray, 19 in bag." width="1920" height="1080"></a><figcaption>Side, x-ray, 19 in bag.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+<figure><a class="full" href="v9-locked/renders/full/xray_483_back_closeup.png"><img loading="lazy" src="v9-locked/renders/xray_483_back_closeup.jpg" alt="Back close-up, x-ray. Battery placeholder and mounting strips." width="1920" height="1080"></a><figcaption>Back close-up, x-ray. Battery placeholder and mounting strips.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure>
+</div></section>
+<section id="s05"><h2>05 &mdash; What is under the padding</h2><figure><a class="full" href="v9-locked/renders/full/infrastructure_labeled.png"><img loading="lazy" src="v9-locked/renders/infrastructure_labeled.jpg" alt="Labeled view of the parts under the padding" width="1920" height="1080"></a><figcaption><strong>What is under the padding, in plain words.</strong> Bag and shell are see-through; only padding is removed. Missing equipment is listed bottom right and in the next section.<br><em>Prescribed motion, not measured force. Fit assumed.</em></figcaption></figure><ul class="plain">
+<li><strong>Soft air cells in each arm</strong>, held in knit sleeves, each with a short soft air feed. Eight cells per arm, the same as Model B.</li>
+<li><strong>Soft wrist cells and the glove.</strong></li>
+<li><strong>Elastic return strips</strong> that pull each arm back after it moves.</li>
+<li><strong>At each shoulder:</strong> a rounded anchor eye and an eight-channel air manifold. This is simple placeholder hardware, not a finished shoulder.</li>
+<li><strong>On the back:</strong> thin curved mounting strips, two back webs, soft backing pads, and two bag straps with rear buckles.</li>
+<li><strong>Under the back shell:</strong> a battery and dock placeholder.</li>
+<li>The bag and chains are the customer's, shown for context.</li></ul></section>
+<section id="s06"><h2>06 &mdash; Not in the model yet</h2><div class="notice critical"><strong>The computer model is not a working kit yet.</strong>These parts are not in the model:</div>
+<ul class="plain">
+<li><strong>No pump or compressor.</strong></li>
+<li><strong>No air tank.</strong></li>
+<li><strong>No control board</strong> or power electronics.</li>
+<li><strong>No full air lines and no wiring.</strong> Only short soft feeds and two manifolds are drawn.</li>
+<li><strong>The battery is a placeholder box</strong> (110 &times; 40 &times; 140 mm). No battery is chosen, so there is no size, capacity, or run time yet.</li>
+<li>No connectors, seals, fasteners, or service opening yet.</li>
+<li>Nothing has been built, fitted to a real bag, or force tested. Fit on any bag is assumed.</li></ul></section>
+<section id="s07"><h2>07 &mdash; Engineering numbers</h2><p class="small">All values are <strong>ASSUMPTION</strong>: nominal CAD geometry from the locked v9 model, not measured hardware. "Reach" means how far the shoulder covers stick out behind the back shell, not punch reach.</p>
+<div class="tablewrap"><table><tr><th>Item</th><th>Value (CAD assumption)</th><th>Limit</th></tr>
+<tr><td>Back shell distance off the bag</td><td>78 mm on both bag sizes</td><td>Shoulder covers not included</td></tr>
+<tr><td>Bag size range</td><td>356&ndash;483 mm (about 14&ndash;19 in)</td><td>Only the two end sizes are modeled. Soft or odd bags unverified</td></tr>
+<tr><td>Rear shoulder-cover reach</td><td>81.7 mm on both bag sizes (target 82 mm or less)</td><td>v9 file audit</td></tr>
+<tr><td>Each shoulder cover width</td><td>298.15 mm</td><td>Whole cover, not arm diameter</td></tr>
+<tr><td>Back shell width</td><td>423.8 mm on the 19 in bag</td><td>Mesh bounding width</td></tr>
+<tr><td>Smallest shoulder-cover gap to bag</td><td>3.2 mm (19 in) / 6.0 mm (14 in)</td><td>Static, against a perfect cylinder. Not a tolerance</td></tr>
+<tr><td>Smallest arm-tip gap to bag</td><td>46.0 mm (19 in) / 125.2 mm (14 in)</td><td>Static bound</td></tr>
+<tr><td>Battery placeholder</td><td>110 &times; 40 &times; 140 mm</td><td>No battery chosen</td></tr>
+<tr><td>Packaging mass</td><td>about 4.70 kg (19 in) / 4.75 kg (14 in)</td><td>Rough scenario. Excludes arms and all missing equipment. Full kit mass unknown</td></tr></table></div></section>
+<section id="s08"><h2>08 &mdash; What this does not prove</h2><p>This lock is about shape and look only. It does not prove punch force, air power, contact force, durability, or camera tracking. Critical items <strong>C-01</strong> and <strong>B-06</strong> stay <strong>OPEN</strong>. Physical fit, moving clearance, material and foam build, how the kit stays on the bag, and room for the missing equipment are all still unproven. See-through (x-ray) views are a rendering trick, not real transparent parts.</p></section>
+<section id="s09"><h2>09 &mdash; Design history v1 to v9</h2><ul class="plain">
+<li><strong>v1</strong> compared three rear-mount ideas using the original arms; picked the rear-outrigger direction.</li>
+<li><strong>v2</strong> restored Model B's materials and look; the 14 in bag showed a fit issue.</li>
+<li><strong>v3</strong> rounded and smoothed the battery shell.</li>
+<li><strong>v4</strong> merged the rear cover and shoulders into one shell (still 178.5 mm off the bag).</li>
+<li><strong>v5</strong> introduced the 78 mm slim shell, segmented rear mount, smaller battery assumption; modeled both bag sizes.</li>
+<li><strong>v6</strong> restored Model B's exact arm padding; rounded shoulder boots.</li>
+<li><strong>v7</strong> tucked the shoulder covers in.</li>
+<li><strong>v8</strong> made the shoulders rounder and smoother, with wider covers.</li>
+<li><strong>v9</strong> narrowed each shoulder cover by about 36.7 mm to 298.15 mm. <strong>Locked by Michael, 6 Oct 2026, 12:39 pm ET.</strong></li></ul></section>
+<section id="s10"><h2>10 &mdash; Spec and papers</h2><ul class="files">
+<li><a href="v9-locked/docs/MODEL_A_LOCKED_SPEC.html">Model A locked spec (v9)</a> &middot; Plain summary, numbers, parts list, history</li>
+<li><a href="v9-locked/docs/MODEL_A_LOCKED_SPEC.md">MODEL_A_LOCKED_SPEC.md</a> &middot; Same spec, markdown source</li>
+<li><a href="v9-locked/docs/EXECUTIVE_REVIEW.html">Executive review of the v10 media</a> &middot; What was delivered and checked</li>
+<li><a href="../model-b/">Earlier Model A page</a> &middot; 28 Sep saddle-and-ratchet design and papers (old path <code>ola/model-b/</code>, superseded shape)</li></ul>
+<p class="small">Source files (Blender model, part inventory, mass arithmetic, render scripts) live in <code>robotic-punching-bag</code> (private repo), branch <code>codex/model-a-mount-rethink-v1</code>, folder <code>reviews/2026-10-06/model-a-v10-locked-media/</code>. They are not published on this site.</p></section>
+<footer>Owner: Ola (Robotics). Model A, the universal bag kit (main product). Model B is the original integrated trainer. Design v9 locked 6 Oct 2026, 12:39 pm ET. Media: v10 pass, 6 Oct 2026. Engineering IDs (MB-01 to MB-09, B-06, C-01) are unchanged.</footer>
+</main></div></body></html>

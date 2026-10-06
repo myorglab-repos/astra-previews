@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Model A locked v9: executive review of v10 media</title><style>*{box-sizing:border-box}body{margin:0;background:#efede8;color:#252725;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:#9b2630}nav{background:#202422;padding:12px 20px;border-bottom:4px solid #a63035}nav a{color:#fff;margin-right:16px;font-size:14px;text-decoration:none}
+main{max-width:980px;margin:auto;padding:24px 18px 60px}h1{line-height:1.15}h2{margin-top:34px}
+.note{background:#fff8e9;border-left:4px solid #ad782b;padding:12px 16px;margin:16px 0;font-size:14px}
+.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;background:#faf9f5;font-size:14px}th,td{border-bottom:1px solid #d4d7cf;padding:9px;text-align:left;vertical-align:top}th{background:#e3e6de}
+code{font:13px ui-monospace,Consolas,monospace;overflow-wrap:anywhere}.unpub{border-bottom:1px dotted #777}</style></head><body>
+<nav><a href="../../">&larr; Model A page</a><a href="../../../start-here/">Start Here</a></nav>
+<main>
+<div class="note"><strong>Published copy, rendered from EXECUTIVE_REVIEW.md</strong> (text unchanged). The two films <code>orbit_shoulder_no_padding_closeup.mp4</code> and <code>padding_off_transition.mp4</code> linked below are the v10b re-renders (source commit 3a6979b), which replace the first renders. Known gap: the wrist joint still overlaps the glove in the source model; a real wrist connection is a later design step. The gallery it mentions is the <a href="../../">Model A page</a> on this site. Prescribed motion, not measured force. Fit assumed.</div>
+<h1>Locked v9 media — executive review</h1>
+<p>Pass <code>model-a-v10-locked-media-docs</code> is complete for digital media and documentation, with missing source equipment explicitly disclosed. The Model A design stays locked at v9. Six required camera-orbit films, one optional padding-fade film and 15 labeled 1920×1080 stills are in <a href="../../">INDEX.html</a>. The <a href="MODEL_A_LOCKED_SPEC.html">locked specification</a> records dimensions, assumptions, parts beneath the padding, v1–v9 history and a rough current packaging-only mass scenario. The root README now identifies Model A as the main universal-bag-kit product and Model B as the original integrated trainer.</p>
+<h2>Video delivery</h2>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>File</th>
+<th>Duration</th>
+<th>Frames</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../films/turntable_padded_483.mp4">turntable_padded_483.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+<tr>
+<td><a href="../films/turntable_padded_356.mp4">turntable_padded_356.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+<tr>
+<td><a href="../films/turntable_no_padding_483.mp4">turntable_no_padding_483.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+<tr>
+<td><a href="../films/turntable_no_padding_xray_483.mp4">turntable_no_padding_xray_483.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+<tr>
+<td><a href="../films/orbit_shoulder_no_padding_closeup.mp4">orbit_shoulder_no_padding_closeup.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+<tr>
+<td><a href="../films/turntable_no_padding_356.mp4">turntable_no_padding_356.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+<tr>
+<td><a href="../films/padding_off_transition.mp4">padding_off_transition.mp4</a></td>
+<td>10.000 s</td>
+<td>240</td>
+<td>1920×1080 / H.264 / 24 fps</td>
+</tr>
+</tbody>
+</table></div>
+<p>All six native films move only the camera through 360°. Product geometry and the bag remain at the locked frame-1 pose. The optional fade blends synchronized padded/exposed views; it is not a service procedure. The close shoulder orbit ghosts both bag and shell to avoid the bag obscuring the root for half the orbit. Lighting and source materials remain v9 except the disclosed ghost materials.</p>
+<h2>Acceptance evidence</h2>
+<ul>
+<li>Source v9 binary SHA256: <code>8ae10d0c3a0d649c2bee25728771b24d3b75117d779cd5d9af30850f37973367</code>.</li>
+<li>Audited N1 binary SHA256: <code>7a2da9e58991c822c981ecd677c902538389701ec1fe662ab878c2fd2f417e1b</code>.</li>
+<li>Both hashes match the preserved baseline records. No Blender source was saved or new part introduced.</li>
+<li>Both arms retain eight flexible chambers; distal parts remain flexible. The original guard/palm convention is unchanged.</li>
+<li>Exposed native views hide the 16 shoulder/arm/wrist padding and seam objects, keeping structural knit, return strips, saddles, gloves, straps and hardware.</li>
+<li>All delivered videos pass full decode, H.264/24 fps/240-frame/10-second/1920×1080 checks. All stills pass dimensions and image decode checks. Gallery links resolve locally.</li>
+<li>Geometry/world-transform fingerprints pass at five orbit samples, and after each still set. The transient surface cache preserves topology with only bounded floating-point evaluation differences documented in <span class="unpub">TOOLCHAIN_REPRO.md</span>&dagger;.</li>
+<li>Required padded, padding-off, shoulder-close and x-ray still views plus the plain-language callout are present. An extra rear x-ray close-up is included.</li>
+<li>Every overlay says “Prescribed motion — not measured force” and “Fit assumed.” No force, pressure, impulse or durability value has been fabricated.</li>
+</ul>
+<h2>Gaps and review request</h2>
+<p><strong>ASSUMPTION / missing in the locked source:</strong> compressor, tank/reservoir, control board/power electronics, complete supply tubing, wiring, connector/seal/fastener details and an engineered shell service opening. Existing bladder pigtails, wrist feeds and two manifold blocks are visible; they are not a complete pneumatic circuit. The battery is a volume placeholder. External rear segments/webs/straps/root eyes are shown as modeled; no missing yoke, bearing or clamp is invented.</p>
+<p>Ola: review media legibility and the disclosure of these gaps, then handle remote/Pages publication through the authorized workflow. Local commit and READY_FOR_OLA are recorded in the root chat archive after verification. This pass performs no push, Pages edit, spending or direct message; a marker is not evidence of notification delivery.</p>
+<p>The design lock and this media acceptance do not close C-01 or B-06. Track A does not prove strike impulse, pneumatic propulsion, contact force, durability or CV. Physical fit, material/foam construction, retention, complete equipment accommodation and dynamic clearance remain unqualified.</p>
+<p class="note">&dagger; Kept in <code>robotic-punching-bag</code> (private repo), branch <code>codex/model-a-mount-rethink-v1</code>, folder <code>reviews/2026-10-06/model-a-v10-locked-media/</code>; not published on this site.</p>
+</main></body></html>
