@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Model A locked v9 spec</title><style>*{box-sizing:border-box}body{margin:0;background:#efede8;color:#252725;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:#9b2630}nav{background:#202422;padding:12px 20px;border-bottom:4px solid #a63035}nav a{color:#fff;margin-right:16px;font-size:14px;text-decoration:none}
+main{max-width:980px;margin:auto;padding:24px 18px 60px}h1{line-height:1.15}h2{margin-top:34px}
+.note{background:#fff8e9;border-left:4px solid #ad782b;padding:12px 16px;margin:16px 0;font-size:14px}
+.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;background:#faf9f5;font-size:14px}th,td{border-bottom:1px solid #d4d7cf;padding:9px;text-align:left;vertical-align:top}th{background:#e3e6de}
+code{font:13px ui-monospace,Consolas,monospace;overflow-wrap:anywhere}.unpub{border-bottom:1px dotted #777}</style></head><body>
+<nav><a href="../../">&larr; Model A page</a><a href="../../../start-here/">Start Here</a></nav>
+<main>
+<div class="note"><strong>Published copy, rendered from MODEL_A_LOCKED_SPEC.md</strong> (text unchanged; <a href="MODEL_A_LOCKED_SPEC.md">markdown source</a>). Design v9 locked by Michael on 6 Oct 2026, 12:39 pm ET. All numbers are CAD assumptions. Fit is untested. Prescribed motion, not measured force. Fit assumed.</div>
+<h1>Model A — locked v9 design, v10 media</h1>
+<p>Model A is the main product: a universal-bag-kit concept that attaches two soft pneumatic arms and a shallow rear equipment cover to a customer's hanging bag. Michael locked the v9 appearance on 2026-10-06. “Universal” describes the product intent; actual fit, retention and operation have not been qualified. Model B is the original integrated trainer. Engineering part and defect IDs are unchanged.</p>
+<p>The locked design uses plain black narrow shoulder covers, black Model B/N1 arm padding and red gloves. The source is <span class="unpub">Model_A_Mount_v9_Narrow_Shoulders.blend</span>&dagger;. This packet changes visibility, camera position and ghost materials only. No product part is moved, resized or redesigned. The bag and all product parts stay stationary during the camera orbits.</p>
+<p>Each arm retains eight soft chambers: U1–U3 in the upper arm, F1–F3 in the forearm and T1–T2 at the soft wrist. Textile limits strain, with venting and elastic textile return as the operating intent. No distal metal, rigid elbow, wrist cam or bearing is introduced. The exposed root metal is a diagnostic padding-off view, not a proposed uncovered operating configuration. Guard palms remain inward, thumbs up and fists toward the fighter. Cross palm-down, hook palm-inward and uppercut palm-up remain the conventions; these films do not animate strikes.</p>
+<h2>Engineering dimensions and assumptions</h2>
+<p>Values below describe nominal CAD geometry or inherited assumptions, not measured hardware. “Reach” here means rear shoulder-cover projection beyond the rear shell plane, not punch reach.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Locked specification / assumption</th>
+<th>Evidence / limit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Central shell standoff</td>
+<td><strong>ASSUMPTION: 78 mm</strong> at both endpoints</td>
+<td>v9 geometry audit; does not include shoulder projection</td>
+</tr>
+<tr>
+<td>Bag diameter range</td>
+<td><strong>ASSUMPTION: 356–483 mm</strong>, approximately 14–19 in</td>
+<td>Two modeled endpoints; intervening sizes and compliant bags unverified</td>
+</tr>
+<tr>
+<td>Rear shoulder-cover reach</td>
+<td><strong>ASSUMPTION: 81.694 mm / 81.700 mm</strong> at 483 / 356 mm</td>
+<td>v9 saved-file audit; below the 82 mm design target</td>
+</tr>
+<tr>
+<td>Each shoulder cover width</td>
+<td><strong>ASSUMPTION: 298.150 mm</strong></td>
+<td>Both sides, both endpoints; complete cover width, not arm diameter</td>
+</tr>
+<tr>
+<td>Central shell width</td>
+<td><strong>ASSUMPTION: 423.757 mm</strong> at 483 mm bag</td>
+<td>Evaluated source mesh bounding width; separate from shoulder width</td>
+</tr>
+<tr>
+<td>Shoulder cover / bag minimum gap</td>
+<td><strong>ASSUMPTION: 3.199 mm / 5.998 mm</strong> at 483 / 356 mm</td>
+<td>Static polygon-to-nominal-cylinder gap; not tolerance allowance</td>
+</tr>
+<tr>
+<td>Distal arm / bag minimum gap</td>
+<td><strong>ASSUMPTION: 45.997 mm / 125.204 mm</strong></td>
+<td>Conservative static bound from v9 audit</td>
+</tr>
+<tr>
+<td>Arm / central-shell sampled minimum gap</td>
+<td><strong>ASSUMPTION: 89.339 mm / 99.004 mm</strong></td>
+<td>Vertex/surface sampling; lower bounds 80.405 / 89.961 mm; not dynamic clearance</td>
+</tr>
+<tr>
+<td>Battery placeholder</td>
+<td><strong>ASSUMPTION: 110 × 40 × 140 mm</strong> (width × depth × height)</td>
+<td>No selected battery, capacity or runtime</td>
+</tr>
+<tr>
+<td>Mass estimate</td>
+<td><strong>ASSUMPTION: v9 packaging subset ≈4.70 kg / 4.75 kg</strong> at 483 / 356 mm, including 0.65 kg assigned battery</td>
+<td>Surface/volume-density scenario only; excludes arms and missing equipment. Complete v9 mass unknown</td>
+</tr>
+</tbody>
+</table></div>
+<p>The <span class="unpub">v9 mass arithmetic</span>&dagger; reuses the assumptions from the <span class="unpub">v5 mass estimate</span>&dagger;: cover surfaces × 2 mm equivalent skin × 1100 kg/m³; rear mounting solids × 2700 kg/m³; straps × 350 kg/m³; backing × 250 kg/m³; polymer dock × 1100 kg/m³; battery assigned 0.65 kg. The central shell uses its outer base surface, avoiding the duplicate inner Solidify skin. Both shoulder envelopes use their evaluated surface areas. Interfaces can overlap and actual foam/laminate construction is undefined, so this is a rough scenario, not a manufacturing bill of materials.</p>
+<p>It excludes arms/root assemblies, filled bag, suspension, pump/reservoir, controllers, wiring, unmodeled fasteners and undefined foam stacks. Reusing it as a measured weight or complete product mass would be incorrect. The historical v5 estimate was 5.14 kg for its own packaging geometry; no measured weight saving is claimed. No pressure, force, impulse or life result is inferred in this pass.</p>
+<h2>What is actually beneath the padding</h2>
+<p>The complete named-object inventory is <span class="unpub">source_inventory.json</span>&dagger;. The native v9 endpoint scene has these parts:</p>
+<ul>
+<li>Twelve sealed flexible bladder meshes, each with a programmed-knit restraint sleeve and a short soft pigtail (six per arm).</li>
+<li>Four opposed soft wrist torsion cells, each with a short soft feed (two per arm).</li>
+<li>Upper/forearm proximal and distal textile saddles, elastic return strips, continuous retention webbing, soft wrist shear cores and textile/elastomer wrist cuffs.</li>
+<li>Two rounded root anchor eyes, two welded eye tabs and two eight-channel manifold blocks. These are schematic root hardware, not a completed qualified shoulder mechanism.</li>
+<li>Three thin curved rear mounting segments, two tapered rear webs, three flexible backing pieces, two soft bag straps and two low-profile rear buckles.</li>
+<li>One compact battery volume and one polymer dock volume beneath the rear shell. The battery is a packaging placeholder, not an internal cell model.</li>
+<li>Customer bag and suspension chains; these are context, not kit hardware.</li>
+</ul>
+<p>Padding-off views hide both v9 shoulder covers, all four upper/forearm contact sleeves, their eight decorative seam meshes and both wrist covers. The v9 shoulder covers already integrate the root-boot form; there is no separate root-boot object to hide. Structural programmed-knit sleeves, textile saddles, straps, return bands and gloves remain. Their presence must not be mistaken for unremoved contact padding. The shell remains opaque in ordinary exposed views and is ghosted with the bag in x-ray views and the shoulder orbit.</p>
+<p><strong>ASSUMPTION / missing:</strong> no compressor, tank/reservoir, control board, power electronics, full supply plumbing, complete wiring, connectors, engineered shell opening or complete fastener/seal details exist in the locked endpoint scenes. Individual soft feeds and the manifold blocks exist, but a routed operating pneumatic circuit does not. No internal/yaw clamp or new yoke is invented: the visible rear segments, webs, straps and root eyes are the existing external mounting concept. Geometry in older scenes is not silently imported to fill these gaps.</p>
+<h2>Design history</h2>
+<ul>
+<li><strong>v1:</strong> compared three external rear-mount concepts using intact N1 arms; concept B established the rear-outrigger direction.</li>
+<li><strong>v2:</strong> restored the Model B materials and look; the 356 mm endpoint exposed a fit issue.</li>
+<li><strong>v3:</strong> rounded and smoothed the rear battery shell; retained battery size prevented the suggested slim depth.</li>
+<li><strong>v4:</strong> combined the rear cover and shoulder transitions into one shell; central standoff remained 178.5 mm.</li>
+<li><strong>v5:</strong> introduced the 78 mm slim shell, segmented rear mount and smaller battery assumption; modeled both endpoint bags.</li>
+<li><strong>v6:</strong> restored exact Model B arm padding and rounded shoulder boots/adapters.</li>
+<li><strong>v7:</strong> tucked the shoulder covers; fixed manifolds prevented the 30 mm rear-cover target.</li>
+<li><strong>v8:</strong> made the shoulders rounder and smoother, with wider covers.</li>
+<li><strong>v9:</strong> narrowed each cover by about 36.72 mm to 298.15 mm while preserving other parts; Michael locked this design.</li>
+</ul>
+<h2>Verification boundary</h2>
+<p>The source v9 and audited N1 hashes are preserved. Geometry fingerprints check that camera and visibility work does not alter product meshes or transforms. The videos are ten-second, 24 fps camera orbits, not physical arm motion. Render-only ghost materials do not represent real transparency or a manufactured section.</p>
+<p>Track A does not prove strike impulse, pneumatic propulsion, contact force, durability or CV. C-01 and B-06 remain OPEN. Physical fit, dynamic clearance, manufacturing thickness, retention and system packaging remain unqualified. The existing authorized Model A external accessory layout is preserved; the original Model B retains stationary fill and carrier-only yaw. No product rotation or new drive is introduced here.</p>
+<p class="note">&dagger; Kept in <code>robotic-punching-bag</code> (private repo), branch <code>codex/model-a-mount-rethink-v1</code>, folder <code>reviews/2026-10-06/model-a-v10-locked-media/</code>; not published on this site.</p>
+</main></body></html>
