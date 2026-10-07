@@ -117,26 +117,30 @@ ul.plain li{margin:6px 0}
 <li><strong>On the back:</strong> thin curved mounting strips, two back webs, soft backing pads, and two bag straps with rear buckles.</li>
 <li><strong>Under the back shell:</strong> a battery and dock placeholder.</li>
 <li>The bag and chains are the customer's, shown for context.</li></ul></section>
-<section id="s06"><h2>06 &mdash; Not in the model yet</h2><div class="notice critical"><strong>The computer model is not a working kit yet.</strong>These parts are not in the model:</div>
+<section id="s06"><h2>06 &mdash; Not in the model yet</h2><div class="notice critical"><strong>The computer model now shows a full air and power pack, but it is not a working kit.</strong>The pack parts are assumed placeholder volumes, not selected or certified hardware. These items are still open:</div>
 <ul class="plain">
-<li><strong>No pump or compressor.</strong></li>
-<li><strong>No air tank.</strong></li>
-<li><strong>No control board</strong> or power electronics.</li>
-<li><strong>No full air lines and no wiring.</strong> Only short soft feeds and two manifolds are drawn.</li>
-<li><strong>The battery is a placeholder box</strong> (110 &times; 40 &times; 140 mm). No battery is chosen, so there is no size, capacity, or run time yet.</li>
-<li>No connectors, seals, fasteners, or service opening yet.</li>
-<li>Nothing has been built, fitted to a real bag, or force tested. Fit on any bag is assumed.</li></ul></section>
-<section id="s07"><h2>07 &mdash; Engineering numbers</h2><p class="small">All values are <strong>ASSUMPTION</strong>: nominal CAD geometry from the locked v9 model, not measured hardware. "Reach" means how far the shoulder covers stick out behind the back shell, not punch reach.</p>
-<div class="tablewrap"><table><tr><th>Item</th><th>Value (CAD assumption)</th><th>Limit</th></tr>
-<tr><td>Back shell distance off the bag</td><td>78 mm on both bag sizes</td><td>Shoulder covers not included</td></tr>
-<tr><td>Bag size range</td><td>356&ndash;483 mm (about 14&ndash;19 in)</td><td>Only the two end sizes are modeled. Soft or odd bags unverified</td></tr>
-<tr><td>Rear shoulder-cover reach</td><td>81.7 mm on both bag sizes (target 82 mm or less)</td><td>v9 file audit</td></tr>
-<tr><td>Each shoulder cover width</td><td>298.15 mm</td><td>Whole cover, not arm diameter</td></tr>
-<tr><td>Back shell width</td><td>423.8 mm on the 19 in bag</td><td>Mesh bounding width</td></tr>
-<tr><td>Smallest shoulder-cover gap to bag</td><td>3.2 mm (19 in) / 6.0 mm (14 in)</td><td>Static, against a perfect cylinder. Not a tolerance</td></tr>
-<tr><td>Smallest arm-tip gap to bag</td><td>46.0 mm (19 in) / 125.2 mm (14 in)</td><td>Static bound</td></tr>
-<tr><td>Battery placeholder</td><td>110 &times; 40 &times; 140 mm</td><td>No battery chosen</td></tr>
-<tr><td>Packaging mass</td><td>about 4.70 kg (19 in) / 4.75 kg (14 in)</td><td>Rough scenario. Excludes arms and all missing equipment. Full kit mass unknown</td></tr></table></div></section>
+<li><strong>Real hose routing, grommets and padding inside the pack are not designed yet.</strong> This work is in progress as v12. The closed-shell films hide the air lines and wiring inside the pack; that is a display choice, not a real re-route.</li>
+<li><strong>Left glove thumb:</strong> a known gap in the source glove model (SOURCE GAP). It has not been remodeled.</li>
+<li><strong>Strike impulse is not proven.</strong> These are Track A computer visualizations only. They do not prove air power, strike impulse, contact force, durability or camera tracking.</li>
+<li><strong>Critical items B-06, C-01, SAF-02 and HY-02 stay OPEN.</strong></li>
+<li><strong>No parts chosen yet.</strong> No compressor, tank, valve, board or battery model has been selected. The relief valve, dump valve and battery latch are shown as intent only, with no ratings.</li>
+<li>Nothing has been built, fitted to a real bag, or tested. Fit on any bag is assumed.</li></ul></section>
+<section id="s07"><h2>07 &mdash; Engineering numbers</h2><p class="small">All values are <strong>ASSUMPTION</strong>: CAD envelopes and design estimates for the v11 air and power pack (carried unchanged through v11d, v11e and v11f), not supplier specifications or measured hardware. Envelopes are width &times; depth &times; height. No pressure, force, runtime or strike figures are given; none has been measured. Locked v9 shoulder and arm dimensions are in the locked spec (section 10).</p>
+<div class="tablewrap"><table><tr><th>Item</th><th>Value (ASSUMPTION)</th><th>Limit</th><th>Source</th></tr>
+<tr><td>Central back shell distance off the bag (standoff)</td><td>108 mm</td><td>ASSUMPTION. Up from 78 mm in v9 (+30 mm) to fit the assumed pack. The first 10 mm step that fits this layout, not a global minimum. Shoulder covers and arms keep the locked v9 shape.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Radial inner margin at 108 mm</td><td>16.81 mm (19 in bag) / 9.80 mm (14 in bag)</td><td>Computed CAD quantities, not measurements or physical clearance tests. 78, 88 and 98 mm did not fit.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Bag size endpoints</td><td>356 and 483 mm (about 14 and 19 in)</td><td>Only the two end sizes are modeled.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Compressor</td><td>120 &times; 66 &times; 94 mm envelope</td><td>ASSUMPTION. Motor can 50 mm diameter &times; 73 mm long; pump head 36 &times; 52 &times; 60 mm.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Tank (reservoir)</td><td>140 &times; 50 &times; 50 mm envelope</td><td>ASSUMPTION. Body 44 mm diameter &times; 126 mm long.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Valve stack</td><td>16 valve positions; 60 &times; 38 &times; 140 mm envelope</td><td>ASSUMPTION. Each valve 21 &times; 21 &times; 13 mm. Feeds the two eight-channel shoulder manifolds.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Board / IMU</td><td>Board 60 &times; 20 &times; 140 mm envelope</td><td>ASSUMPTION. Circuit board 56 &times; 3 &times; 132 mm; IMU 14 mm diameter &times; 5 mm.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Battery</td><td>110 &times; 40 &times; 140 mm envelope</td><td>ASSUMPTION. Removable enclosed power-tool-style battery; internal cells not modeled. No battery chosen.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Battery dock</td><td>120 &times; 6 &times; 156 mm envelope</td><td>ASSUMPTION.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Air lines and wiring (as drawn)</td><td>Supply and vent tubes 4 mm outside diameter; channel lines 2.4 mm; wiring loom 4&ndash;5 mm; 16 channel routes</td><td>Visible schematic diameters, not selected hose sizes or bend-radius requirements.</td><td>PACK_LAYOUT; v11 EXECUTIVE_REVIEW</td></tr>
+<tr><td>Soft air cells</td><td>8 per arm (U1&ndash;U3, F1&ndash;F3, T1&ndash;T2); 16 in total</td><td>The wrist cells are part of the eight, not extra cells.</td><td>PACK_LAYOUT; v11d VISUAL_QA; v11e VISUAL_QA</td></tr>
+<tr><td>Gap between major pack parts</td><td>At least 23.00 mm (bounding boxes); smallest sampled gap to the shell 9.79 mm</td><td>Static CAD check. Hoses, bend radii, tolerances, service access and moving clearance are not closed.</td><td>PACK_LAYOUT</td></tr>
+<tr><td>Packaging mass scenario</td><td>about 6.521 kg (19 in) / 6.590 kg (14 in)</td><td>Arithmetic scenario, not weighed hardware or full product mass. Includes 1.685 kg of new lumped allowances for pump, tank, valves, board, sensors, hoses and wiring, plus the 0.65 kg battery allowance.</td><td>PACK_LAYOUT</td></tr>
+</table></div><p class="small">Sources in <code>robotic-punching-bag</code>, branch <code>codex/model-a-mount-rethink-v1</code> at <code>dfda5f5</code>: <strong>PACK_LAYOUT</strong>: <code>reviews/2026-10-06/model-a-v11-full-pack/PACK_LAYOUT.md</code> &middot; <strong>v11 EXECUTIVE_REVIEW</strong>: <code>reviews/2026-10-06/model-a-v11-full-pack/EXECUTIVE_REVIEW.md</code> &middot; <strong>v11d VISUAL_QA</strong>: <code>reviews/2026-10-07/model-a-v11d-bare-arm-structure/VISUAL_QA.md</code> &middot; <strong>v11e VISUAL_QA</strong>: <code>reviews/2026-10-07/model-a-v11e-exposed-motion-readable/VISUAL_QA.md</code>.</p></section>
 <section id="s08"><h2>08 &mdash; What this does not prove</h2><p>This lock is about shape and look only. It does not prove punch force, air power, contact force, durability, or camera tracking. Critical items <strong>C-01</strong> and <strong>B-06</strong> stay <strong>OPEN</strong>. Physical fit, moving clearance, material and foam build, how the kit stays on the bag, and room for the missing equipment are all still unproven. See-through (x-ray) views are a rendering trick, not real transparent parts.</p></section>
 <section id="s09"><h2>09 &mdash; Design history v1 to v9</h2><ul class="plain">
 <li><strong>v1</strong> compared three rear-mount ideas using the original arms; picked the rear-outrigger direction.</li>
